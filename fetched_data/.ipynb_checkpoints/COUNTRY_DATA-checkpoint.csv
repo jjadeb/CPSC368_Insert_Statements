@@ -1,0 +1,2000 @@
+,Year,Country,GHG_Emissions
+1,Afghanistan                                                 ,Eastern Mediterranean Region                      ,AFG
+2,Albania                                                     ,European Region                                   ,ALB
+3,Andorra                                                     ,European Region                                   ,AND
+4,United Arab Emirates                                        ,Eastern Mediterranean Region                      ,ARE
+5,Argentina                                                   ,Region of the Americas                            ,ARG
+6,Australia                                                   ,Western Pacific Region                            ,AUS
+7,Austria                                                     ,European Region                                   ,AUT
+8,Belgium                                                     ,European Region                                   ,BEL
+9,Bangladesh                                                  ,South East Asia Region                            ,BGD
+10,Bulgaria                                                    ,European Region                                   ,BGR
+11,Bahrain                                                     ,Eastern Mediterranean Region                      ,BHR
+12,Bahamas                                                     ,Region of the Americas                            ,BHS
+13,Bosnia and Herzegovina                                      ,European Region                                   ,BIH
+14,Bolivia                                                     ,Region of the Americas                            ,BOL
+15,Brazil                                                      ,Region of the Americas                            ,BRA
+16,Bhutan                                                      ,South East Asia Region                            ,BTN
+17,Canada                                                      ,Region of the Americas                            ,CAN
+18,Switzerland                                                 ,European Region                                   ,CHE
+19,Chile                                                       ,Region of the Americas                            ,CHL
+20,China                                                       ,Western Pacific Region                            ,CHN
+21,Cameroon                                                    ,African Region                                    ,CMR
+22,Colombia                                                    ,Region of the Americas                            ,COL
+23,Costa Rica                                                  ,Region of the Americas                            ,CRI
+24,Cuba                                                        ,Region of the Americas                            ,CUB
+25,Cyprus                                                      ,European Region                                   ,CYP
+26,Czech Republic                                              ,European Region                                   ,CZE
+27,Germany                                                     ,European Region                                   ,DEU
+28,Denmark                                                     ,European Region                                   ,DNK
+29,Algeria                                                     ,African Region                                    ,DZA
+30,Ecuador                                                     ,Region of the Americas                            ,ECU
+31,Egypt                                                       ,Eastern Mediterranean Region                      ,EGY
+32,Spain                                                       ,European Region                                   ,ESP
+33,Estonia                                                     ,European Region                                   ,EST
+34,Ethiopia                                                    ,African Region                                    ,ETH
+35,Finland                                                     ,European Region                                   ,FIN
+36,Fiji                                                        ,Western Pacific Region                            ,FJI
+37,France                                                      ,European Region                                   ,FRA
+38,United Kingdom                                              ,European Region                                   ,GBR
+39,Georgia                                                     ,European Region                                   ,GEO
+40,Ghana                                                       ,African Region                                    ,GHA
+41,Greece                                                      ,European Region                                   ,GRC
+42,Guatemala                                                   ,Region of the Americas                            ,GTM
+43,Honduras                                                    ,Region of the Americas                            ,HND
+44,Croatia                                                     ,European Region                                   ,HRV
+45,Hungary                                                     ,European Region                                   ,HUN
+46,Indonesia                                                   ,South East Asia Region                            ,IDN
+47,India                                                       ,South East Asia Region                            ,IND
+48,Ireland                                                     ,European Region                                   ,IRL
+49,Iran (Islamic Republic of)                                  ,Eastern Mediterranean Region                      ,IRN
+50,Iraq                                                        ,Eastern Mediterranean Region                      ,IRQ
+51,Iceland                                                     ,European Region                                   ,ISL
+52,Israel                                                      ,European Region                                   ,ISR
+53,Italy                                                       ,European Region                                   ,ITA
+54,Jamaica                                                     ,Region of the Americas                            ,JAM
+55,Jordan                                                      ,Eastern Mediterranean Region                      ,JOR
+56,Japan                                                       ,Western Pacific Region                            ,JPN
+57,Kazakhstan                                                  ,European Region                                   ,KAZ
+58,Kenya                                                       ,African Region                                    ,KEN
+59,Kyrgyzstan                                                  ,European Region                                   ,KGZ
+60,Republic of Korea                                           ,Western Pacific Region                            ,KOR
+61,Kuwait                                                      ,Eastern Mediterranean Region                      ,KWT
+62,North Korea                                                 ,,
+63,South Sudan                                                 ,,
+64,Botswana                                                    ,,
+65,Democratic People's Republic of Korea                       ,,
+66,S��o Tom�� and Pr��ncipe                        ,,
+67,Mali                                                        ,,
+68,Gibraltar                                                   ,,
+69,Zambia                                                      ,,
+70,Niue                                                        ,,
+71,Angola                                                      ,,
+72,Benin                                                       ,,
+73,Nicaragua                                                   ,,
+74,R��union                                                ,,
+75,Liberia                                                     ,,
+76,Tuvalu                                                      ,,
+77,Spain and Andorra                                           ,,
+78,Yemen                                                       ,,
+79,"Italy, San Marino and the Holy See                          ",,
+80,C��te d'Ivoire                                          ,,
+81,Turks and Caicos Islands                                    ,,
+82,Aruba                                                       ,,
+83,Vanuatu                                                     ,,
+84,Cura��ao                                                ,,
+85,Gabon                                                       ,,
+86,Guyana                                                      ,,
+87,State of Palestine                                          ,,
+88,Kiribati                                                    ,,
+89,Martinique                                                  ,,
+90,Comoros                                                     ,,
+91,Republic of Yemen                                           ,,
+92,France and Monaco                                           ,,
+93,Brunei Darussalam                                           ,,
+94,Armenia                                                     ,,
+95,Somalia                                                     ,,
+96,Suriname                                                    ,,
+97,Moldova                                                     ,,
+98,Niger                                                       ,,
+99,Switzerland and Liechtenstein                               ,,
+100,British Virgin Islands                                      ,,
+101,Sudan                                                       ,,
+102,Timor-Leste                                                 ,,
+103,Guinea-Bissau                                               ,,
+104,Falkland Islands                                            ,,
+105,Namibia                                                     ,,
+106,Micronesia                                                  ,,
+107,Dominica                                                    ,,
+108,Serbia and Montenegro                                       ,,
+109,Kosovo                                                      ,,
+110,French Polynesia                                            ,,
+111,"Saint Helena, Ascension and Tristan da Cunha                ",,
+112,Congo                                                       ,,
+113,Chinese Taipei                                              ,,
+114,Cabo Verde                                                  ,,
+115,Bermuda                                                     ,,
+116,Cook Islands                                                ,,
+117,Syria                                                       ,,
+118,Marshall Islands                                            ,,
+119,Cambodia                                                    ,,
+120,Oman                                                        ,,
+121,Grenada                                                     ,,
+122,French Guiana                                               ,,
+123,Timor Leste                                                 ,,
+124,Dominican Republic                                          ,,
+125,Taiwan                                                      ,,
+126,Zimbabwe                                                    ,,
+127,Seychelles                                                  ,,
+128,Equatorial Guinea                                           ,,
+129,Gambia                                                      ,,
+130,Guinea                                                      ,,
+131,Sierra Leone                                                ,,
+132,Guadeloupe                                                  ,,
+133,Democratic Republic of the Congo                            ,,
+134,Rwanda                                                      ,,
+135,The Bahamas                                                 ,,
+136,Haiti                                                       ,,
+137,Burundi                                                     ,,
+138,Burkina Faso                                                ,,
+139,Belarus                                                     ,,
+140,New Caledonia                                               ,,
+141,Azerbaijan                                                  ,,
+142,St.Vincent and the Grenadines                               ,,
+143,Djibouti                                                    ,,
+144,Lesotho                                                     ,,
+145,Hong Kong                                                   ,,
+146,Eritrea                                                     ,,
+147,Solomon Islands                                             ,,
+148,Greenland                                                   ,,
+149,Samoa                                                       ,,
+150,Syrian Arab Republic                                        ,,
+151,Malawi                                                      ,,
+152,Belize                                                      ,,
+153,Macao                                                       ,,
+154,Papua New Guinea                                            ,,
+155,Palau                                                       ,,
+156,St.Kitts and Nevis                                          ,,
+157,St.Lucia                                                    ,,
+158,Nauru                                                       ,,
+159,Barbados                                                    ,,
+160,United States                                               ,,
+161,Cape Verde                                                  ,,
+162,Mauritania                                                  ,,
+163,Western Sahara                                              ,,
+164,Puerto Rico                                                 ,,
+165,Eswatini                                                    ,,
+166,Mozambique                                                  ,,
+167,Guinea Bissau                                               ,,
+168,Sao Tome and Principe                                       ,,
+169,Central African Republic                                    ,,
+170,San Marino                                                  ,,
+171,St.Pierre and Miquelon                                      ,,
+172,Libya                                                       ,,
+173,Holy See                                                    ,,
+174,Togo                                                        ,,
+175,Democratic Republic of Congo                                ,,
+176,Tonga                                                       ,,
+177,Faroes                                                      ,,
+178,"Israel and Palestine, State of                              ",,
+179,Lao People's Democratic Republic                            ,Western Pacific Region                            ,LAO
+180,Lebanon                                                     ,Eastern Mediterranean Region                      ,LBN
+181,Liechtenstein                                               ,NULL                                              ,LIE
+182,Sri Lanka                                                   ,South East Asia Region                            ,LKA
+183,Lithuania                                                   ,European Region                                   ,LTU
+184,Luxembourg                                                  ,European Region                                   ,LUX
+185,Latvia                                                      ,European Region                                   ,LVA
+186,Morocco                                                     ,Eastern Mediterranean Region                      ,MAR
+187,Monaco                                                      ,European Region                                   ,MCO
+188,Madagascar                                                  ,African Region                                    ,MDG
+189,Maldives                                                    ,South East Asia Region                            ,MDV
+190,Mexico                                                      ,Region of the Americas                            ,MEX
+191,North Macedonia                                             ,European Region                                   ,MKD
+192,Malta                                                       ,European Region                                   ,MLT
+193,Myanmar                                                     ,South East Asia Region                            ,MMR
+194,Montenegro                                                  ,European Region                                   ,MNE
+195,Mongolia                                                    ,Western Pacific Region                            ,MNG
+196,Mauritius                                                   ,African Region                                    ,MUS
+197,Malaysia                                                    ,Western Pacific Region                            ,MYS
+198,Nigeria                                                     ,African Region                                    ,NGA
+199,Netherlands                                                 ,European Region                                   ,NLD
+200,Norway                                                      ,European Region                                   ,NOR
+201,Nepal                                                       ,South East Asia Region                            ,NPL
+202,New Zealand                                                 ,Western Pacific Region                            ,NZL
+203,Pakistan                                                    ,Eastern Mediterranean Region                      ,PAK
+204,Panama                                                      ,Region of the Americas                            ,PAN
+205,Peru                                                        ,Region of the Americas                            ,PER
+206,Philippines                                                 ,Western Pacific Region                            ,PHL
+207,Poland                                                      ,European Region                                   ,POL
+208,Portugal                                                    ,European Region                                   ,PRT
+209,Paraguay                                                    ,Region of the Americas                            ,PRY
+210,Qatar                                                       ,Eastern Mediterranean Region                      ,QAT
+211,Romania                                                     ,European Region                                   ,ROU
+212,Russian Federation                                          ,European Region                                   ,RUS
+213,Saudi Arabia                                                ,Eastern Mediterranean Region                      ,SAU
+214,Senegal                                                     ,African Region                                    ,SEN
+215,Singapore                                                   ,Western Pacific Region                            ,SGP
+216,El Salvador                                                 ,Region of the Americas                            ,SLV
+217,Serbia                                                      ,European Region                                   ,SRB
+218,Slovakia                                                    ,European Region                                   ,SVK
+219,Slovenia                                                    ,European Region                                   ,SVN
+220,Sweden                                                      ,European Region                                   ,SWE
+221,Thailand                                                    ,South East Asia Region                            ,THA
+222,Tajikistan                                                  ,European Region                                   ,TJK
+223,Turkmenistan                                                ,European Region                                   ,TKM
+224,Trinidad and Tobago                                         ,Region of the Americas                            ,TTO
+225,Tunisia                                                     ,Eastern Mediterranean Region                      ,TUN
+226,Turkey                                                      ,European Region                                   ,TUR
+227,Tanzania                                                    ,African Region                                    ,TZA
+228,Uganda                                                      ,African Region                                    ,UGA
+229,Ukraine                                                     ,European Region                                   ,UKR
+230,Uruguay                                                     ,Region of the Americas                            ,URY
+231,United States of America                                    ,Region of the Americas                            ,USA
+232,Uzbekistan                                                  ,European Region                                   ,UZB
+233,Venezuela                                                   ,Region of the Americas                            ,VEN
+234,Viet Nam                                                    ,Western Pacific Region                            ,VNM
+235,South Africa                                                ,African Region                                    ,ZAF
+236,Sudan and South Sudan                                       ,,
+237,Chad                                                        ,,
+238,Cayman Islands                                              ,,
+239,Antigua and Barbuda                                         ,,
+240,Anguilla                                                    ,,
+241,1972,Azerbaijan                                                  ,9.41215246
+242,1972,Burundi                                                     ,0.67082661
+243,1972,Belgium                                                     ,17.7267517
+244,1972,Benin                                                       ,0.92874753
+245,1972,Burkina Faso                                                ,1.1183106
+246,1972,Bangladesh                                                  ,1.87152488
+247,1972,Bulgaria                                                    ,11.0737758
+248,1972,Bahrain                                                     ,84.3662165
+249,1972,Bahamas                                                     ,10.6220166
+250,1972,Bosnia and Herzegovina                                      ,4.25487753
+251,1972,Belarus                                                     ,9.6641238
+252,1972,Belize                                                      ,2.6241069
+253,1972,Bermuda                                                     ,3.68117162
+254,1972,Bolivia                                                     ,7.11777969
+255,1972,Brazil                                                      ,3.93876158
+256,1972,Barbados                                                    ,2.51773285
+257,1972,Brunei Darussalam                                           ,26.6568851
+258,1972,Bhutan                                                      ,2.37970307
+259,1972,Botswana                                                    ,5.60078593
+260,1972,Central African Republic                                    ,1.04572373
+261,1972,Canada                                                      ,22.4459496
+262,1972,Switzerland and Liechtenstein                               ,8.59577915
+263,1972,Chile                                                       ,5.67107705
+264,1972,China                                                       ,2.62879611
+265,1972,C��te d'Ivoire                                          ,1.26122218
+266,1972,Cameroon                                                    ,1.17887068
+267,1972,Democratic Republic of the Congo                            ,0.64613935
+268,1972,Congo                                                       ,2.1109259
+269,1972,Cook Islands                                                ,1.32573692
+270,1972,Colombia                                                    ,3.98339529
+271,1972,Comoros                                                     ,1.03263109
+272,1972,Cabo Verde                                                  ,0.91723203
+273,1972,Costa Rica                                                  ,3.35402237
+274,1972,Cuba                                                        ,4.93654141
+275,1972,Cayman Islands                                              ,4.04794651
+276,1972,Cyprus                                                      ,5.53340926
+277,1972,Czech Republic                                              ,22.0385111
+278,1972,Germany                                                     ,16.9851454
+279,1972,Djibouti                                                    ,5.70389759
+280,1972,Dominica                                                    ,0.61791252
+281,1972,Denmark                                                     ,15.5423092
+282,1972,Dominican Republic                                          ,2.51033102
+283,1971,Guinea-Bissau                                               ,1.18358528
+284,1971,Equatorial Guinea                                           ,0.38126789
+285,1971,Greece                                                      ,5.38928727
+286,1971,Grenada                                                     ,0.69853934
+287,1971,Greenland                                                   ,1.12651575
+288,1971,Guatemala                                                   ,1.62808991
+289,1971,French Guiana                                               ,2.46026422
+290,1971,Guyana                                                      ,7.02867067
+291,1971,Hong Kong                                                   ,3.12791699
+292,1971,Honduras                                                    ,2.19381918
+293,1971,Croatia                                                     ,6.49537229
+294,1971,Haiti                                                       ,1.37460207
+295,1971,Hungary                                                     ,9.04633782
+296,1971,Indonesia                                                   ,1.87139484
+297,1971,India                                                       ,1.45292713
+298,1971,Ireland                                                     ,14.3787139
+299,1971,Iran (Islamic Republic of)                                  ,7.46475396
+300,1971,Iraq                                                        ,10.235228
+301,1971,Iceland                                                     ,16.2719268
+302,1971,"Israel and Palestine, State of                              ",17.9378248
+303,1971,"Italy, San Marino and the Holy See                          ",7.64384336
+304,1971,Jamaica                                                     ,4.9454273
+305,1971,Jordan                                                      ,2.13081482
+306,1971,Japan                                                       ,9.51044278
+307,1971,Kazakhstan                                                  ,19.8273419
+308,1971,Kenya                                                       ,2.17672964
+309,1971,Kyrgyzstan                                                  ,6.8749684
+310,1971,Cambodia                                                    ,3.086373
+311,1971,Kiribati                                                    ,0.53596549
+312,1971,St.Kitts and Nevis                                          ,1.50459643
+313,1971,Republic of Korea                                           ,3.16062406
+314,1971,Kuwait                                                      ,94.792409
+315,1971,Lao People's Democratic Republic                            ,2.57325169
+316,1971,Lebanon                                                     ,3.03512103
+317,1971,Liberia                                                     ,1.16368215
+318,1971,Libya                                                       ,53.7300607
+319,1971,St.Lucia                                                    ,0.89564595
+320,1971,Sri Lanka                                                   ,1.59959559
+321,1971,Lesotho                                                     ,1.78686744
+322,1971,Lithuania                                                   ,9.30184019
+323,1971,Luxembourg                                                  ,52.6230522
+324,1971,Latvia                                                      ,7.72872078
+325,1971,Macao                                                       ,1.45635402
+326,1971,Morocco                                                     ,1.51384782
+327,1971,Moldova                                                     ,5.83465802
+328,1971,Madagascar                                                  ,2.96198097
+329,1971,Maldives                                                    ,0.2765304
+330,1971,Mexico                                                      ,4.09302971
+331,1971,North Macedonia                                             ,6.75531798
+332,1971,Mali                                                        ,2.05560238
+333,1971,Malta                                                       ,2.49022823
+334,1971,Myanmar                                                     ,2.64426314
+335,1971,Mongolia                                                    ,12.3426806
+336,1971,Mozambique                                                  ,1.11711496
+337,1971,Mauritania                                                  ,4.69476468
+338,1971,Martinique                                                  ,1.27864982
+339,1971,Mauritius                                                   ,1.12502501
+340,1971,Malawi                                                      ,0.60150064
+341,1971,Malaysia                                                    ,3.066463
+342,1971,Namibia                                                     ,8.26473629
+343,1971,New Caledonia                                               ,12.3284618
+344,1971,Niger                                                       ,2.51413331
+345,1971,Nigeria                                                     ,3.5219436
+346,1971,Nicaragua                                                   ,3.57226801
+347,1971,Netherlands                                                 ,14.018744
+348,1971,Norway                                                      ,13.7304002
+349,1971,Nepal                                                       ,2.0937474
+350,1971,New Zealand                                                 ,19.353197
+351,1971,Oman                                                        ,18.9518179
+352,1971,Pakistan                                                    ,1.7644639
+353,1971,Panama                                                      ,4.20392367
+354,1971,Peru                                                        ,2.94033136
+355,1971,Philippines                                                 ,2.52158787
+356,1971,Palau                                                       ,184.478802
+357,1971,Papua New Guinea                                            ,0.73192955
+358,1971,Poland                                                      ,15.1452045
+359,1971,Puerto Rico                                                 ,11.9412138
+360,1971,North Korea                                                 ,6.80112347
+361,1971,Portugal                                                    ,3.53025313
+362,1971,Paraguay                                                    ,4.33119899
+363,1971,French Polynesia                                            ,1.88090882
+364,1971,Qatar                                                       ,233.797374
+365,1971,R��union                                                ,1.04604817
+366,1971,Romania                                                     ,8.81391376
+367,1971,Russian Federation                                          ,14.8381652
+368,1971,Rwanda                                                      ,1.13652996
+369,1971,Saudi Arabia                                                ,14.400927
+370,1971,Serbia and Montenegro                                       ,5.40746558
+371,1971,Sudan and South Sudan                                       ,2.79469094
+372,1971,Senegal                                                     ,1.85119089
+373,1971,Singapore                                                   ,3.6503675
+374,1971,"Saint Helena, Ascension and Tristan da Cunha                ",0.78325972
+375,1971,Solomon Islands                                             ,0.88830088
+376,1971,Sierra Leone                                                ,1.2029727
+377,1970,"Italy, San Marino and the Holy See                          ",7.38996678
+378,1970,Jamaica                                                     ,5.02026632
+379,1970,Jordan                                                      ,2.17022169
+380,1970,Japan                                                       ,9.74195865
+381,1970,Kazakhstan                                                  ,19.7910745
+382,1970,Kenya                                                       ,2.21394328
+383,1970,Kyrgyzstan                                                  ,6.754806
+384,1970,Cambodia                                                    ,3.76005288
+385,1970,Kiribati                                                    ,0.53186826
+386,1970,St.Kitts and Nevis                                          ,1.45795163
+387,1970,Republic of Korea                                           ,3.20776279
+388,1970,Kuwait                                                      ,98.2123838
+389,1970,Lao People's Democratic Republic                            ,2.68553732
+390,1970,Lebanon                                                     ,3.03252545
+391,1970,Liberia                                                     ,1.17822413
+392,1970,Libya                                                       ,61.7055237
+393,1970,St.Lucia                                                    ,0.88385647
+394,1970,Sri Lanka                                                   ,1.6428336
+395,1970,Lesotho                                                     ,1.91179148
+396,1970,Lithuania                                                   ,9.10176575
+397,1970,Luxembourg                                                  ,56.67233
+398,1970,Latvia                                                      ,7.6070466
+399,1970,Macao                                                       ,1.4680328
+400,1970,Morocco                                                     ,1.50103092
+401,1970,Moldova                                                     ,5.80672726
+402,1970,Madagascar                                                  ,3.19047143
+403,1970,Maldives                                                    ,0.27258602
+404,1970,Mexico                                                      ,4.18942327
+405,1970,North Macedonia                                             ,7.15216432
+406,1970,Mali                                                        ,2.04950888
+407,1970,Malta                                                       ,2.47318884
+408,1970,Myanmar                                                     ,2.71936008
+409,1970,Mongolia                                                    ,12.4117896
+410,1970,Mozambique                                                  ,1.12392671
+411,1970,Mauritania                                                  ,4.9569555
+412,1970,Martinique                                                  ,1.25233436
+413,1970,Mauritius                                                   ,1.09233843
+414,1970,Malawi                                                      ,0.59499836
+415,1970,Malaysia                                                    ,3.06669169
+416,1970,Namibia                                                     ,8.38596449
+417,1970,New Caledonia                                               ,12.8441661
+418,1970,Niger                                                       ,2.50761837
+419,1970,Nigeria                                                     ,3.33473816
+420,1970,Nicaragua                                                   ,3.84673517
+421,1970,Netherlands                                                 ,14.0280782
+422,1970,Norway                                                      ,14.2414286
+423,1970,Nepal                                                       ,2.10968482
+424,1970,New Zealand                                                 ,20.3227234
+425,1970,Oman                                                        ,19.5790853
+426,1970,Pakistan                                                    ,1.80740345
+427,1970,Panama                                                      ,4.20012366
+428,1970,Peru                                                        ,2.95147076
+429,1970,Philippines                                                 ,2.53243362
+430,1970,Palau                                                       ,187.256876
+431,1970,Papua New Guinea                                            ,0.73411679
+432,1970,Poland                                                      ,14.9084135
+433,1970,Puerto Rico                                                 ,11.3121105
+434,1970,North Korea                                                 ,6.94554345
+435,1970,Portugal                                                    ,3.44191104
+436,1970,Paraguay                                                    ,4.30895281
+437,1970,French Polynesia                                            ,1.92818989
+438,1970,Qatar                                                       ,221.838917
+439,1970,R��union                                                ,1.06527924
+440,1970,Romania                                                     ,8.79464929
+441,1970,Russian Federation                                          ,14.6854579
+442,1970,Rwanda                                                      ,1.15815166
+443,1970,Saudi Arabia                                                ,13.0765753
+444,1970,Serbia and Montenegro                                       ,5.3406326
+445,1970,Sudan and South Sudan                                       ,2.82206138
+446,1970,Senegal                                                     ,1.88383952
+447,1970,Singapore                                                   ,3.69066252
+448,1970,"Saint Helena, Ascension and Tristan da Cunha                ",0.79193987
+449,1970,Solomon Islands                                             ,0.85503569
+450,1970,Sierra Leone                                                ,1.1908836
+451,1970,El Salvador                                                 ,1.62549564
+452,1970,Somalia                                                     ,5.43095274
+453,1970,St.Pierre and Miquelon                                      ,7.64726697
+454,1970,S��o Tom�� and Pr��ncipe                        ,0.54956859
+455,1970,Suriname                                                    ,5.58986503
+456,1970,Slovakia                                                    ,12.7607881
+457,1970,Slovenia                                                    ,8.86976467
+458,1970,Sweden                                                      ,14.430608
+459,1970,Eswatini                                                    ,4.25491151
+460,1970,Seychelles                                                  ,2.58487728
+461,1970,Syria                                                       ,2.50712157
+462,1970,Turks and Caicos Islands                                    ,0.91686333
+463,1970,Chad                                                        ,2.49682486
+464,1970,Togo                                                        ,0.94317673
+465,1970,Thailand                                                    ,3.26382837
+466,1970,Tajikistan                                                  ,4.53665775
+467,1970,Turkmenistan                                                ,20.5351191
+468,1970,Timor-Leste                                                 ,1.1820356
+469,1970,Tonga                                                       ,0.93579999
+470,1970,Trinidad and Tobago                                         ,9.97542262
+471,1972,Palau                                                       ,181.3971
+472,1972,Papua New Guinea                                            ,0.7576712
+473,1972,Poland                                                      ,15.5521352
+474,1972,Puerto Rico                                                 ,14.1893355
+475,1972,North Korea                                                 ,6.84015388
+476,1972,Portugal                                                    ,3.57320119
+477,1972,Paraguay                                                    ,4.36184673
+478,1972,French Polynesia                                            ,1.90299185
+479,1972,Qatar                                                       ,252.466657
+480,1972,R��union                                                ,1.04256286
+481,1972,Romania                                                     ,9.0190798
+482,1972,Russian Federation                                          ,15.396047
+483,1972,Rwanda                                                      ,1.13081218
+484,1972,Saudi Arabia                                                ,17.5868341
+485,1972,Serbia and Montenegro                                       ,5.34120874
+486,1972,Sudan and South Sudan                                       ,2.76905188
+487,1972,Senegal                                                     ,1.73559177
+488,1972,Singapore                                                   ,4.21492602
+489,1972,"Saint Helena, Ascension and Tristan da Cunha                ",0.66862056
+490,1972,Solomon Islands                                             ,0.87308843
+491,1972,Sierra Leone                                                ,1.16985817
+492,1972,El Salvador                                                 ,1.60929761
+493,1972,Somalia                                                     ,5.4486596
+494,1972,St.Pierre and Miquelon                                      ,8.8652043
+495,1972,S��o Tom�� and Pr��ncipe                        ,0.52377428
+496,1972,Suriname                                                    ,5.46385823
+497,1972,Slovakia                                                    ,12.7720813
+498,1972,Slovenia                                                    ,8.67086997
+499,1972,Sweden                                                      ,13.4855081
+500,1972,Eswatini                                                    ,4.2215224
+501,1972,Seychelles                                                  ,2.56366475
+502,1972,Syria                                                       ,2.39996022
+503,1972,Turks and Caicos Islands                                    ,1.02935082
+504,1972,Chad                                                        ,2.57643878
+505,1972,Togo                                                        ,0.93123997
+506,1972,Thailand                                                    ,3.08003571
+507,1972,Tajikistan                                                  ,4.56836326
+508,1972,Turkmenistan                                                ,20.4165293
+509,1972,Timor-Leste                                                 ,1.24115472
+510,1972,Tonga                                                       ,0.91886052
+511,1972,Trinidad and Tobago                                         ,10.0841201
+512,1972,Tunisia                                                     ,2.26454945
+513,1972,Turkey                                                      ,3.15742522
+514,1972,Taiwan                                                      ,3.83014614
+515,1972,Tanzania                                                    ,1.50860583
+516,1972,Uganda                                                      ,1.37102718
+517,1972,Ukraine                                                     ,14.541122
+518,1972,Uruguay                                                     ,10.5076703
+519,1972,United States                                               ,27.6271884
+520,1972,Uzbekistan                                                  ,9.07910408
+521,1972,St.Vincent and the Grenadines                               ,0.64642676
+522,1972,Venezuela                                                   ,8.13306607
+523,1972,British Virgin Islands                                      ,1.07923923
+524,1972,Viet Nam                                                    ,2.0682088
+525,1972,Vanuatu                                                     ,3.60913809
+526,1972,Samoa                                                       ,1.18522263
+527,1972,Yemen                                                       ,1.02111058
+528,1972,South Africa                                                ,10.3917012
+529,1972,Zambia                                                      ,3.05566085
+530,1972,Zimbabwe                                                    ,4.06729684
+531,1973,Aruba                                                       ,1.09302842
+532,1973,Afghanistan                                                 ,1.3274298
+533,1973,Angola                                                      ,3.34927799
+534,1973,Anguilla                                                    ,0.64085075
+535,1973,Albania                                                     ,3.74412032
+536,1973,Cura��ao                                                ,109.052209
+537,1973,United Arab Emirates                                        ,125.990506
+538,1973,Argentina                                                   ,9.59031254
+539,1973,Armenia                                                     ,6.4726399
+540,1973,Antigua and Barbuda                                         ,2.85962216
+541,1973,Australia                                                   ,25.2529415
+542,1973,Austria                                                     ,10.7013093
+543,1973,Azerbaijan                                                  ,9.75296398
+544,1973,Burundi                                                     ,0.68045403
+545,1973,Belgium                                                     ,18.2737517
+546,1973,Benin                                                       ,0.95532017
+547,1973,Burkina Faso                                                ,1.04990602
+548,1973,Bangladesh                                                  ,1.86035746
+549,1973,Bulgaria                                                    ,11.14936
+550,1973,Bahrain                                                     ,86.5815224
+551,1973,Bahamas                                                     ,10.3887478
+552,1973,Bosnia and Herzegovina                                      ,4.5213573
+553,1973,Belarus                                                     ,10.1156386
+554,1973,Belize                                                      ,2.62208009
+555,1973,Bermuda                                                     ,3.68406257
+556,1973,Bolivia                                                     ,7.33388377
+557,1973,Brazil                                                      ,4.11423307
+558,1973,Barbados                                                    ,2.53982336
+559,1973,Brunei Darussalam                                           ,34.5900524
+560,1973,Bhutan                                                      ,2.34698825
+561,1973,Botswana                                                    ,5.715063
+562,1973,Central African Republic                                    ,1.05743485
+563,1973,Canada                                                      ,23.3189848
+564,1973,Switzerland and Liechtenstein                               ,9.16933526
+565,1973,Chile                                                       ,5.4942623
+566,1973,China                                                       ,2.62116424
+567,1973,C��te d'Ivoire                                          ,1.23876215
+568,1973,Cameroon                                                    ,1.15586932
+569,1973,Democratic Republic of the Congo                            ,0.6418164
+570,1973,Congo                                                       ,7.78903973
+571,1973,Cook Islands                                                ,1.55915898
+572,1973,Colombia                                                    ,3.9857037
+573,1973,Comoros                                                     ,1.03265228
+574,1973,Cabo Verde                                                  ,0.9273195
+575,1973,Costa Rica                                                  ,3.58992116
+576,1973,Cuba                                                        ,5.12528792
+577,1973,Cayman Islands                                              ,4.06752237
+578,1973,Cyprus                                                      ,5.65803078
+579,1973,Czech Republic                                              ,21.7385953
+580,1973,Germany                                                     ,17.6467862
+581,1973,Djibouti                                                    ,5.53643287
+582,1973,Dominica                                                    ,0.6359742
+583,1973,Denmark                                                     ,15.3622655
+584,1973,Dominican Republic                                          ,2.48400456
+585,1973,Algeria                                                     ,6.05252344
+586,1973,Ecuador                                                     ,2.81945734
+587,1973,Egypt                                                       ,1.60391458
+588,1973,Eritrea                                                     ,2.14168181
+589,1973,Western Sahara                                              ,1.56043092
+590,1973,Spain and Andorra                                           ,6.20502002
+591,1973,Estonia                                                     ,16.3770023
+592,1973,Ethiopia                                                    ,1.76239927
+593,1973,Finland                                                     ,16.0375025
+594,1973,Fiji                                                        ,3.03246142
+595,1973,Falkland Islands                                            ,2.32045652
+596,1973,France and Monaco                                           ,13.4576513
+597,1973,Faroes                                                      ,1.14212522
+598,1973,Gabon                                                       ,19.1761727
+599,1973,United Kingdom                                              ,15.8844217
+600,1973,Georgia                                                     ,6.7790825
+601,1973,Ghana                                                       ,0.88206338
+602,1973,Gibraltar                                                   ,2.53307271
+603,1973,Guinea                                                      ,1.25944531
+604,1973,Guadeloupe                                                  ,1.55251514
+605,1973,Gambia                                                      ,1.48116147
+606,1973,Guinea-Bissau                                               ,1.21907545
+607,1973,Equatorial Guinea                                           ,0.34159952
+608,1973,Greece                                                      ,6.53975077
+609,1973,Grenada                                                     ,0.71256389
+610,1973,Greenland                                                   ,1.12733508
+611,1973,Guatemala                                                   ,1.67306472
+612,1973,French Guiana                                               ,2.71747064
+613,1973,Guyana                                                      ,7.0989769
+614,1973,Hong Kong                                                   ,3.13948236
+615,1973,Honduras                                                    ,2.17560199
+616,1973,Croatia                                                     ,6.7309645
+617,1973,Haiti                                                       ,1.34665888
+618,1973,Hungary                                                     ,9.67486686
+619,1973,Indonesia                                                   ,1.95094601
+620,1973,India                                                       ,1.42039676
+621,1973,Ireland                                                     ,14.0222238
+622,1973,Iran (Islamic Republic of)                                  ,9.02984715
+623,1973,Iraq                                                        ,10.9392307
+624,1973,Iceland                                                     ,20.5503122
+625,1973,"Israel and Palestine, State of                              ",17.8715629
+626,1973,"Italy, San Marino and the Holy See                          ",8.29972521
+627,1973,Jamaica                                                     ,5.05059514
+628,1973,Jordan                                                      ,1.96949003
+629,1973,Japan                                                       ,10.6732494
+630,1973,Kazakhstan                                                  ,20.4502385
+631,1973,Kenya                                                       ,2.12233078
+632,1973,Kyrgyzstan                                                  ,7.18637907
+633,1973,Cambodia                                                    ,1.82301065
+634,1973,Kiribati                                                    ,0.63862755
+635,1973,St.Kitts and Nevis                                          ,1.57237717
+636,1973,Republic of Korea                                           ,3.58768128
+637,1973,Kuwait                                                      ,79.7047931
+638,1973,Lao People's Democratic Republic                            ,2.38912667
+639,1973,Lebanon                                                     ,3.69114954
+640,1973,Liberia                                                     ,1.16049059
+641,1973,Libya                                                       ,39.0817636
+642,1973,St.Lucia                                                    ,0.94289253
+643,1973,Sri Lanka                                                   ,1.57548755
+644,1973,Lesotho                                                     ,1.66281092
+645,1973,Lithuania                                                   ,10.0816413
+646,1973,Luxembourg                                                  ,54.9451959
+647,1973,Latvia                                                      ,8.35993348
+648,1973,Macao                                                       ,1.80383992
+649,1973,Morocco                                                     ,1.56828906
+650,1973,Moldova                                                     ,6.28411997
+651,1973,Madagascar                                                  ,2.9249004
+652,1973,Maldives                                                    ,0.30475644
+653,1973,Mexico                                                      ,4.3070831
+654,1973,North Macedonia                                             ,7.42201871
+655,1973,Mali                                                        ,1.67694884
+656,1973,Malta                                                       ,2.91415448
+657,1973,Myanmar                                                     ,2.53222495
+658,1973,Mongolia                                                    ,11.7429498
+659,1973,Mozambique                                                  ,1.06448472
+660,1975,India                                                       ,1.44286171
+661,1975,Ireland                                                     ,14.045121
+662,1975,Iran (Islamic Republic of)                                  ,8.50335565
+663,1975,Iraq                                                        ,11.6158398
+664,1975,Iceland                                                     ,18.5154345
+665,1975,"Israel and Palestine, State of                              ",17.9660252
+666,1975,"Italy, San Marino and the Holy See                          ",7.88560077
+667,1975,Jamaica                                                     ,4.36787641
+668,1975,Jordan                                                      ,2.13002796
+669,1975,Japan                                                       ,9.83956074
+670,1975,Kazakhstan                                                  ,20.8012083
+671,1975,Kenya                                                       ,2.02758066
+672,1975,Kyrgyzstan                                                  ,7.57224184
+673,1975,Cambodia                                                    ,1.66616577
+674,1975,Kiribati                                                    ,0.64290917
+675,1975,St.Kitts and Nevis                                          ,1.61324383
+676,1975,Republic of Korea                                           ,3.88646244
+677,1975,Kuwait                                                      ,50.2097076
+678,1975,Lao People's Democratic Republic                            ,2.27102988
+679,1975,Lebanon                                                     ,3.2220498
+680,1975,Liberia                                                     ,1.16642012
+681,1975,Libya                                                       ,26.5424677
+682,1975,St.Lucia                                                    ,0.95937467
+683,1975,Sri Lanka                                                   ,1.39498687
+684,1975,Lesotho                                                     ,1.69346522
+685,1975,Lithuania                                                   ,11.0116609
+686,1975,Luxembourg                                                  ,40.4842026
+687,1975,Latvia                                                      ,9.15410243
+688,1975,Macao                                                       ,1.86072416
+689,1975,Morocco                                                     ,1.60621896
+690,1975,Moldova                                                     ,6.83163011
+691,1975,Madagascar                                                  ,2.85326868
+692,1975,Maldives                                                    ,0.31131475
+693,1975,Mexico                                                      ,4.62234819
+694,1975,North Macedonia                                             ,6.36104466
+695,1975,Mali                                                        ,1.62909289
+696,1975,Malta                                                       ,2.44877881
+697,1975,Myanmar                                                     ,2.46813227
+698,1975,Mongolia                                                    ,12.0535738
+699,1975,Mozambique                                                  ,0.97189585
+700,1975,Mauritania                                                  ,3.38462614
+701,1975,Martinique                                                  ,1.48834715
+702,1975,Mauritius                                                   ,1.22490066
+703,1975,Malawi                                                      ,0.63748059
+704,1975,Malaysia                                                    ,3.2397952
+705,1975,Namibia                                                     ,6.23202619
+706,1975,New Caledonia                                               ,12.8400626
+707,1975,Niger                                                       ,1.90928857
+708,1975,Nigeria                                                     ,3.90826059
+709,1975,Nicaragua                                                   ,3.60036192
+710,1975,Netherlands                                                 ,14.7155247
+711,1975,Norway                                                      ,14.1239967
+712,1975,Nepal                                                       ,2.044958
+713,1975,New Zealand                                                 ,19.7187691
+714,1975,Oman                                                        ,38.6780049
+715,1975,Pakistan                                                    ,1.79384706
+716,1975,Panama                                                      ,4.34451893
+717,1975,Peru                                                        ,2.82732889
+718,1975,Philippines                                                 ,2.43623539
+719,1975,Palau                                                       ,175.12387
+720,1975,Papua New Guinea                                            ,0.83895283
+721,1975,Poland                                                      ,17.1004984
+722,1975,Puerto Rico                                                 ,13.3346186
+723,1975,North Korea                                                 ,7.05052485
+724,1975,Portugal                                                    ,3.79583152
+725,1975,Paraguay                                                    ,4.60537236
+726,1975,French Polynesia                                            ,2.00853739
+727,1975,Qatar                                                       ,184.582502
+728,1975,R��union                                                ,1.14455108
+729,1975,Romania                                                     ,10.3007519
+730,1975,Russian Federation                                          ,17.5575742
+731,1975,Rwanda                                                      ,1.11301882
+732,1975,Saudi Arabia                                                ,17.8851462
+733,1975,Serbia and Montenegro                                       ,6.18350261
+734,1975,Sudan and South Sudan                                       ,2.8541121
+735,1975,Senegal                                                     ,1.6790806
+736,1975,Singapore                                                   ,4.62050296
+737,1975,"Saint Helena, Ascension and Tristan da Cunha                ",0.66841775
+738,1975,Solomon Islands                                             ,0.97260661
+739,1975,Sierra Leone                                                ,1.15141628
+740,1975,El Salvador                                                 ,1.61886465
+741,1975,Somalia                                                     ,5.13825352
+742,1975,St.Pierre and Miquelon                                      ,9.2307018
+743,1975,S��o Tom�� and Pr��ncipe                        ,0.5445249
+744,1975,Suriname                                                    ,5.771378
+745,1975,Slovakia                                                    ,13.0851214
+746,1975,Slovenia                                                    ,9.88656045
+747,1975,Sweden                                                      ,13.0393005
+748,1975,Eswatini                                                    ,4.20442501
+749,1975,Seychelles                                                  ,2.77263376
+750,1975,Syria                                                       ,3.12397455
+751,1975,Turks and Caicos Islands                                    ,1.02677769
+752,1975,Chad                                                        ,1.89449982
+753,1973,Mauritania                                                  ,3.99956483
+754,1973,Martinique                                                  ,1.43005483
+755,1973,Mauritius                                                   ,1.18993729
+756,1973,Malawi                                                      ,0.62173836
+757,1973,Malaysia                                                    ,3.01880442
+758,1973,Namibia                                                     ,8.01446948
+759,1973,New Caledonia                                               ,13.6634961
+760,1973,Niger                                                       ,1.86836742
+761,1973,Nigeria                                                     ,4.45946875
+762,1973,Nicaragua                                                   ,3.5500223
+763,1973,Netherlands                                                 ,15.8349685
+764,1973,Norway                                                      ,14.8698981
+765,1973,Nepal                                                       ,2.07255708
+766,1973,New Zealand                                                 ,20.2530341
+767,1973,Oman                                                        ,17.8048411
+768,1973,Pakistan                                                    ,1.75003755
+769,1973,Panama                                                      ,4.40379792
+770,1973,Peru                                                        ,2.80909297
+771,1973,Philippines                                                 ,2.60433139
+772,1973,Palau                                                       ,178.483453
+773,1973,Papua New Guinea                                            ,0.8434546
+774,1973,Poland                                                      ,16.1901325
+775,1973,Puerto Rico                                                 ,15.5175233
+776,1973,North Korea                                                 ,6.82941395
+777,1973,Portugal                                                    ,3.79302953
+778,1973,Paraguay                                                    ,4.49205339
+779,1973,French Polynesia                                            ,2.09585365
+780,1973,Qatar                                                       ,264.120664
+781,1973,R��union                                                ,1.07204451
+782,1973,Romania                                                     ,9.6343851
+783,1973,Russian Federation                                          ,16.1078181
+784,1973,Rwanda                                                      ,1.12964157
+785,1973,Saudi Arabia                                                ,22.1110625
+786,1973,Serbia and Montenegro                                       ,5.65751379
+787,1973,Sudan and South Sudan                                       ,2.91463236
+788,1973,Senegal                                                     ,1.64954491
+789,1973,Singapore                                                   ,4.58066894
+790,1973,"Saint Helena, Ascension and Tristan da Cunha                ",0.71375468
+791,1973,Solomon Islands                                             ,0.94776258
+792,1973,Sierra Leone                                                ,1.14989989
+793,1973,El Salvador                                                 ,1.56994877
+794,1973,Somalia                                                     ,5.35471339
+795,1973,St.Pierre and Miquelon                                      ,8.78884124
+796,1973,S��o Tom�� and Pr��ncipe                        ,0.53174852
+797,1973,Suriname                                                    ,6.181399
+798,1973,Slovakia                                                    ,12.922637
+799,1973,Slovenia                                                    ,9.58411371
+800,1973,Sweden                                                      ,13.8701518
+801,1973,Eswatini                                                    ,4.23486384
+802,1973,Seychelles                                                  ,2.59640318
+803,1973,Syria                                                       ,2.22416345
+804,1973,Turks and Caicos Islands                                    ,1.01726824
+805,1973,Chad                                                        ,2.29176342
+806,1973,Togo                                                        ,0.88119001
+807,1973,Thailand                                                    ,3.25386593
+808,1973,Tajikistan                                                  ,4.62597939
+809,1973,Turkmenistan                                                ,20.8435318
+810,1973,Timor-Leste                                                 ,1.22919522
+811,1973,Tonga                                                       ,1.01938691
+812,1973,Trinidad and Tobago                                         ,10.3517057
+813,1973,Tunisia                                                     ,2.24232199
+814,1973,Turkey                                                      ,3.2442684
+815,1973,Taiwan                                                      ,4.03658481
+816,1973,Tanzania                                                    ,1.47284404
+817,1973,Uganda                                                      ,1.36240347
+818,1973,Ukraine                                                     ,15.1009379
+819,1973,Uruguay                                                     ,10.7815389
+820,1973,United States                                               ,28.3070815
+821,1973,Uzbekistan                                                  ,9.26769506
+822,1973,St.Vincent and the Grenadines                               ,0.65622386
+823,1973,Venezuela                                                   ,8.73731105
+824,1973,British Virgin Islands                                      ,1.07533476
+825,1973,Viet Nam                                                    ,2.10529432
+826,1973,Vanuatu                                                     ,3.94635866
+827,1973,Samoa                                                       ,1.27588873
+828,1973,Yemen                                                       ,1.05163056
+829,1973,South Africa                                                ,10.8789331
+830,1973,Zambia                                                      ,3.05332832
+831,1973,Zimbabwe                                                    ,4.21514345
+832,1974,Aruba                                                       ,1.07566538
+833,1974,Afghanistan                                                 ,1.40230027
+834,1974,Angola                                                      ,3.35590938
+835,1974,Anguilla                                                    ,0.67473814
+836,1974,Albania                                                     ,3.7765781
+837,1974,Cura��ao                                                ,98.0300676
+838,1974,United Arab Emirates                                        ,109.165333
+839,1974,Argentina                                                   ,9.45619129
+840,1974,Armenia                                                     ,6.63834877
+841,1974,Antigua and Barbuda                                         ,2.62560815
+842,1974,Australia                                                   ,26.0122623
+843,1974,Austria                                                     ,10.3712768
+844,1974,Azerbaijan                                                  ,10.0556299
+845,1974,Burundi                                                     ,0.68001441
+846,1974,Belgium                                                     ,18.2511454
+847,1974,Benin                                                       ,0.92932057
+848,1974,Burkina Faso                                                ,1.04996611
+849,1974,Bangladesh                                                  ,1.81308095
+850,1974,Bulgaria                                                    ,11.2044935
+851,1974,Bahrain                                                     ,88.7206877
+852,1974,Bahamas                                                     ,9.01314645
+853,1974,Bosnia and Herzegovina                                      ,4.83639883
+854,1974,Belarus                                                     ,10.5418094
+855,1974,Belize                                                      ,2.62502167
+856,1974,Bermuda                                                     ,3.31333977
+857,1974,Bolivia                                                     ,7.14511261
+858,1974,Brazil                                                      ,4.28046607
+859,1974,Barbados                                                    ,2.3433812
+860,1974,Brunei Darussalam                                           ,37.3462675
+861,1974,Bhutan                                                      ,2.31638696
+862,1974,Botswana                                                    ,6.26723964
+863,1974,Central African Republic                                    ,1.10169978
+864,1974,Canada                                                      ,23.3715544
+865,1974,Switzerland and Liechtenstein                               ,8.37521306
+866,1974,Chile                                                       ,5.23969737
+867,1974,China                                                       ,2.59386534
+868,1974,C��te d'Ivoire                                          ,1.22083637
+869,1974,Cameroon                                                    ,1.15518592
+870,1974,Democratic Republic of the Congo                            ,0.64292889
+871,1974,Congo                                                       ,10.3701386
+872,1974,Cook Islands                                                ,1.89281375
+873,1974,Colombia                                                    ,4.02645686
+874,1974,Comoros                                                     ,1.03766689
+875,1974,Cabo Verde                                                  ,0.96049979
+876,1974,Costa Rica                                                  ,3.51192812
+877,1974,Cuba                                                        ,5.25463531
+878,1974,Cayman Islands                                              ,3.64639247
+879,1974,Cyprus                                                      ,4.44354253
+880,1974,Czech Republic                                              ,19.9890767
+881,1974,Germany                                                     ,17.2330403
+882,1974,Djibouti                                                    ,5.51964659
+883,1974,Dominica                                                    ,0.6376625
+884,1974,Denmark                                                     ,14.2294495
+885,1974,Dominican Republic                                          ,2.61547416
+886,1974,Algeria                                                     ,5.29575114
+887,1974,Ecuador                                                     ,2.91220121
+888,1974,Egypt                                                       ,1.68728571
+889,1974,Eritrea                                                     ,2.06781136
+890,1974,Western Sahara                                              ,1.66318101
+891,1974,Spain and Andorra                                           ,6.52240882
+892,1974,Estonia                                                     ,17.0600684
+893,1974,Ethiopia                                                    ,1.71542958
+894,1974,Finland                                                     ,15.1373601
+895,1974,Fiji                                                        ,3.37534227
+896,1974,Falkland Islands                                            ,2.11553245
+897,1974,France and Monaco                                           ,12.9868179
+898,1974,Faroes                                                      ,1.1313442
+899,1974,Gabon                                                       ,23.0189402
+900,1974,United Kingdom                                              ,15.0310089
+901,1974,Georgia                                                     ,6.94327803
+902,1974,Ghana                                                       ,0.91942877
+903,1974,Gibraltar                                                   ,2.52072547
+904,1974,Guinea                                                      ,1.28455954
+905,1974,Guadeloupe                                                  ,1.48941455
+906,1974,Gambia                                                      ,1.50034618
+907,1974,Guinea-Bissau                                               ,1.33415697
+908,1974,Equatorial Guinea                                           ,0.37629154
+909,1974,Greece                                                      ,6.50763062
+910,1974,Grenada                                                     ,0.68709931
+911,1974,Greenland                                                   ,1.13288786
+912,1974,Guatemala                                                   ,1.61829829
+913,1974,French Guiana                                               ,2.39786288
+914,1974,Guyana                                                      ,7.14401836
+915,1974,Hong Kong                                                   ,3.43927869
+916,1974,Honduras                                                    ,2.1920345
+917,1974,Croatia                                                     ,6.98710865
+918,1974,Haiti                                                       ,1.32271035
+919,1974,Hungary                                                     ,9.91867614
+920,1974,Indonesia                                                   ,1.95537475
+921,1974,India                                                       ,1.42452725
+922,1974,Ireland                                                     ,14.7371723
+923,1974,Iran (Islamic Republic of)                                  ,9.15460823
+924,1974,Iraq                                                        ,10.5865303
+925,1974,Iceland                                                     ,19.9543809
+926,1974,"Israel and Palestine, State of                              ",13.5560075
+927,1974,"Italy, San Marino and the Holy See                          ",8.25693346
+928,1974,Jamaica                                                     ,5.13044597
+929,1974,Jordan                                                      ,2.02792647
+930,1974,Japan                                                       ,10.4864965
+931,1974,Kazakhstan                                                  ,20.5869639
+932,1974,Kenya                                                       ,2.07770013
+933,1974,Kyrgyzstan                                                  ,7.36321321
+934,1974,Cambodia                                                    ,1.50934238
+935,1974,Kiribati                                                    ,0.73916684
+936,1974,St.Kitts and Nevis                                          ,1.53497207
+937,1974,Republic of Korea                                           ,3.70550785
+938,1974,Kuwait                                                      ,62.8441135
+939,1974,Lao People's Democratic Republic                            ,2.37650779
+940,1974,Lebanon                                                     ,3.63133681
+941,1974,Liberia                                                     ,1.17220565
+942,1974,Libya                                                       ,26.6419087
+943,1974,St.Lucia                                                    ,0.89846499
+944,1974,Sri Lanka                                                   ,1.63172334
+945,1974,Lesotho                                                     ,1.6829193
+946,1974,Lithuania                                                   ,10.4689645
+947,1974,Luxembourg                                                  ,50.7016964
+948,1974,Latvia                                                      ,8.67572908
+949,1974,Macao                                                       ,2.18179167
+950,1974,Morocco                                                     ,1.58315
+951,1974,Moldova                                                     ,6.51210662
+952,1974,Madagascar                                                  ,2.89072253
+953,1974,Maldives                                                    ,0.32788055
+954,1974,Mexico                                                      ,4.51486074
+955,1974,North Macedonia                                             ,7.57162942
+956,1974,Mali                                                        ,1.52934056
+957,1974,Malta                                                       ,2.68189467
+958,1974,Myanmar                                                     ,2.48536291
+959,1974,Mongolia                                                    ,11.9338035
+960,1974,Mozambique                                                  ,1.03027968
+961,1974,Mauritania                                                  ,3.38474597
+962,1974,Martinique                                                  ,1.35951225
+963,1974,Mauritius                                                   ,1.23352814
+964,1974,Malawi                                                      ,0.63322041
+965,1974,Malaysia                                                    ,3.15471141
+966,1974,Namibia                                                     ,8.51394874
+967,1974,New Caledonia                                               ,15.2129243
+968,1974,Niger                                                       ,1.8329914
+969,1974,Nigeria                                                     ,4.88538898
+970,1974,Nicaragua                                                   ,3.62641602
+971,1974,Netherlands                                                 ,15.3964985
+972,1974,Norway                                                      ,14.5291328
+973,1974,Nepal                                                       ,2.05602345
+974,1974,New Zealand                                                 ,20.2867944
+975,1974,Oman                                                        ,17.4926813
+976,1974,Pakistan                                                    ,1.7628786
+977,1974,Panama                                                      ,4.37673399
+978,1974,Peru                                                        ,2.87919857
+979,1974,Philippines                                                 ,2.47419318
+980,1974,Palau                                                       ,176.281808
+981,1974,Papua New Guinea                                            ,0.95828754
+982,1974,Poland                                                      ,16.6366138
+983,1974,Puerto Rico                                                 ,14.4428999
+984,1974,North Korea                                                 ,6.91746004
+985,1974,Portugal                                                    ,3.67829077
+986,1974,Paraguay                                                    ,4.50118512
+987,1974,French Polynesia                                            ,2.35919897
+988,1974,Qatar                                                       ,211.055482
+989,1974,R��union                                                ,1.11919065
+990,1974,Romania                                                     ,9.72850816
+991,1974,Russian Federation                                          ,16.7232717
+992,1974,Rwanda                                                      ,1.10876862
+993,1974,Saudi Arabia                                                ,22.525522
+994,1974,Serbia and Montenegro                                       ,6.00606427
+995,1974,Sudan and South Sudan                                       ,2.87142861
+996,1974,Senegal                                                     ,1.66192039
+997,1974,Singapore                                                   ,4.68310188
+998,1974,"Saint Helena, Ascension and Tristan da Cunha                ",0.74049632
+999,1974,Solomon Islands                                             ,1.0711659
+1000,1974,Sierra Leone                                                ,1.15410868
+1001,1974,El Salvador                                                 ,1.56863805
+1002,1974,Somalia                                                     ,5.10521907
+1003,1974,St.Pierre and Miquelon                                      ,7.82504837
+1004,1974,S��o Tom�� and Pr��ncipe                        ,0.53310354
+1005,1974,Suriname                                                    ,5.9928387
+1006,1974,Slovakia                                                    ,12.9088878
+1007,1974,Slovenia                                                    ,10.1452311
+1008,1974,Sweden                                                      ,12.9670489
+1009,1974,Eswatini                                                    ,4.18503162
+1010,1974,Seychelles                                                  ,2.72064391
+1011,1974,Syria                                                       ,2.60396798
+1012,1974,Turks and Caicos Islands                                    ,0.92720507
+1013,1974,Chad                                                        ,1.86810135
+1014,1974,Togo                                                        ,0.86480413
+1015,1974,Thailand                                                    ,3.08440602
+1016,1974,Tajikistan                                                  ,4.6848596
+1017,1974,Turkmenistan                                                ,21.3932234
+1018,1974,Timor-Leste                                                 ,1.19524225
+1019,1974,Tonga                                                       ,1.10549771
+1020,1974,Trinidad and Tobago                                         ,10.0809899
+1021,1974,Tunisia                                                     ,2.35048565
+1022,1974,Turkey                                                      ,3.2502869
+1023,1974,Taiwan                                                      ,3.92221301
+1024,1974,Tanzania                                                    ,1.45168021
+1025,1974,Uganda                                                      ,1.36343614
+1026,1974,Ukraine                                                     ,15.5544814
+1027,1974,Uruguay                                                     ,11.1768233
+1028,1974,United States                                               ,27.2351178
+1029,1974,Uzbekistan                                                  ,9.48062889
+1030,1974,St.Vincent and the Grenadines                               ,0.64142601
+1031,1974,Venezuela                                                   ,8.3693341
+1032,1974,British Virgin Islands                                      ,0.96840747
+1033,1974,Viet Nam                                                    ,2.01712007
+1034,1974,Vanuatu                                                     ,4.1870866
+1035,1974,Samoa                                                       ,1.42291844
+1036,1974,Yemen                                                       ,1.06558711
+1037,1974,South Africa                                                ,10.9442712
+1038,1974,Zambia                                                      ,2.99880033
+1039,1974,Zimbabwe                                                    ,4.09389026
+1040,1975,Aruba                                                       ,1.30450975
+1041,1975,Afghanistan                                                 ,1.42842135
+1042,1975,Angola                                                      ,3.109663
+1043,1975,Anguilla                                                    ,0.70786105
+1044,1975,Albania                                                     ,3.77969192
+1045,1975,Cura��ao                                                ,70.4706717
+1046,1975,United Arab Emirates                                        ,94.6510995
+1047,1975,Argentina                                                   ,9.33141801
+1048,1975,Armenia                                                     ,6.90267997
+1049,1975,Antigua and Barbuda                                         ,2.95035439
+1050,1975,Australia                                                   ,26.3711892
+1051,1975,Austria                                                     ,10.0371183
+1052,1975,Azerbaijan                                                  ,10.5300889
+1053,1975,Burundi                                                     ,0.69366834
+1054,1975,Belgium                                                     ,16.1842833
+1055,1975,Benin                                                       ,0.9679906
+1056,1975,Burkina Faso                                                ,1.06427169
+1057,1975,Bangladesh                                                  ,1.85398415
+1058,1975,Bulgaria                                                    ,11.9024396
+1059,1975,Bahrain                                                     ,75.733381
+1060,1975,Bahamas                                                     ,9.05881047
+1061,1975,Bosnia and Herzegovina                                      ,4.92349683
+1062,1975,Belarus                                                     ,11.142954
+1063,1975,Belize                                                      ,2.73551592
+1064,1975,Bermuda                                                     ,3.89382356
+1065,1975,Bolivia                                                     ,6.75830445
+1066,1975,Brazil                                                      ,4.38492327
+1067,1975,Barbados                                                    ,2.52778699
+1068,1975,Brunei Darussalam                                           ,38.8017847
+1069,1975,Bhutan                                                      ,2.27460893
+1070,1975,Botswana                                                    ,6.73029071
+1071,1975,Central African Republic                                    ,1.10542232
+1072,1975,Canada                                                      ,22.405459
+1073,1975,Switzerland and Liechtenstein                               ,7.95491834
+1074,1975,Chile                                                       ,4.87404985
+1075,1975,China                                                       ,2.75552357
+1076,1975,C��te d'Ivoire                                          ,1.24789062
+1077,1975,Cameroon                                                    ,1.21782586
+1078,1975,Democratic Republic of the Congo                            ,0.6356566
+1079,1975,Congo                                                       ,6.60069076
+1080,1975,Cook Islands                                                ,1.70312852
+1081,1975,Colombia                                                    ,4.11171709
+1082,1975,Comoros                                                     ,1.02958385
+1083,1975,Cabo Verde                                                  ,0.98248561
+1084,1975,Costa Rica                                                  ,3.57884614
+1085,1975,Cuba                                                        ,5.25920323
+1086,1975,Cayman Islands                                              ,4.30444671
+1087,1975,Cyprus                                                      ,4.28172287
+1088,1975,Czech Republic                                              ,20.6401388
+1089,1975,Germany                                                     ,16.459152
+1090,1975,Djibouti                                                    ,5.32620175
+1091,1975,Dominica                                                    ,0.67702388
+1092,1975,Denmark                                                     ,14.4982464
+1093,1975,Dominican Republic                                          ,2.69247005
+1094,1975,Algeria                                                     ,4.95622134
+1095,1975,Ecuador                                                     ,2.94965918
+1096,1975,Egypt                                                       ,1.758842
+1097,1975,Eritrea                                                     ,1.96901456
+1098,1975,Western Sahara                                              ,1.64570984
+1099,1975,Spain and Andorra                                           ,6.62932788
+1100,1975,Estonia                                                     ,17.7691367
+1101,1975,Ethiopia                                                    ,1.63145347
+1102,1975,Finland                                                     ,14.8827167
+1103,1975,Fiji                                                        ,3.04101076
+1104,1975,Falkland Islands                                            ,2.49652442
+1105,1975,France and Monaco                                           ,12.1314663
+1106,1975,Faroes                                                      ,1.11783155
+1107,1975,Gabon                                                       ,25.7503154
+1108,1975,United Kingdom                                              ,14.7996273
+1109,1975,Georgia                                                     ,7.29637116
+1110,1975,Ghana                                                       ,0.91377697
+1111,1975,Gibraltar                                                   ,2.61658224
+1112,1975,Guinea                                                      ,1.31617099
+1113,1975,Guadeloupe                                                  ,1.59171571
+1114,1975,Gambia                                                      ,1.49194379
+1115,1975,Guinea-Bissau                                               ,1.52653817
+1116,1975,Equatorial Guinea                                           ,0.39924538
+1117,1975,Greece                                                      ,6.66543067
+1118,1975,Grenada                                                     ,0.70370377
+1119,1975,Greenland                                                   ,1.14101673
+1120,1975,Guatemala                                                   ,1.64824562
+1121,1975,French Guiana                                               ,2.72744447
+1122,1975,Guyana                                                      ,7.74844292
+1123,1975,Hong Kong                                                   ,3.34689269
+1124,1975,Honduras                                                    ,2.20087619
+1125,1975,Croatia                                                     ,7.12823726
+1126,1975,Haiti                                                       ,1.2969864
+1127,1975,Hungary                                                     ,10.0768994
+1128,1975,Indonesia                                                   ,1.90581032
+1129,1972,Algeria                                                     ,5.37410944
+1130,1972,Ecuador                                                     ,2.36446516
+1131,1972,Egypt                                                       ,1.7300662
+1132,1972,Eritrea                                                     ,2.17622722
+1133,1972,Western Sahara                                              ,1.46022801
+1134,1972,Spain and Andorra                                           ,5.86997923
+1135,1972,Estonia                                                     ,15.6314339
+1136,1972,Ethiopia                                                    ,1.79422616
+1137,1972,Finland                                                     ,15.1664908
+1138,1972,Fiji                                                        ,2.79013737
+1139,1972,Falkland Islands                                            ,2.26766806
+1140,1972,France and Monaco                                           ,12.8650654
+1141,1972,Faroes                                                      ,1.15462604
+1142,1972,Gabon                                                       ,12.902969
+1143,1972,United Kingdom                                              ,15.1949081
+1144,1972,Georgia                                                     ,6.57494104
+1145,1972,Ghana                                                       ,0.89358724
+1146,1972,Gibraltar                                                   ,2.52943708
+1147,1972,Guinea                                                      ,1.23286261
+1148,1972,Guadeloupe                                                  ,1.52026914
+1149,1972,Gambia                                                      ,1.55523745
+1150,1972,Guinea-Bissau                                               ,1.19739759
+1151,1972,Equatorial Guinea                                           ,0.41115199
+1152,1972,Greece                                                      ,6.1950365
+1153,1972,Grenada                                                     ,0.70359903
+1154,1972,Greenland                                                   ,1.12477139
+1155,1972,Guatemala                                                   ,1.685805
+1156,1972,French Guiana                                               ,2.77388959
+1157,1972,Guyana                                                      ,6.60438809
+1158,1972,Hong Kong                                                   ,3.16330112
+1159,1972,Honduras                                                    ,2.17872446
+1160,1972,Croatia                                                     ,6.41486715
+1161,1972,Haiti                                                       ,1.37343445
+1162,1972,Hungary                                                     ,9.19447715
+1163,1972,Indonesia                                                   ,1.87539904
+1164,1972,India                                                       ,1.43936014
+1165,1972,Ireland                                                     ,14.0678575
+1166,1972,Iran (Islamic Republic of)                                  ,8.01824185
+1167,1972,Iraq                                                        ,9.06190751
+1168,1972,Iceland                                                     ,17.5110357
+1169,1972,"Israel and Palestine, State of                              ",18.2676391
+1170,1972,"Italy, San Marino and the Holy See                          ",7.91100584
+1171,1972,Jamaica                                                     ,4.84956363
+1172,1972,Jordan                                                      ,1.83873119
+1173,1972,Japan                                                       ,9.77319489
+1174,1972,Kazakhstan                                                  ,20.0740884
+1175,1972,Kenya                                                       ,2.16253593
+1176,1972,Kyrgyzstan                                                  ,7.0380564
+1177,1972,Cambodia                                                    ,2.48545233
+1178,1972,Kiribati                                                    ,0.56086446
+1179,1972,St.Kitts and Nevis                                          ,1.58391669
+1180,1972,Republic of Korea                                           ,3.16233957
+1181,1972,Kuwait                                                      ,92.8056691
+1182,1972,Lao People's Democratic Republic                            ,2.47001085
+1183,1972,Lebanon                                                     ,3.1892014
+1184,1972,Liberia                                                     ,1.15252921
+1185,1972,Libya                                                       ,41.9762556
+1186,1972,St.Lucia                                                    ,0.94596156
+1187,1972,Sri Lanka                                                   ,1.56387067
+1188,1972,Lesotho                                                     ,1.71437335
+1189,1972,Lithuania                                                   ,9.6677378
+1190,1972,Luxembourg                                                  ,51.3750544
+1191,1972,Latvia                                                      ,8.02899739
+1192,1972,Macao                                                       ,1.5278363
+1193,1972,Morocco                                                     ,1.51226807
+1194,1972,Moldova                                                     ,6.04507232
+1195,1972,Madagascar                                                  ,2.94564489
+1196,1972,Maldives                                                    ,0.28389829
+1197,1972,Mexico                                                      ,4.22093689
+1198,1972,North Macedonia                                             ,6.69608538
+1199,1972,Mali                                                        ,1.80637545
+1200,1972,Malta                                                       ,3.02228527
+1201,1972,Myanmar                                                     ,2.50927514
+1202,1972,Mongolia                                                    ,11.7126261
+1203,1972,Mozambique                                                  ,1.05277286
+1204,1972,Mauritania                                                  ,4.20112143
+1205,1972,Martinique                                                  ,1.41501415
+1206,1972,Mauritius                                                   ,1.15899072
+1207,1972,Malawi                                                      ,0.62323851
+1208,1972,Malaysia                                                    ,3.06375128
+1209,1972,Namibia                                                     ,8.13462902
+1210,1972,New Caledonia                                               ,12.3698595
+1211,1972,Niger                                                       ,2.49321515
+1212,1972,Nigeria                                                     ,4.03921699
+1213,1972,Nicaragua                                                   ,3.49421472
+1214,1972,Netherlands                                                 ,15.2752974
+1215,1972,Norway                                                      ,14.5469724
+1216,1972,Nepal                                                       ,2.02467982
+1217,1972,New Zealand                                                 ,20.3834082
+1218,1972,Oman                                                        ,18.0988336
+1219,1972,Pakistan                                                    ,1.74877
+1220,1972,Panama                                                      ,4.28463424
+1221,1972,Peru                                                        ,2.80160283
+1222,1972,Philippines                                                 ,2.45131436
+1223,1976,United Kingdom                                              ,14.9918075
+1224,1976,Georgia                                                     ,7.36498348
+1225,1976,Ghana                                                       ,0.90730068
+1226,1976,Gibraltar                                                   ,2.58351224
+1227,1976,Guinea                                                      ,1.33033047
+1228,1976,Guadeloupe                                                  ,1.59056113
+1229,1976,Gambia                                                      ,1.47638775
+1230,1976,Guinea-Bissau                                               ,1.64908135
+1231,1976,Equatorial Guinea                                           ,0.41987014
+1232,1976,Greece                                                      ,7.15931728
+1233,1976,Grenada                                                     ,0.72036459
+1234,1976,Greenland                                                   ,1.14241517
+1235,1976,Guatemala                                                   ,1.55891759
+1236,1976,French Guiana                                               ,2.45157462
+1237,1976,Guyana                                                      ,7.07668274
+1238,1976,Hong Kong                                                   ,3.70627914
+1239,1976,Honduras                                                    ,2.18033488
+1240,1976,Croatia                                                     ,6.98537261
+1241,1976,Haiti                                                       ,1.32315421
+1242,1976,Hungary                                                     ,10.4309034
+1243,1976,Indonesia                                                   ,1.91873685
+1244,1976,India                                                       ,1.44693079
+1245,1976,Ireland                                                     ,13.8943778
+1246,1976,Iran (Islamic Republic of)                                  ,9.19159352
+1247,1976,Iraq                                                        ,12.5899582
+1248,1976,Iceland                                                     ,18.7603983
+1249,1976,"Israel and Palestine, State of                              ",4.97843517
+1250,1976,"Italy, San Marino and the Holy See                          ",8.40076802
+1251,1976,Jamaica                                                     ,3.90421119
+1252,1976,Jordan                                                      ,2.35125086
+1253,1976,Japan                                                       ,10.0484338
+1254,1976,Kazakhstan                                                  ,20.9391708
+1255,1976,Kenya                                                       ,1.98872746
+1256,1976,Kyrgyzstan                                                  ,7.59845684
+1257,1976,Cambodia                                                    ,1.6256696
+1258,1976,Kiribati                                                    ,0.63442841
+1259,1976,St.Kitts and Nevis                                          ,1.62406129
+1260,1976,Republic of Korea                                           ,4.09347441
+1261,1976,Kuwait                                                      ,48.5647704
+1262,1976,Lao People's Democratic Republic                            ,1.93640116
+1263,1976,Lebanon                                                     ,3.04962806
+1264,1976,Liberia                                                     ,1.16834775
+1265,1976,Libya                                                       ,32.8227504
+1266,1976,St.Lucia                                                    ,0.92822209
+1267,1976,Sri Lanka                                                   ,1.41978883
+1268,1976,Lesotho                                                     ,1.63760735
+1269,1976,Lithuania                                                   ,11.192644
+1270,1976,Luxembourg                                                  ,42.7001831
+1271,1976,Latvia                                                      ,9.30843166
+1272,1976,Macao                                                       ,1.85124799
+1273,1976,Morocco                                                     ,1.63753853
+1274,1976,Moldova                                                     ,6.91048123
+1275,1976,Madagascar                                                  ,2.77073122
+1276,1976,Maldives                                                    ,0.31220122
+1277,1976,Mexico                                                      ,4.74228091
+1278,1976,North Macedonia                                             ,6.49990646
+1279,1976,Mali                                                        ,1.62669789
+1280,1976,Malta                                                       ,2.73812294
+1281,1976,Myanmar                                                     ,2.39067316
+1282,1976,Mongolia                                                    ,11.9479685
+1283,1976,Mozambique                                                  ,0.93333877
+1284,1976,Mauritania                                                  ,3.4547124
+1285,1976,Martinique                                                  ,1.44046406
+1286,1976,Mauritius                                                   ,1.27928811
+1287,1976,Malawi                                                      ,0.64874459
+1288,1976,Malaysia                                                    ,3.39868138
+1289,1976,Namibia                                                     ,6.11224158
+1290,1976,New Caledonia                                               ,12.3294032
+1291,1976,Niger                                                       ,2.00340403
+1292,1976,Nigeria                                                     ,4.32544156
+1293,1976,Nicaragua                                                   ,3.65922762
+1294,1976,Netherlands                                                 ,15.4335334
+1295,1976,Norway                                                      ,14.8086262
+1296,1976,Nepal                                                       ,2.02067904
+1297,1976,New Zealand                                                 ,20.3054227
+1298,1976,Oman                                                        ,40.6101556
+1299,1976,Pakistan                                                    ,1.764782
+1300,1976,Panama                                                      ,4.26850068
+1301,1976,Peru                                                        ,2.81751784
+1302,1976,Philippines                                                 ,2.32131337
+1303,1976,Palau                                                       ,175.036988
+1304,1976,Papua New Guinea                                            ,0.82353314
+1305,1976,Poland                                                      ,17.7206445
+1306,1976,Puerto Rico                                                 ,14.3294136
+1307,1976,North Korea                                                 ,7.35069574
+1308,1976,Portugal                                                    ,3.87179111
+1309,1976,Paraguay                                                    ,4.90346032
+1310,1976,French Polynesia                                            ,1.94297837
+1311,1976,Qatar                                                       ,173.447484
+1312,1976,R��union                                                ,1.19803648
+1313,1976,Romania                                                     ,11.0455829
+1314,1976,Russian Federation                                          ,18.0252702
+1315,1976,Rwanda                                                      ,1.07636713
+1316,1976,Saudi Arabia                                                ,20.9201068
+1317,1976,Serbia and Montenegro                                       ,6.28132004
+1318,1978,North Macedonia                                             ,6.29774222
+1319,1978,Mali                                                        ,1.63706815
+1320,1978,Malta                                                       ,3.25621604
+1321,1978,Myanmar                                                     ,2.34084618
+1322,1978,Mongolia                                                    ,12.0744961
+1323,1978,Mozambique                                                  ,0.8480922
+1324,1978,Mauritania                                                  ,3.46284247
+1325,1978,Martinique                                                  ,1.53817845
+1326,1978,Mauritius                                                   ,1.36354999
+1327,1978,Malawi                                                      ,0.64106095
+1328,1978,Malaysia                                                    ,3.41133804
+1329,1978,Namibia                                                     ,6.664226
+1330,1978,New Caledonia                                               ,12.5666663
+1331,1978,Niger                                                       ,2.15609095
+1332,1978,Nigeria                                                     ,3.85543026
+1333,1978,Nicaragua                                                   ,3.62606646
+1334,1978,Netherlands                                                 ,15.4587429
+1335,1978,Norway                                                      ,14.9406148
+1336,1978,Nepal                                                       ,1.97888133
+1337,1978,New Zealand                                                 ,20.4636018
+1338,1978,Oman                                                        ,30.6064815
+1339,1978,Pakistan                                                    ,1.80987305
+1340,1978,Panama                                                      ,3.94822905
+1341,1978,Peru                                                        ,2.73620762
+1342,1978,Philippines                                                 ,2.31003082
+1343,1978,Palau                                                       ,176.948593
+1344,1978,Papua New Guinea                                            ,0.81994759
+1345,1978,Poland                                                      ,18.8639178
+1346,1978,Puerto Rico                                                 ,15.7019727
+1347,1978,North Korea                                                 ,8.05376284
+1348,1978,Portugal                                                    ,4.05510857
+1349,1978,Paraguay                                                    ,5.04647113
+1350,1978,French Polynesia                                            ,1.92734949
+1351,1978,Qatar                                                       ,156.192229
+1352,1978,R��union                                                ,1.20964421
+1353,1978,Romania                                                     ,12.0496384
+1354,1978,Russian Federation                                          ,18.6420985
+1355,1978,Rwanda                                                      ,1.06193884
+1356,1978,Saudi Arabia                                                ,20.9440105
+1357,1978,Serbia and Montenegro                                       ,6.69345971
+1358,1978,Sudan and South Sudan                                       ,2.66577483
+1359,1978,Senegal                                                     ,1.66379724
+1360,1978,Singapore                                                   ,6.05587133
+1361,1978,"Saint Helena, Ascension and Tristan da Cunha                ",0.7613201
+1362,1978,Solomon Islands                                             ,1.03458424
+1363,1978,Sierra Leone                                                ,1.14583211
+1364,1978,El Salvador                                                 ,1.76943191
+1365,1978,Somalia                                                     ,4.22862322
+1366,1978,St.Pierre and Miquelon                                      ,9.1035034
+1367,1978,S��o Tom�� and Pr��ncipe                        ,0.54485527
+1368,1978,Suriname                                                    ,6.81543839
+1369,1978,Slovakia                                                    ,14.6557394
+1370,1978,Slovenia                                                    ,10.4003758
+1371,1978,Sweden                                                      ,12.6725373
+1372,1978,Eswatini                                                    ,4.63894709
+1373,1978,Seychelles                                                  ,2.83012725
+1374,1978,Syria                                                       ,3.32138612
+1375,1978,Turks and Caicos Islands                                    ,0.98794465
+1376,1978,Chad                                                        ,2.07790047
+1377,1978,Togo                                                        ,0.92156754
+1378,1978,Thailand                                                    ,3.37459204
+1379,1978,Tajikistan                                                  ,4.70816863
+1380,1978,Turkmenistan                                                ,23.0913382
+1381,1978,Timor-Leste                                                 ,0.90063601
+1382,1978,Tonga                                                       ,1.43200974
+1383,1978,Trinidad and Tobago                                         ,11.8411753
+1384,1978,Tunisia                                                     ,2.51765061
+1385,1978,Turkey                                                      ,3.60171006
+1386,1978,Taiwan                                                      ,5.17717272
+1387,1978,Tanzania                                                    ,1.43565424
+1388,1978,Uganda                                                      ,1.3563187
+1389,1978,Ukraine                                                     ,16.7846302
+1390,1978,Uruguay                                                     ,11.1453675
+1391,1978,United States                                               ,27.3381441
+1392,1978,Uzbekistan                                                  ,9.84788399
+1393,1978,St.Vincent and the Grenadines                               ,0.67748317
+1394,1978,Venezuela                                                   ,8.14876744
+1395,1978,British Virgin Islands                                      ,1.11562858
+1396,1978,Viet Nam                                                    ,1.88565663
+1397,1978,Vanuatu                                                     ,3.6048511
+1398,1978,Samoa                                                       ,1.3600556
+1399,1978,Yemen                                                       ,1.0585843
+1400,1978,South Africa                                                ,10.4488781
+1401,1978,Zambia                                                      ,2.6833839
+1402,1978,Zimbabwe                                                    ,3.42036413
+1403,1979,Aruba                                                       ,1.62830586
+1404,1979,Afghanistan                                                 ,1.31473337
+1405,1979,Angola                                                      ,3.16464388
+1406,1979,Anguilla                                                    ,0.78951384
+1407,1979,Albania                                                     ,4.75027794
+1408,1979,Cura��ao                                                ,64.620136
+1409,1979,United Arab Emirates                                        ,59.9973282
+1410,1979,Argentina                                                   ,9.43207389
+1411,1976,Sudan and South Sudan                                       ,2.78700335
+1412,1976,Senegal                                                     ,1.67306241
+1413,1976,Singapore                                                   ,4.94804352
+1414,1976,"Saint Helena, Ascension and Tristan da Cunha                ",0.57226759
+1415,1976,Solomon Islands                                             ,0.99107207
+1416,1976,Sierra Leone                                                ,1.15989988
+1417,1976,El Salvador                                                 ,1.6525637
+1418,1976,Somalia                                                     ,4.64681167
+1419,1976,St.Pierre and Miquelon                                      ,8.37447445
+1420,1976,S��o Tom�� and Pr��ncipe                        ,0.55758123
+1421,1976,Suriname                                                    ,5.97906259
+1422,1976,Slovakia                                                    ,13.1260047
+1423,1976,Slovenia                                                    ,9.56132395
+1424,1976,Sweden                                                      ,13.8184753
+1425,1976,Eswatini                                                    ,4.24864756
+1426,1976,Seychelles                                                  ,2.80790927
+1427,1976,Syria                                                       ,3.30628315
+1428,1976,Turks and Caicos Islands                                    ,0.95235131
+1429,1976,Chad                                                        ,1.93123733
+1430,1976,Togo                                                        ,0.87003228
+1431,1976,Thailand                                                    ,3.22473636
+1432,1976,Tajikistan                                                  ,4.76099374
+1433,1976,Turkmenistan                                                ,22.7254792
+1434,1976,Timor-Leste                                                 ,1.03508188
+1435,1976,Tonga                                                       ,1.17809548
+1436,1976,Trinidad and Tobago                                         ,10.5492665
+1437,1976,Tunisia                                                     ,2.32843591
+1438,1976,Turkey                                                      ,3.53172138
+1439,1976,Taiwan                                                      ,4.59773708
+1440,1976,Tanzania                                                    ,1.45765421
+1441,1976,Uganda                                                      ,1.37786925
+1442,1976,Ukraine                                                     ,16.4041953
+1443,1976,Uruguay                                                     ,11.2746684
+1444,1976,United States                                               ,27.1857933
+1445,1976,Uzbekistan                                                  ,9.81153223
+1446,1976,St.Vincent and the Grenadines                               ,0.65639015
+1447,1976,Venezuela                                                   ,7.89764213
+1448,1976,British Virgin Islands                                      ,1.03407222
+1449,1976,Viet Nam                                                    ,1.91070077
+1450,1976,Vanuatu                                                     ,3.96766286
+1451,1976,Samoa                                                       ,1.32781778
+1452,1976,Yemen                                                       ,1.06183939
+1453,1976,South Africa                                                ,11.6603526
+1454,1976,Zambia                                                      ,2.94720762
+1455,1976,Zimbabwe                                                    ,3.91697928
+1456,1977,Aruba                                                       ,1.47261471
+1457,1977,Afghanistan                                                 ,1.38920328
+1458,1977,Angola                                                      ,3.0280378
+1459,1977,Anguilla                                                    ,0.69201312
+1460,1977,Albania                                                     ,4.08804958
+1461,1977,Cura��ao                                                ,76.1412771
+1462,1977,United Arab Emirates                                        ,87.2739667
+1463,1977,Argentina                                                   ,9.76251532
+1464,1977,Armenia                                                     ,6.96448652
+1465,1977,Antigua and Barbuda                                         ,2.924144
+1466,1977,Australia                                                   ,26.4663262
+1467,1977,Austria                                                     ,10.4153715
+1468,1977,Azerbaijan                                                  ,10.754417
+1469,1977,Burundi                                                     ,0.67685183
+1470,1977,Belgium                                                     ,16.9347618
+1471,1977,Benin                                                       ,0.92126994
+1472,1977,Burkina Faso                                                ,1.07108166
+1473,1977,Bangladesh                                                  ,1.74466301
+1474,1977,Bulgaria                                                    ,12.2590961
+1475,1977,Bahrain                                                     ,79.4786224
+1476,1977,Bahamas                                                     ,8.57567533
+1477,1977,Bosnia and Herzegovina                                      ,4.9622671
+1478,1977,Belarus                                                     ,11.5126749
+1479,1977,Belize                                                      ,2.69507873
+1480,1977,Bermuda                                                     ,3.84460463
+1481,1977,Bolivia                                                     ,6.30706725
+1482,1977,Brazil                                                      ,4.65507222
+1483,1977,Barbados                                                    ,2.61767548
+1484,1977,Brunei Darussalam                                           ,46.1800417
+1485,1977,Bhutan                                                      ,2.227223
+1486,1977,Botswana                                                    ,7.77982104
+1487,1977,Central African Republic                                    ,1.18392802
+1488,1977,Canada                                                      ,23.2328991
+1489,1977,Switzerland and Liechtenstein                               ,8.37247741
+1490,1977,Chile                                                       ,4.57886463
+1491,1977,China                                                       ,2.92054159
+1492,1977,C��te d'Ivoire                                          ,1.26388141
+1493,1977,Cameroon                                                    ,1.32003345
+1494,1977,Democratic Republic of the Congo                            ,0.79433209
+1495,1977,Congo                                                       ,2.98919814
+1496,1977,Cook Islands                                                ,2.19890442
+1497,1977,Colombia                                                    ,4.18206446
+1498,1977,Comoros                                                     ,1.0182983
+1499,1977,Cabo Verde                                                  ,1.03240929
+1500,1977,Costa Rica                                                  ,3.79078592
+1501,1977,Cuba                                                        ,5.58343132
+1502,1977,Cayman Islands                                              ,4.21435303
+1503,1977,Cyprus                                                      ,5.12115292
+1504,1977,Czech Republic                                              ,22.0788738
+1505,1977,Germany                                                     ,17.008446
+1506,1977,Djibouti                                                    ,4.7872325
+1507,1977,Dominica                                                    ,0.70641128
+1508,1977,Denmark                                                     ,15.925559
+1509,1977,Dominican Republic                                          ,2.76709951
+1510,1977,Algeria                                                     ,5.9756667
+1511,1977,Ecuador                                                     ,3.27259286
+1512,1977,Egypt                                                       ,1.9503155
+1513,1977,Eritrea                                                     ,1.85945929
+1514,1977,Western Sahara                                              ,1.36120802
+1515,1977,Spain and Andorra                                           ,6.80779932
+1516,1977,Estonia                                                     ,18.4834748
+1517,1977,Ethiopia                                                    ,1.59423339
+1518,1977,Finland                                                     ,15.9072353
+1519,1977,Fiji                                                        ,3.06843165
+1520,1977,Falkland Islands                                            ,2.5450594
+1521,1977,France and Monaco                                           ,12.5232373
+1522,1977,Faroes                                                      ,1.12828456
+1523,1977,Gabon                                                       ,25.549537
+1524,1977,United Kingdom                                              ,15.0737772
+1525,1977,Georgia                                                     ,7.35964149
+1526,1977,Ghana                                                       ,0.92936414
+1527,1977,Gibraltar                                                   ,2.4645745
+1528,1977,Guinea                                                      ,1.34381131
+1529,1977,Guadeloupe                                                  ,1.65377155
+1530,1977,Gambia                                                      ,1.4493038
+1531,1977,Guinea-Bissau                                               ,1.60726021
+1532,1977,Equatorial Guinea                                           ,0.42763939
+1533,1977,Greece                                                      ,7.29947636
+1534,1977,Grenada                                                     ,0.75897124
+1535,1977,Greenland                                                   ,1.14556388
+1536,1977,Guatemala                                                   ,1.65057014
+1537,1977,French Guiana                                               ,2.61967193
+1538,1977,Guyana                                                      ,7.52871059
+1539,1977,Hong Kong                                                   ,4.08617644
+1540,1977,Honduras                                                    ,2.19428927
+1541,1977,Croatia                                                     ,6.8582879
+1542,1977,Haiti                                                       ,1.32023179
+1543,1977,Hungary                                                     ,10.8268404
+1544,1977,Indonesia                                                   ,2.06569521
+1545,1977,India                                                       ,1.44449366
+1546,1977,Ireland                                                     ,14.3657531
+1547,1977,Iran (Islamic Republic of)                                  ,8.98032532
+1548,1977,Iraq                                                        ,11.6761739
+1549,1977,Iceland                                                     ,19.2652851
+1550,1977,"Israel and Palestine, State of                              ",5.03136857
+1551,1977,"Italy, San Marino and the Holy See                          ",8.17448987
+1552,1977,Jamaica                                                     ,4.15642765
+1553,1977,Jordan                                                      ,2.37446888
+1554,1977,Japan                                                       ,10.1907883
+1555,1977,Kazakhstan                                                  ,20.7484367
+1556,1977,Kenya                                                       ,1.97688212
+1557,1977,Kyrgyzstan                                                  ,7.60017204
+1558,1977,Cambodia                                                    ,1.60424827
+1559,1977,Kiribati                                                    ,0.65761006
+1560,1977,St.Kitts and Nevis                                          ,1.6879877
+1561,1977,Republic of Korea                                           ,4.45744361
+1562,1977,Kuwait                                                      ,44.0672673
+1563,1977,Lao People's Democratic Republic                            ,2.01614508
+1564,1977,Lebanon                                                     ,2.71101685
+1565,1977,Liberia                                                     ,1.23407643
+1566,1977,Libya                                                       ,33.4526905
+1567,1977,St.Lucia                                                    ,0.96769554
+1568,1977,Sri Lanka                                                   ,1.51916659
+1569,1977,Lesotho                                                     ,1.48737759
+1570,1977,Lithuania                                                   ,11.3307558
+1571,1977,Luxembourg                                                  ,40.4423377
+1572,1977,Latvia                                                      ,9.43399271
+1573,1977,Macao                                                       ,1.95786045
+1574,1977,Morocco                                                     ,1.66312513
+1575,1977,Moldova                                                     ,7.00370273
+1576,1977,Madagascar                                                  ,2.80279443
+1577,1977,Maldives                                                    ,0.31946069
+1578,1977,Mexico                                                      ,4.77983246
+1579,1977,North Macedonia                                             ,6.55721587
+1580,1977,Mali                                                        ,1.61726444
+1581,1977,Malta                                                       ,2.86989337
+1582,1977,Myanmar                                                     ,2.33883876
+1583,1977,Mongolia                                                    ,12.1339255
+1584,1977,Mozambique                                                  ,0.89999986
+1585,1977,Mauritania                                                  ,3.49451751
+1586,1977,Martinique                                                  ,1.52620853
+1587,1977,Mauritius                                                   ,1.3738188
+1588,1977,Malawi                                                      ,0.6441856
+1589,1977,Malaysia                                                    ,3.32996268
+1590,1977,Namibia                                                     ,6.75318977
+1591,1977,New Caledonia                                               ,12.6634322
+1592,1977,Niger                                                       ,2.13905479
+1593,1977,Nigeria                                                     ,4.12126533
+1594,1977,Nicaragua                                                   ,3.8213657
+1595,1977,Netherlands                                                 ,15.176451
+1596,1977,Norway                                                      ,15.0581117
+1597,1977,Nepal                                                       ,2.00729796
+1598,1977,New Zealand                                                 ,20.5529646
+1599,1977,Oman                                                        ,37.9050053
+1600,1977,Pakistan                                                    ,1.7936395
+1601,1977,Panama                                                      ,4.13860974
+1602,1977,Peru                                                        ,2.74765052
+1603,1977,Philippines                                                 ,2.33244507
+1604,1977,Palau                                                       ,175.901352
+1605,1977,Papua New Guinea                                            ,0.83750129
+1606,1977,Poland                                                      ,18.0047977
+1607,1977,Puerto Rico                                                 ,15.7578301
+1608,1977,North Korea                                                 ,7.64302934
+1609,1977,Portugal                                                    ,3.88918864
+1610,1977,Paraguay                                                    ,5.0848142
+1611,1977,French Polynesia                                            ,1.98129508
+1612,1977,Qatar                                                       ,148.084491
+1613,1977,R��union                                                ,1.25221102
+1614,1977,Romania                                                     ,11.3926585
+1615,1977,Russian Federation                                          ,18.2806725
+1616,1977,Rwanda                                                      ,1.06972019
+1617,1977,Saudi Arabia                                                ,21.4199297
+1618,1977,Serbia and Montenegro                                       ,6.42854841
+1619,1977,Sudan and South Sudan                                       ,2.6955661
+1620,1977,Senegal                                                     ,1.66520662
+1621,1977,Singapore                                                   ,5.41414762
+1622,1977,"Saint Helena, Ascension and Tristan da Cunha                ",0.86424912
+1623,1977,Solomon Islands                                             ,1.02874566
+1624,1977,Sierra Leone                                                ,1.14961365
+1625,1977,El Salvador                                                 ,1.71576689
+1626,1977,Somalia                                                     ,4.40879307
+1627,1977,St.Pierre and Miquelon                                      ,9.12115266
+1628,1977,S��o Tom�� and Pr��ncipe                        ,0.54973973
+1629,1977,Suriname                                                    ,6.3740124
+1630,1977,Slovakia                                                    ,13.417347
+1631,1977,Slovenia                                                    ,10.0573471
+1632,1977,Sweden                                                      ,13.290717
+1633,1977,Eswatini                                                    ,4.0330423
+1634,1977,Seychelles                                                  ,2.82689161
+1635,1977,Syria                                                       ,3.26274333
+1636,1977,Turks and Caicos Islands                                    ,1.00041688
+1637,1977,Chad                                                        ,2.02238983
+1638,1977,Togo                                                        ,0.9085835
+1639,1977,Thailand                                                    ,3.32023088
+1640,1977,Tajikistan                                                  ,4.72222298
+1641,1977,Turkmenistan                                                ,22.8645182
+1642,1977,Timor-Leste                                                 ,0.9546108
+1643,1977,Tonga                                                       ,1.26387449
+1644,1977,Trinidad and Tobago                                         ,11.3165338
+1645,1977,Tunisia                                                     ,2.45915821
+1646,1977,Turkey                                                      ,3.68936513
+1647,1977,Taiwan                                                      ,4.78539552
+1648,1977,Tanzania                                                    ,1.43947734
+1649,1977,Uganda                                                      ,1.33814777
+1650,1977,Ukraine                                                     ,16.6409384
+1651,1977,Uruguay                                                     ,11.1191129
+1652,1977,United States                                               ,27.6314439
+1653,1977,Uzbekistan                                                  ,9.80199463
+1654,1977,St.Vincent and the Grenadines                               ,0.67511178
+1655,1977,Venezuela                                                   ,7.95974679
+1656,1977,British Virgin Islands                                      ,1.12102004
+1657,1977,Viet Nam                                                    ,1.9432866
+1658,1977,Vanuatu                                                     ,3.80850258
+1659,1977,Samoa                                                       ,1.35580237
+1660,1977,Yemen                                                       ,1.04729665
+1661,1977,South Africa                                                ,11.4509409
+1662,1977,Zambia                                                      ,2.80569433
+1663,1977,Zimbabwe                                                    ,3.68087531
+1664,1978,Aruba                                                       ,1.55923506
+1665,1978,Afghanistan                                                 ,1.33712498
+1666,1978,Angola                                                      ,3.19399881
+1667,1978,Anguilla                                                    ,0.74448494
+1668,1978,Albania                                                     ,4.39885946
+1669,1978,Cura��ao                                                ,65.0411026
+1670,1978,United Arab Emirates                                        ,83.9050418
+1671,1978,Argentina                                                   ,9.35079033
+1672,1978,Armenia                                                     ,7.09178982
+1673,1978,Antigua and Barbuda                                         ,2.97116844
+1674,1978,Australia                                                   ,25.5465836
+1675,1978,Austria                                                     ,10.7054637
+1676,1978,Azerbaijan                                                  ,11.0098428
+1677,1978,Burundi                                                     ,0.67109563
+1678,1978,Belgium                                                     ,17.3351787
+1679,1978,Benin                                                       ,0.92851732
+1680,1978,Burkina Faso                                                ,1.0892316
+1681,1978,Bangladesh                                                  ,1.74476286
+1682,1978,Bulgaria                                                    ,12.9263619
+1683,1978,Bahrain                                                     ,74.0285564
+1684,1978,Bahamas                                                     ,8.50884155
+1685,1978,Bosnia and Herzegovina                                      ,5.11154593
+1686,1978,Belarus                                                     ,11.8297015
+1687,1978,Belize                                                      ,2.66281355
+1688,1978,Bermuda                                                     ,3.81968373
+1689,1978,Bolivia                                                     ,6.37833071
+1690,1978,Brazil                                                      ,4.67756978
+1691,1978,Barbados                                                    ,2.62946737
+1692,1978,Brunei Darussalam                                           ,44.3424494
+1693,1978,Bhutan                                                      ,2.22142206
+1694,1978,Botswana                                                    ,7.22086717
+1695,1978,Central African Republic                                    ,1.25550137
+1696,1978,Canada                                                      ,23.2561743
+1697,1978,Switzerland and Liechtenstein                               ,8.60142963
+1698,1978,Chile                                                       ,4.55622833
+1699,1978,China                                                       ,3.07834395
+1700,1978,C��te d'Ivoire                                          ,1.31516485
+1701,1978,Cameroon                                                    ,1.39752758
+1702,1978,Democratic Republic of the Congo                            ,0.74711143
+1703,1978,Congo                                                       ,2.69622603
+1704,1978,Cook Islands                                                ,2.26779162
+1705,1978,Colombia                                                    ,4.24802895
+1706,1978,Comoros                                                     ,1.00367479
+1707,1978,Cabo Verde                                                  ,1.04423421
+1708,1978,Costa Rica                                                  ,3.87749646
+1709,1978,Cuba                                                        ,5.81985065
+1710,1978,Cayman Islands                                              ,4.17098625
+1711,1978,Cyprus                                                      ,5.26907609
+1712,1978,Czech Republic                                              ,21.7090089
+1713,1978,Germany                                                     ,17.5714785
+1714,1978,Djibouti                                                    ,4.46780716
+1715,1978,Dominica                                                    ,0.7186205
+1716,1978,Denmark                                                     ,15.8736047
+1717,1978,Dominican Republic                                          ,2.67480274
+1718,1978,Algeria                                                     ,6.34778236
+1719,1978,Ecuador                                                     ,3.36820323
+1720,1978,Egypt                                                       ,1.97351135
+1721,1978,Eritrea                                                     ,1.83521232
+1722,1978,Western Sahara                                              ,1.17839002
+1723,1978,Spain and Andorra                                           ,6.75993989
+1724,1978,Estonia                                                     ,19.0006906
+1725,1978,Ethiopia                                                    ,1.59071273
+1726,1978,Finland                                                     ,17.3981015
+1727,1978,Fiji                                                        ,2.98850435
+1728,1978,Falkland Islands                                            ,2.55770297
+1729,1978,France and Monaco                                           ,12.8057103
+1730,1978,Faroes                                                      ,1.10827089
+1731,1978,Gabon                                                       ,24.931547
+1732,1978,United Kingdom                                              ,15.1021742
+1733,1978,Georgia                                                     ,7.55170725
+1734,1978,Ghana                                                       ,0.8921311
+1735,1978,Gibraltar                                                   ,2.34745942
+1736,1978,Guinea                                                      ,1.35226263
+1737,1978,Guadeloupe                                                  ,1.68464702
+1738,1978,Gambia                                                      ,1.43533588
+1739,1978,Guinea-Bissau                                               ,1.49222079
+1740,1978,Equatorial Guinea                                           ,0.57559376
+1741,1978,Greece                                                      ,7.50688014
+1742,1978,Grenada                                                     ,0.78320792
+1743,1978,Greenland                                                   ,1.14969445
+1744,1978,Guatemala                                                   ,1.69924679
+1745,1978,French Guiana                                               ,2.57692231
+1746,1978,Guyana                                                      ,6.97765369
+1747,1978,Hong Kong                                                   ,4.20382985
+1748,1978,Honduras                                                    ,2.15218765
+1749,1978,Croatia                                                     ,7.06209007
+1750,1978,Haiti                                                       ,1.33813087
+1751,1978,Hungary                                                     ,11.6151854
+1752,1978,Indonesia                                                   ,2.15294918
+1753,1978,India                                                       ,1.41870451
+1754,1978,Ireland                                                     ,14.2054472
+1755,1978,Iran (Islamic Republic of)                                  ,8.33131528
+1756,1978,Iraq                                                        ,12.3585138
+1757,1978,Iceland                                                     ,19.6708114
+1758,1978,"Israel and Palestine, State of                              ",5.17456893
+1759,1978,"Italy, San Marino and the Holy See                          ",8.32895066
+1760,1978,Jamaica                                                     ,4.1853025
+1761,1978,Jordan                                                      ,2.71272839
+1762,1978,Japan                                                       ,10.0493838
+1763,1978,Kazakhstan                                                  ,20.8747147
+1764,1978,Kenya                                                       ,2.0185901
+1765,1978,Kyrgyzstan                                                  ,7.70071765
+1766,1978,Cambodia                                                    ,1.61420398
+1767,1978,Kiribati                                                    ,0.65035252
+1768,1978,St.Kitts and Nevis                                          ,1.69744885
+1769,1978,Republic of Korea                                           ,4.60726866
+1770,1978,Kuwait                                                      ,46.6611609
+1771,1978,Lao People's Democratic Republic                            ,2.05674205
+1772,1978,Lebanon                                                     ,3.21517271
+1773,1978,Liberia                                                     ,1.2230533
+1774,1978,Libya                                                       ,31.9167385
+1775,1978,St.Lucia                                                    ,0.97228297
+1776,1978,Sri Lanka                                                   ,1.57013168
+1777,1978,Lesotho                                                     ,1.47066747
+1778,1978,Lithuania                                                   ,11.6370891
+1779,1978,Luxembourg                                                  ,43.788533
+1780,1978,Latvia                                                      ,9.72354351
+1781,1978,Macao                                                       ,1.95639817
+1782,1978,Morocco                                                     ,1.71663554
+1783,1978,Moldova                                                     ,7.2126872
+1784,1978,Madagascar                                                  ,2.87531137
+1785,1978,Maldives                                                    ,0.32228296
+1786,1978,Mexico                                                      ,5.06837306
+1787,1975,Togo                                                        ,0.89732767
+1788,1975,Thailand                                                    ,3.22906193
+1789,1975,Tajikistan                                                  ,4.81574571
+1790,1975,Turkmenistan                                                ,22.5580785
+1791,1975,Timor-Leste                                                 ,1.12179736
+1792,1975,Tonga                                                       ,1.12353726
+1793,1975,Trinidad and Tobago                                         ,9.47643239
+1794,1975,Tunisia                                                     ,2.37513087
+1795,1975,Turkey                                                      ,3.35505599
+1796,1975,Taiwan                                                      ,4.10538948
+1797,1975,Tanzania                                                    ,1.43968651
+1798,1975,Uganda                                                      ,1.35841079
+1799,1975,Ukraine                                                     ,15.9203138
+1800,1975,Uruguay                                                     ,11.8538182
+1801,1975,United States                                               ,26.0000065
+1802,1975,Uzbekistan                                                  ,9.83183919
+1803,1975,St.Vincent and the Grenadines                               ,0.66946254
+1804,1975,Venezuela                                                   ,7.75781514
+1805,1975,British Virgin Islands                                      ,1.13014225
+1806,1975,Viet Nam                                                    ,1.96875899
+1807,1975,Vanuatu                                                     ,3.98027811
+1808,1975,Samoa                                                       ,1.32947452
+1809,1975,Yemen                                                       ,1.04439512
+1810,1975,South Africa                                                ,11.3530931
+1811,1975,Zambia                                                      ,2.96001874
+1812,1975,Zimbabwe                                                    ,3.85368082
+1813,1976,Aruba                                                       ,1.29038514
+1814,1976,Afghanistan                                                 ,1.40098805
+1815,1976,Angola                                                      ,2.52631558
+1816,1976,Anguilla                                                    ,0.67961096
+1817,1976,Albania                                                     ,3.95159522
+1818,1976,Cura��ao                                                ,74.9660991
+1819,1976,United Arab Emirates                                        ,98.3914662
+1820,1976,Argentina                                                   ,9.51215777
+1821,1976,Armenia                                                     ,6.93137934
+1822,1976,Antigua and Barbuda                                         ,2.75067107
+1823,1976,Australia                                                   ,26.2867046
+1824,1976,Austria                                                     ,10.7400175
+1825,1976,Azerbaijan                                                  ,10.6661495
+1826,1976,Burundi                                                     ,0.68601734
+1827,1976,Belgium                                                     ,17.1102824
+1828,1976,Benin                                                       ,0.90871333
+1829,1976,Burkina Faso                                                ,1.07345994
+1830,1976,Bangladesh                                                  ,1.76853755
+1831,1976,Bulgaria                                                    ,11.9607863
+1832,1976,Bahrain                                                     ,74.5578142
+1833,1976,Bahamas                                                     ,7.95486405
+1834,1976,Bosnia and Herzegovina                                      ,4.86093796
+1835,1976,Belarus                                                     ,11.3794084
+1836,1976,Belize                                                      ,2.64275865
+1837,1976,Bermuda                                                     ,3.54985055
+1838,1976,Bolivia                                                     ,6.88126321
+1839,1976,Brazil                                                      ,4.61680984
+1840,1976,Barbados                                                    ,2.41280799
+1841,1976,Brunei Darussalam                                           ,45.5056748
+1842,1976,Bhutan                                                      ,2.25261078
+1843,1976,Botswana                                                    ,7.4445177
+1844,1976,Central African Republic                                    ,1.12314257
+1845,1976,Canada                                                      ,22.6162645
+1846,1976,Switzerland and Liechtenstein                               ,8.26265846
+1847,1976,Chile                                                       ,4.82341071
+1848,1976,China                                                       ,2.77591858
+1849,1976,C��te d'Ivoire                                          ,1.29213051
+1850,1976,Cameroon                                                    ,1.22753132
+1851,1976,Democratic Republic of the Congo                            ,0.82017202
+1852,1976,Congo                                                       ,6.41474016
+1853,1976,Cook Islands                                                ,2.08540503
+1854,1976,Colombia                                                    ,4.18122092
+1855,1976,Comoros                                                     ,1.03221479
+1856,1976,Cabo Verde                                                  ,1.0089073
+1857,1976,Costa Rica                                                  ,3.54786892
+1858,1976,Cuba                                                        ,5.38506311
+1859,1976,Cayman Islands                                              ,3.89772401
+1860,1976,Cyprus                                                      ,4.90738936
+1861,1976,Czech Republic                                              ,21.0710887
+1862,1976,Germany                                                     ,17.292854
+1863,1976,Djibouti                                                    ,5.01531082
+1864,1976,Dominica                                                    ,0.67776851
+1865,1976,Denmark                                                     ,15.311724
+1866,1976,Dominican Republic                                          ,2.73756801
+1867,1976,Algeria                                                     ,5.67516276
+1868,1976,Ecuador                                                     ,3.15632941
+1869,1976,Egypt                                                       ,1.91118918
+1870,1976,Eritrea                                                     ,1.91663607
+1871,1976,Western Sahara                                              ,1.50363069
+1872,1976,Spain and Andorra                                           ,7.07653073
+1873,1976,Estonia                                                     ,18.2477631
+1874,1976,Ethiopia                                                    ,1.5974989
+1875,1976,Finland                                                     ,16.089973
+1876,1976,Fiji                                                        ,2.96647187
+1877,1976,Falkland Islands                                            ,2.3212198
+1878,1976,France and Monaco                                           ,12.8902923
+1879,1976,Faroes                                                      ,1.13726261
+1880,1976,Gabon                                                       ,26.4566848
+1881,1979,Cambodia                                                    ,1.37213741
+1882,1979,Kiribati                                                    ,0.68087485
+1883,1979,St.Kitts and Nevis                                          ,1.70259729
+1884,1979,Republic of Korea                                           ,5.01535697
+1885,1979,Kuwait                                                      ,51.6258713
+1886,1979,Lao People's Democratic Republic                            ,2.25819212
+1887,1979,Lebanon                                                     ,3.5466232
+1888,1979,Liberia                                                     ,1.32794188
+1889,1979,Libya                                                       ,33.1688714
+1890,1979,St.Lucia                                                    ,0.97264143
+1891,1979,Sri Lanka                                                   ,1.53303927
+1892,1979,Lesotho                                                     ,1.49933914
+1893,1979,Lithuania                                                   ,11.8009776
+1894,1979,Luxembourg                                                  ,41.2046341
+1895,1979,Latvia                                                      ,9.87030238
+1896,1979,Macao                                                       ,2.08817043
+1897,1979,Morocco                                                     ,1.7413835
+1898,1979,Moldova                                                     ,7.32376885
+1899,1979,Madagascar                                                  ,2.80876581
+1900,1979,Maldives                                                    ,0.33034841
+1901,1979,Mexico                                                      ,5.19789248
+1902,1979,North Macedonia                                             ,6.83259588
+1903,1979,Mali                                                        ,1.79232006
+1904,1979,Malta                                                       ,3.15858322
+1905,1979,Myanmar                                                     ,2.17286773
+1906,1979,Armenia                                                     ,7.14894476
+1907,1979,Antigua and Barbuda                                         ,3.03492843
+1908,1979,Australia                                                   ,25.5470183
+1909,1979,Austria                                                     ,11.083592
+1910,1979,Azerbaijan                                                  ,11.1247061
+1911,1979,Burundi                                                     ,0.67410827
+1912,1979,Belgium                                                     ,18.2468277
+1913,1979,Benin                                                       ,0.93857131
+1914,1979,Burkina Faso                                                ,1.11475986
+1915,1979,Bangladesh                                                  ,1.7229902
+1916,1979,Bulgaria                                                    ,13.3413971
+1917,1979,Bahrain                                                     ,72.4316941
+1918,1979,Bahamas                                                     ,8.56509728
+1919,1979,Bosnia and Herzegovina                                      ,5.23726932
+1920,1979,Belarus                                                     ,12.0244803
+1921,1979,Belize                                                      ,2.63189099
+1922,1979,Bermuda                                                     ,3.75998335
+1923,1979,Bolivia                                                     ,5.87766975
+1924,1979,Brazil                                                      ,4.76489628
+1925,1979,Barbados                                                    ,2.63811881
+1926,1979,Brunei Darussalam                                           ,42.4130402
+1927,1979,Bhutan                                                      ,2.20021481
+1928,1979,Botswana                                                    ,7.03729517
+1929,1979,Central African Republic                                    ,1.49541524
+1930,1979,Canada                                                      ,23.6031745
+1931,1979,Switzerland and Liechtenstein                               ,8.43766816
+1932,1979,Chile                                                       ,4.72455703
+1933,1979,China                                                       ,3.08005092
+1934,1979,C��te d'Ivoire                                          ,1.24484609
+1935,1979,Cameroon                                                    ,1.63729304
+1936,1979,Democratic Republic of the Congo                            ,0.77016995
+1937,1979,Congo                                                       ,2.71430568
+1938,1979,Cook Islands                                                ,2.3726315
+1939,1979,Colombia                                                    ,4.17639122
+1940,1979,Comoros                                                     ,1.00161072
+1941,1979,Cabo Verde                                                  ,1.14381689
+1942,1979,Costa Rica                                                  ,3.86921289
+1943,1979,Cuba                                                        ,5.88538639
+1944,1979,Cayman Islands                                              ,4.09963592
+1945,1979,Cyprus                                                      ,5.50455578
+1946,1979,Czech Republic                                              ,22.6237492
+1947,1979,Germany                                                     ,18.2606893
+1948,1979,Djibouti                                                    ,4.57131554
+1949,1979,Dominica                                                    ,0.73341156
+1950,1979,Denmark                                                     ,16.4545151
+1951,1979,Dominican Republic                                          ,2.73620918
+1952,1979,Algeria                                                     ,6.35915837
+1953,1979,Ecuador                                                     ,3.50186368
+1954,1979,Egypt                                                       ,2.019417
+1955,1979,Eritrea                                                     ,1.81761184
+1956,1979,Western Sahara                                              ,1.14891434
+1957,1979,Spain and Andorra                                           ,7.04081541
+1958,1979,Estonia                                                     ,19.3182337
+1959,1979,Ethiopia                                                    ,1.58326584
+1960,1979,Finland                                                     ,17.4638306
+1961,1979,Fiji                                                        ,3.14585
+1962,1979,Falkland Islands                                            ,2.55777603
+1963,1979,France and Monaco                                           ,12.9316013
+1964,1979,Faroes                                                      ,1.08595617
+1965,1979,Gabon                                                       ,23.0925942
+1966,1979,United Kingdom                                              ,15.8066437
+1967,1979,Georgia                                                     ,7.72092603
+1968,1979,Ghana                                                       ,0.87696016
+1969,1979,Gibraltar                                                   ,3.10211924
+1970,1979,Guinea                                                      ,1.37528323
+1971,1979,Guadeloupe                                                  ,1.69241074
+1972,1979,Gambia                                                      ,1.37589528
+1973,1979,Guinea-Bissau                                               ,1.52401145
+1974,1979,Equatorial Guinea                                           ,0.55944196
+1975,1979,Greece                                                      ,7.76525569
+1976,1979,Grenada                                                     ,0.78105091
+1977,1979,Greenland                                                   ,1.15253749
+1978,1979,Guatemala                                                   ,1.7616242
+1979,1979,French Guiana                                               ,2.53451845
+1980,1979,Guyana                                                      ,6.23493193
+1981,1979,Hong Kong                                                   ,3.89193013
+1982,1979,Honduras                                                    ,2.14345547
+1983,1979,Croatia                                                     ,7.40360973
+1984,1979,Haiti                                                       ,1.32695245
+1985,1979,Hungary                                                     ,11.4589616
+1986,1979,Indonesia                                                   ,2.14783556
+1987,1979,India                                                       ,1.42832764
+1988,1979,Ireland                                                     ,15.3634429
+1989,1979,Iran (Islamic Republic of)                                  ,6.59508041
+1990,1979,Iraq                                                        ,15.5153336
+1991,1979,Iceland                                                     ,19.7101003
+1992,1979,"Israel and Palestine, State of                              ",5.14967174
+1993,1979,"Italy, San Marino and the Holy See                          ",8.59779773
+1994,1979,Jamaica                                                     ,4.00159764
+1995,1979,Jordan                                                      ,2.81239919
+1996,1979,Japan                                                       ,10.1840597
+1997,1979,Kazakhstan                                                  ,20.7766652
+1998,1979,Kenya                                                       ,2.06593324
+1999,1979,Kyrgyzstan                                                  ,7.71769178
