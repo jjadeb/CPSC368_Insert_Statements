@@ -1,209 +1,209 @@
-,Country,GHG_Emissions
-1,Aruba                                                       ,4.75136563
-2,Afghanistan                                                 ,0.86436883
-3,Angola                                                      ,2.54160095
-4,Anguilla                                                    ,2.23535798
-5,Albania                                                     ,3.14527556
-6,Cura��ao                                                ,20.9147387
-7,United Arab Emirates                                        ,26.5644221
-8,Argentina                                                   ,8.46500989
-9,Armenia                                                     ,2.99410926
-10,Antigua and Barbuda                                         ,3.64168024
-11,Australia                                                   ,24.1307983
-12,Austria                                                     ,9.46631178
-13,Azerbaijan                                                  ,5.96444407
-14,Burundi                                                     ,0.67041513
-15,Belgium                                                     ,10.8622928
-16,Benin                                                       ,1.5793592
-17,Burkina Faso                                                ,1.64780007
-18,Bangladesh                                                  ,1.67643832
-19,Bulgaria                                                    ,8.82469951
-20,Bahrain                                                     ,40.3992101
-21,Bahamas                                                     ,4.88387613
-22,Bosnia and Herzegovina                                      ,9.13352134
-23,Belarus                                                     ,11.0788873
-24,Belize                                                      ,2.37742135
-25,Bermuda                                                     ,5.66530081
-26,Bolivia                                                     ,5.07298044
-27,Brazil                                                      ,6.04618979
-28,Barbados                                                    ,3.35051081
-29,Brunei Darussalam                                           ,32.8374751
-30,Bhutan                                                      ,3.92588755
-31,Botswana                                                    ,5.60798238
-32,Central African Republic                                    ,2.6578787
-33,Canada                                                      ,21.3145076
-34,Switzerland and Liechtenstein                               ,5.60747735
-35,Chile                                                       ,7.16942678
-36,China                                                       ,10.1032559
-37,C��te d'Ivoire                                          ,1.27167133
-38,Cameroon                                                    ,1.69242112
-39,Democratic Republic of the Congo                            ,0.66498821
-40,Congo                                                       ,4.92220915
-41,Cook Islands                                                ,7.50886889
-42,Colombia                                                    ,4.08081452
-43,Comoros                                                     ,0.97339027
-44,Cabo Verde                                                  ,2.03127803
-45,Costa Rica                                                  ,3.34903507
-46,Cuba                                                        ,4.16868575
-47,Cayman Islands                                              ,4.84181457
-48,Cyprus                                                      ,7.94385725
-49,Czech Republic                                              ,12.3980711
-50,Germany                                                     ,10.5061177
-51,Djibouti                                                    ,2.15250477
-52,Dominica                                                    ,2.04399582
-53,Denmark                                                     ,8.68524456
-54,Dominican Republic                                          ,3.92270822
-55,Algeria                                                     ,6.54042776
-56,Ecuador                                                     ,4.22856429
-57,Egypt                                                       ,3.84844798
-58,Eritrea                                                     ,1.28405257
-59,Western Sahara                                              ,0.81423007
-60,Spain and Andorra                                           ,7.54806226
-61,Estonia                                                     ,20.3720455
-62,Ethiopia                                                    ,1.49178496
-63,Finland                                                     ,12.2703757
-64,Fiji                                                        ,3.28806121
-65,Falkland Islands                                            ,7.30775634
-66,France and Monaco                                           ,6.99171923
-67,Faroes                                                      ,1.02672751
-68,Gabon                                                       ,8.95788964
-69,United Kingdom                                              ,6.96953775
-70,Georgia                                                     ,4.32473785
-71,Ghana                                                       ,1.47466766
-72,Gibraltar                                                   ,20.6842533
-73,Guinea                                                      ,2.00100696
-74,Guadeloupe                                                  ,2.66739685
-75,Gambia                                                      ,0.97092207
-76,Guinea-Bissau                                               ,1.57762308
-77,Equatorial Guinea                                           ,10.9570203
-78,Greece                                                      ,7.82604102
-79,Grenada                                                     ,1.83146862
-80,Greenland                                                   ,10.333222
-81,Guatemala                                                   ,2.40767005
-82,French Guiana                                               ,1.95381074
-83,Guyana                                                      ,7.7481889
-84,Hong Kong                                                   ,6.796463
-85,Honduras                                                    ,2.26703025
-86,Croatia                                                     ,6.06012462
-87,Haiti                                                       ,1.32936899
-88,Hungary                                                     ,7.38232082
-89,Indonesia                                                   ,4.15916432
-90,India                                                       ,2.77287998
-91,Ireland                                                     ,13.2434631
-92,Iran (Islamic Republic of)                                  ,11.5938077
-93,Iraq                                                        ,8.82877597
-94,Iceland                                                     ,13.4308855
-95,"Israel and Palestine, State of                              ",6.24969442
-96,"Italy, San Marino and the Holy See                          ",7.04275645
-97,Jamaica                                                     ,3.56288963
-98,Jordan                                                      ,3.50969898
-99,Japan                                                       ,9.95393652
-100,Kazakhstan                                                  ,17.0561677
-101,Venezuela                                                   ,6.7049509
-102,British Virgin Islands                                      ,3.04298468
-103,Viet Nam                                                    ,4.57982077
-104,Vanuatu                                                     ,2.4564378
-105,Samoa                                                       ,2.98782252
-106,Yemen                                                       ,1.2053589
-107,South Africa                                                ,10.5541004
-108,Zambia                                                      ,1.61406963
-109,Zimbabwe                                                    ,1.84904464
-110,Kenya                                                       ,1.93462647
-111,Kyrgyzstan                                                  ,3.62086821
-112,Cambodia                                                    ,2.68466327
-113,Kiribati                                                    ,0.97129524
-114,St.Kitts and Nevis                                          ,2.8240024
-115,Republic of Korea                                           ,14.6636998
-116,Kuwait                                                      ,35.2293461
-117,Lao People's Democratic Republic                            ,5.00544341
-118,Lebanon                                                     ,5.69271881
-119,Liberia                                                     ,0.95804534
-120,Libya                                                       ,14.1218679
-121,St.Lucia                                                    ,1.92639801
-122,Sri Lanka                                                   ,1.98292135
-123,Lesotho                                                     ,1.28274306
-124,Lithuania                                                   ,7.92105459
-125,Luxembourg                                                  ,17.6938421
-126,Latvia                                                      ,6.41116225
-127,Macao                                                       ,4.2225209
-128,Morocco                                                     ,2.88551897
-129,Moldova                                                     ,3.11057622
-130,Madagascar                                                  ,1.26354572
-131,Maldives                                                    ,5.33214373
-132,Mexico                                                      ,5.97141719
-133,North Macedonia                                             ,4.96558043
-134,Mali                                                        ,2.25734169
-135,Malta                                                       ,4.69860794
-136,Myanmar                                                     ,2.97271222
-137,Mongolia                                                    ,21.1198192
-138,Mozambique                                                  ,1.26741718
-139,Mauritania                                                  ,3.32306939
-140,Martinique                                                  ,2.73336018
-141,Mauritius                                                   ,4.76653168
-142,Malawi                                                      ,0.91575459
-143,Malaysia                                                    ,10.1838052
-144,Namibia                                                     ,4.81226667
-145,New Caledonia                                               ,24.2608721
-146,Niger                                                       ,1.62201751
-147,Nigeria                                                     ,2.14155763
-148,Nicaragua                                                   ,3.11443631
-149,Netherlands                                                 ,11.6961634
-150,Norway                                                      ,13.5805586
-151,Nepal                                                       ,1.86862953
-152,New Zealand                                                 ,18.4680211
-153,Oman                                                        ,26.0873286
-154,Pakistan                                                    ,2.5424496
-155,Panama                                                      ,4.01297107
-156,Peru                                                        ,2.96988757
-157,Philippines                                                 ,2.30989591
-158,Palau                                                       ,58.5977342
-159,Papua New Guinea                                            ,1.40080394
-160,Poland                                                      ,10.789081
-161,Puerto Rico                                                 ,4.42818263
-162,North Korea                                                 ,3.06693775
-163,Portugal                                                    ,6.63630268
-164,Paraguay                                                    ,6.20836982
-165,French Polynesia                                            ,4.27881379
-166,Qatar                                                       ,70.7433594
-167,R��union                                                ,3.46637521
-168,Romania                                                     ,6.24560548
-169,Russian Federation                                          ,16.976252
-170,Rwanda                                                      ,0.6743442
-171,Saudi Arabia                                                ,22.6043047
-172,Serbia and Montenegro                                       ,7.4948002
-173,Sudan and South Sudan                                       ,2.6679499
-174,Senegal                                                     ,1.63555414
-175,Singapore                                                   ,11.8315444
-176,"Saint Helena, Ascension and Tristan da Cunha                ",4.8014976
-177,Solomon Islands                                             ,0.97899931
-178,Sierra Leone                                                ,1.02623764
-179,El Salvador                                                 ,1.89547185
-180,Somalia                                                     ,2.06056413
-181,St.Pierre and Miquelon                                      ,7.67076389
-182,S��o Tom�� and Pr��ncipe                        ,1.12869046
-183,Suriname                                                    ,5.82603006
-184,Slovakia                                                    ,8.58495876
-185,Slovenia                                                    ,9.5818605
-186,Sweden                                                      ,6.34652844
-187,Eswatini                                                    ,2.24006482
-188,Seychelles                                                  ,11.3007141
-189,Syria                                                       ,2.51063038
-190,Turks and Caicos Islands                                    ,2.92665171
-191,Chad                                                        ,4.83622571
-192,Togo                                                        ,1.17979148
-193,Thailand                                                    ,6.45087589
-194,Tajikistan                                                  ,2.16773855
-195,Turkmenistan                                                ,21.0982931
-196,Timor-Leste                                                 ,2.38260209
-197,Tonga                                                       ,2.51391929
-198,Trinidad and Tobago                                         ,37.323667
-199,Tunisia                                                     ,3.75266881
-200,Turkey                                                      ,7.37163207
-201,Taiwan                                                      ,13.4186701
-202,Tanzania                                                    ,1.33996613
-203,Uganda                                                      ,1.11633913
-204,Ukraine                                                     ,6.69756702
-205,Uruguay                                                     ,11.7381208
-206,United States                                               ,19.2421754
-207,Uzbekistan                                                  ,6.58637388
-208,St.Vincent and the Grenadines                               ,1.55919332
+Country,GHG_Emissions
+Kazakhstan                                                  ,17.0561677
+Kenya                                                       ,1.93462647
+Kyrgyzstan                                                  ,3.62086821
+Cambodia                                                    ,2.68466327
+Kiribati                                                    ,0.97129524
+St.Kitts and Nevis                                          ,2.8240024
+Republic of Korea                                           ,14.6636998
+Kuwait                                                      ,35.2293461
+Lao People's Democratic Republic                            ,5.00544341
+Lebanon                                                     ,5.69271881
+Liberia                                                     ,0.95804534
+Libya                                                       ,14.1218679
+St.Lucia                                                    ,1.92639801
+Sri Lanka                                                   ,1.98292135
+Lesotho                                                     ,1.28274306
+Lithuania                                                   ,7.92105459
+Luxembourg                                                  ,17.6938421
+Latvia                                                      ,6.41116225
+Macao                                                       ,4.2225209
+Morocco                                                     ,2.88551897
+Moldova                                                     ,3.11057622
+Madagascar                                                  ,1.26354572
+Maldives                                                    ,5.33214373
+Mexico                                                      ,5.97141719
+North Macedonia                                             ,4.96558043
+Mali                                                        ,2.25734169
+Malta                                                       ,4.69860794
+Myanmar                                                     ,2.97271222
+Mongolia                                                    ,21.1198192
+Mozambique                                                  ,1.26741718
+Mauritania                                                  ,3.32306939
+Martinique                                                  ,2.73336018
+Mauritius                                                   ,4.76653168
+Malawi                                                      ,0.91575459
+Malaysia                                                    ,10.1838052
+Namibia                                                     ,4.81226667
+New Caledonia                                               ,24.2608721
+Niger                                                       ,1.62201751
+Nigeria                                                     ,2.14155763
+Nicaragua                                                   ,3.11443631
+Netherlands                                                 ,11.6961634
+Norway                                                      ,13.5805586
+Nepal                                                       ,1.86862953
+New Zealand                                                 ,18.4680211
+Oman                                                        ,26.0873286
+Pakistan                                                    ,2.5424496
+Panama                                                      ,4.01297107
+Peru                                                        ,2.96988757
+Philippines                                                 ,2.30989591
+Palau                                                       ,58.5977342
+Papua New Guinea                                            ,1.40080394
+Poland                                                      ,10.789081
+Puerto Rico                                                 ,4.42818263
+North Korea                                                 ,3.06693775
+Portugal                                                    ,6.63630268
+Paraguay                                                    ,6.20836982
+French Polynesia                                            ,4.27881379
+Qatar                                                       ,70.7433594
+R��union                                                ,3.46637521
+Romania                                                     ,6.24560548
+Russian Federation                                          ,16.976252
+Rwanda                                                      ,0.6743442
+Saudi Arabia                                                ,22.6043047
+Serbia and Montenegro                                       ,7.4948002
+Sudan and South Sudan                                       ,2.6679499
+Senegal                                                     ,1.63555414
+Singapore                                                   ,11.8315444
+"Saint Helena, Ascension and Tristan da Cunha                ",4.8014976
+Solomon Islands                                             ,0.97899931
+Sierra Leone                                                ,1.02623764
+El Salvador                                                 ,1.89547185
+Somalia                                                     ,2.06056413
+St.Pierre and Miquelon                                      ,7.67076389
+S��o Tom�� and Pr��ncipe                        ,1.12869046
+Suriname                                                    ,5.82603006
+Slovakia                                                    ,8.58495876
+Slovenia                                                    ,9.5818605
+Sweden                                                      ,6.34652844
+Eswatini                                                    ,2.24006482
+Seychelles                                                  ,11.3007141
+Syria                                                       ,2.51063038
+Turks and Caicos Islands                                    ,2.92665171
+Chad                                                        ,4.83622571
+Togo                                                        ,1.17979148
+Thailand                                                    ,6.45087589
+Tajikistan                                                  ,2.16773855
+Turkmenistan                                                ,21.0982931
+Timor-Leste                                                 ,2.38260209
+Tonga                                                       ,2.51391929
+Trinidad and Tobago                                         ,37.323667
+Tunisia                                                     ,3.75266881
+Turkey                                                      ,7.37163207
+Taiwan                                                      ,13.4186701
+Tanzania                                                    ,1.33996613
+Uganda                                                      ,1.11633913
+Ukraine                                                     ,6.69756702
+Uruguay                                                     ,11.7381208
+United States                                               ,19.2421754
+Uzbekistan                                                  ,6.58637388
+St.Vincent and the Grenadines                               ,1.55919332
+Venezuela                                                   ,6.7049509
+British Virgin Islands                                      ,3.04298468
+Viet Nam                                                    ,4.57982077
+Vanuatu                                                     ,2.4564378
+Samoa                                                       ,2.98782252
+Yemen                                                       ,1.2053589
+South Africa                                                ,10.5541004
+Zambia                                                      ,1.61406963
+Zimbabwe                                                    ,1.84904464
+Aruba                                                       ,4.75136563
+Afghanistan                                                 ,0.86436883
+Angola                                                      ,2.54160095
+Anguilla                                                    ,2.23535798
+Albania                                                     ,3.14527556
+Cura��ao                                                ,20.9147387
+United Arab Emirates                                        ,26.5644221
+Argentina                                                   ,8.46500989
+Armenia                                                     ,2.99410926
+Antigua and Barbuda                                         ,3.64168024
+Australia                                                   ,24.1307983
+Austria                                                     ,9.46631178
+Azerbaijan                                                  ,5.96444407
+Burundi                                                     ,0.67041513
+Belgium                                                     ,10.8622928
+Benin                                                       ,1.5793592
+Burkina Faso                                                ,1.64780007
+Bangladesh                                                  ,1.67643832
+Bulgaria                                                    ,8.82469951
+Bahrain                                                     ,40.3992101
+Bahamas                                                     ,4.88387613
+Bosnia and Herzegovina                                      ,9.13352134
+Belarus                                                     ,11.0788873
+Belize                                                      ,2.37742135
+Bermuda                                                     ,5.66530081
+Bolivia                                                     ,5.07298044
+Brazil                                                      ,6.04618979
+Barbados                                                    ,3.35051081
+Brunei Darussalam                                           ,32.8374751
+Bhutan                                                      ,3.92588755
+Botswana                                                    ,5.60798238
+Central African Republic                                    ,2.6578787
+Canada                                                      ,21.3145076
+Switzerland and Liechtenstein                               ,5.60747735
+Chile                                                       ,7.16942678
+China                                                       ,10.1032559
+C��te d'Ivoire                                          ,1.27167133
+Cameroon                                                    ,1.69242112
+Democratic Republic of the Congo                            ,0.66498821
+Congo                                                       ,4.92220915
+Cook Islands                                                ,7.50886889
+Colombia                                                    ,4.08081452
+Comoros                                                     ,0.97339027
+Cabo Verde                                                  ,2.03127803
+Costa Rica                                                  ,3.34903507
+Cuba                                                        ,4.16868575
+Cayman Islands                                              ,4.84181457
+Cyprus                                                      ,7.94385725
+Czech Republic                                              ,12.3980711
+Germany                                                     ,10.5061177
+Djibouti                                                    ,2.15250477
+Dominica                                                    ,2.04399582
+Denmark                                                     ,8.68524456
+Dominican Republic                                          ,3.92270822
+Algeria                                                     ,6.54042776
+Ecuador                                                     ,4.22856429
+Egypt                                                       ,3.84844798
+Eritrea                                                     ,1.28405257
+Western Sahara                                              ,0.81423007
+Spain and Andorra                                           ,7.54806226
+Estonia                                                     ,20.3720455
+Ethiopia                                                    ,1.49178496
+Finland                                                     ,12.2703757
+Fiji                                                        ,3.28806121
+Falkland Islands                                            ,7.30775634
+France and Monaco                                           ,6.99171923
+Faroes                                                      ,1.02672751
+Gabon                                                       ,8.95788964
+United Kingdom                                              ,6.96953775
+Georgia                                                     ,4.32473785
+Ghana                                                       ,1.47466766
+Gibraltar                                                   ,20.6842533
+Guinea                                                      ,2.00100696
+Guadeloupe                                                  ,2.66739685
+Gambia                                                      ,0.97092207
+Guinea-Bissau                                               ,1.57762308
+Equatorial Guinea                                           ,10.9570203
+Greece                                                      ,7.82604102
+Grenada                                                     ,1.83146862
+Greenland                                                   ,10.333222
+Guatemala                                                   ,2.40767005
+French Guiana                                               ,1.95381074
+Guyana                                                      ,7.7481889
+Hong Kong                                                   ,6.796463
+Honduras                                                    ,2.26703025
+Croatia                                                     ,6.06012462
+Haiti                                                       ,1.32936899
+Hungary                                                     ,7.38232082
+Indonesia                                                   ,4.15916432
+India                                                       ,2.77287998
+Ireland                                                     ,13.2434631
+Iran (Islamic Republic of)                                  ,11.5938077
+Iraq                                                        ,8.82877597
+Iceland                                                     ,13.4308855
+"Israel and Palestine, State of                              ",6.24969442
+"Italy, San Marino and the Holy See                          ",7.04275645
+Jamaica                                                     ,3.56288963
+Jordan                                                      ,3.50969898
+Japan                                                       ,9.95393652
