@@ -1,0 +1,12 @@
+
+import cx_Oracle
+
+
+dsn = cx_Oracle.makedsn("localhost", 1522, service_name="stu")
+connection = cx_Oracle.connect(user="ora_nmenon04", password="a23966450", dsn=dsn, encoding="UTF-8")
+
+cur = connection.cursor()
+# for row in cur.execute("select * from titles"):
+#     print(row)
+# cur.close()
+
