@@ -18,7 +18,7 @@ CREATE TABLE Greenhouse_Gasses
 
 CREATE TABLE Paris_Agreement_Member
     (Country_Name CHAR(60) PRIMARY KEY, 
-    Date_joined DATE, 
+    Date_joined CHAR(10), 
     FOREIGN KEY (Country_Name) REFERENCES Country);
 
 CREATE TABLE Climate_Risk_Index
