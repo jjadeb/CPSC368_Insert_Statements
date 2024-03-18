@@ -1,1 +1,198 @@
 Country_Name,Date_Joined
+Afghanistan                                                 ,R         
+Albania                                                     ,R         
+Algeria                                                     ,R         
+Andorra                                                     ,R         
+Angola                                                      ,R         
+Antigua and Barbuda                                         ,R         
+Argentina                                                   ,R         
+Armenia                                                     ,R         
+Australia                                                   ,R         
+Austria                                                     ,R         
+Azerbaijan                                                  ,R         
+Bahamas                                                     ,R         
+Bahrain                                                     ,R         
+Bangladesh                                                  ,R         
+Barbados                                                    ,R         
+Belarus                                                     ,A         
+Belgium                                                     ,R         
+Belize                                                      ,R         
+Benin                                                       ,R         
+Bhutan                                                      ,R         
+Bolivia                                                     ,R         
+Bosnia and Herzegovina                                      ,R         
+Botswana                                                    ,R         
+Brazil                                                      ,R         
+Brunei Darussalam                                           ,R         
+Bulgaria                                                    ,R         
+Burkina Faso                                                ,R         
+Burundi                                                     ,R         
+Cabo Verde                                                  ,R         
+Cambodia                                                    ,R         
+Cameroon                                                    ,R         
+Canada                                                      ,R         
+Central African Republic                                    ,R         
+Chad                                                        ,R         
+Chile                                                       ,R         
+China                                                       ,R         
+Colombia                                                    ,R         
+Comoros                                                     ,R         
+Congo                                                       ,R         
+Cook Islands                                                ,R         
+Costa Rica                                                  ,R         
+C��te d'Ivoire                                          ,R         
+Croatia                                                     ,R         
+Cuba                                                        ,R         
+Cyprus                                                      ,R         
+Czech Republic                                              ,R         
+Democratic People's Republic of Korea                       ,R         
+Democratic Republic of the Congo                            ,R         
+Denmark                                                     ,AA        
+Djibouti                                                    ,R         
+Dominica                                                    ,R         
+Dominican Republic                                          ,R         
+Ecuador                                                     ,R         
+Egypt                                                       ,R         
+El Salvador                                                 ,R         
+Equatorial Guinea                                           ,R         
+Eritrea                                                     ,R         
+Estonia                                                     ,R         
+Eswatini                                                    ,R         
+Ethiopia                                                    ,R         
+Fiji                                                        ,R         
+Finland                                                     ,R         
+France                                                      ,R         
+Gabon                                                       ,R         
+Gambia                                                      ,R         
+Georgia                                                     ,AA        
+Germany                                                     ,R         
+Ghana                                                       ,R         
+Greece                                                      ,R         
+Grenada                                                     ,R         
+Guatemala                                                   ,R         
+Guinea                                                      ,R         
+Guinea Bissau                                               ,R         
+Guyana                                                      ,R         
+Haiti                                                       ,R         
+Holy See                                                    ,a         
+Honduras                                                    ,R         
+Hungary                                                     ,R         
+Iceland                                                     ,A         
+India                                                       ,R         
+Indonesia                                                   ,R         
+Iran (Islamic Republic of)                                  ,None      
+Iraq                                                        ,R         
+Ireland                                                     ,R         
+Israel                                                      ,R         
+Italy                                                       ,R         
+Jamaica                                                     ,R         
+Japan                                                       ,A         
+Jordan                                                      ,R         
+Kazakhstan                                                  ,R         
+Kenya                                                       ,R         
+Kiribati                                                    ,R         
+Kuwait                                                      ,R         
+Kyrgyzstan                                                  ,R         
+Lao People's Democratic Republic                            ,R         
+Uruguay                                                     ,R         
+Uzbekistan                                                  ,R         
+Vanuatu                                                     ,R         
+Venezuela                                                   ,R         
+Viet Nam                                                    ,AA        
+Republic of Yemen                                           ,None      
+Zambia                                                      ,R         
+Zimbabwe                                                    ,R         
+Latvia                                                      ,R         
+Lebanon                                                     ,R         
+Lesotho                                                     ,R         
+Liberia                                                     ,R         
+Libya                                                       ,None      
+Liechtenstein                                               ,R         
+Lithuania                                                   ,R         
+Luxembourg                                                  ,R         
+Madagascar                                                  ,R         
+Malawi                                                      ,R         
+Malaysia                                                    ,R         
+Maldives                                                    ,R         
+Mali                                                        ,R         
+Malta                                                       ,R         
+Marshall Islands                                            ,R         
+Mauritania                                                  ,R         
+Mauritius                                                   ,R         
+Mexico                                                      ,R         
+Micronesia                                                  ,R         
+Monaco                                                      ,R         
+Mongolia                                                    ,R         
+Montenegro                                                  ,R         
+Morocco                                                     ,R         
+Mozambique                                                  ,R         
+Myanmar                                                     ,R         
+Namibia                                                     ,R         
+Nauru                                                       ,R         
+Nepal                                                       ,R         
+Netherlands                                                 ,A         
+New Zealand                                                 ,R         
+Nicaragua                                                   ,a         
+Niger                                                       ,R         
+Nigeria                                                     ,R         
+Niue                                                        ,R         
+North Macedonia                                             ,R         
+Norway                                                      ,R         
+Oman                                                        ,R         
+Pakistan                                                    ,R         
+Palau                                                       ,R         
+Panama                                                      ,R         
+Papua New Guinea                                            ,R         
+Paraguay                                                    ,R         
+Peru                                                        ,R         
+Philippines                                                 ,R         
+Poland                                                      ,R         
+Portugal                                                    ,R         
+Qatar                                                       ,R         
+Republic of Korea                                           ,R         
+Moldova                                                     ,R         
+Romania                                                     ,R         
+Russian Federation                                          ,A         
+Rwanda                                                      ,R         
+Samoa                                                       ,R         
+San Marino                                                  ,R         
+Sao Tome and Principe                                       ,R         
+Saudi Arabia                                                ,R         
+Senegal                                                     ,R         
+Serbia                                                      ,R         
+Seychelles                                                  ,R         
+Sierra Leone                                                ,R         
+Singapore                                                   ,R         
+Slovakia                                                    ,R         
+Slovenia                                                    ,R         
+Solomon Islands                                             ,R         
+Somalia                                                     ,R         
+South Africa                                                ,R         
+South Sudan                                                 ,R         
+Spain                                                       ,R         
+Sri Lanka                                                   ,R         
+St.Kitts and Nevis                                          ,R         
+St.Lucia                                                    ,R         
+St.Vincent and the Grenadines                               ,R         
+State of Palestine                                          ,R         
+Sudan                                                       ,R         
+Suriname                                                    ,R         
+Sweden                                                      ,R         
+Switzerland                                                 ,R         
+Syrian Arab Republic                                        ,a         
+Tajikistan                                                  ,R         
+Thailand                                                    ,R         
+Timor Leste                                                 ,R         
+Togo                                                        ,R         
+Tonga                                                       ,R         
+Trinidad and Tobago                                         ,R         
+Tunisia                                                     ,R         
+Turkey                                                      ,R         
+Turkmenistan                                                ,R         
+Tuvalu                                                      ,R         
+Uganda                                                      ,R         
+Ukraine                                                     ,R         
+United Arab Emirates                                        ,A         
+United Kingdom                                              ,R         
+Tanzania                                                    ,R         
+United States of America                                    ,A         
