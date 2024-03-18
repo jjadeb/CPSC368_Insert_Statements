@@ -1,241 +1,241 @@
 ,Country_Name,WHO_Region,ISO_CHAR
-1,Afghanistan                                                 ,Eastern Mediterranean Region                      ,AFG
-2,Albania                                                     ,European Region                                   ,ALB
-3,Andorra                                                     ,European Region                                   ,AND
-4,United Arab Emirates                                        ,Eastern Mediterranean Region                      ,ARE
-5,Argentina                                                   ,Region of the Americas                            ,ARG
-6,Australia                                                   ,Western Pacific Region                            ,AUS
-7,Austria                                                     ,European Region                                   ,AUT
-8,Belgium                                                     ,European Region                                   ,BEL
-9,Bangladesh                                                  ,South East Asia Region                            ,BGD
-10,Bulgaria                                                    ,European Region                                   ,BGR
-11,Bahrain                                                     ,Eastern Mediterranean Region                      ,BHR
-12,Bahamas                                                     ,Region of the Americas                            ,BHS
-13,Bosnia and Herzegovina                                      ,European Region                                   ,BIH
-14,Bolivia                                                     ,Region of the Americas                            ,BOL
-15,Brazil                                                      ,Region of the Americas                            ,BRA
-16,Bhutan                                                      ,South East Asia Region                            ,BTN
-17,Canada                                                      ,Region of the Americas                            ,CAN
-18,Switzerland                                                 ,European Region                                   ,CHE
-19,Chile                                                       ,Region of the Americas                            ,CHL
-20,China                                                       ,Western Pacific Region                            ,CHN
-21,Cameroon                                                    ,African Region                                    ,CMR
-22,Colombia                                                    ,Region of the Americas                            ,COL
-23,Costa Rica                                                  ,Region of the Americas                            ,CRI
-24,Cuba                                                        ,Region of the Americas                            ,CUB
-25,Cyprus                                                      ,European Region                                   ,CYP
-26,Czech Republic                                              ,European Region                                   ,CZE
-27,Germany                                                     ,European Region                                   ,DEU
-28,Denmark                                                     ,European Region                                   ,DNK
-29,Algeria                                                     ,African Region                                    ,DZA
-30,Ecuador                                                     ,Region of the Americas                            ,ECU
-31,Egypt                                                       ,Eastern Mediterranean Region                      ,EGY
-32,Spain                                                       ,European Region                                   ,ESP
-33,Estonia                                                     ,European Region                                   ,EST
-34,Ethiopia                                                    ,African Region                                    ,ETH
-35,Finland                                                     ,European Region                                   ,FIN
-36,Fiji                                                        ,Western Pacific Region                            ,FJI
-37,France                                                      ,European Region                                   ,FRA
-38,United Kingdom                                              ,European Region                                   ,GBR
-39,Georgia                                                     ,European Region                                   ,GEO
-40,Ghana                                                       ,African Region                                    ,GHA
-41,Greece                                                      ,European Region                                   ,GRC
-42,Guatemala                                                   ,Region of the Americas                            ,GTM
-43,Honduras                                                    ,Region of the Americas                            ,HND
-44,Croatia                                                     ,European Region                                   ,HRV
-45,Hungary                                                     ,European Region                                   ,HUN
-46,Indonesia                                                   ,South East Asia Region                            ,IDN
-47,India                                                       ,South East Asia Region                            ,IND
-48,Ireland                                                     ,European Region                                   ,IRL
-49,Iran (Islamic Republic of)                                  ,Eastern Mediterranean Region                      ,IRN
-50,Iraq                                                        ,Eastern Mediterranean Region                      ,IRQ
-51,Iceland                                                     ,European Region                                   ,ISL
-52,Israel                                                      ,European Region                                   ,ISR
-53,Italy                                                       ,European Region                                   ,ITA
-54,Jamaica                                                     ,Region of the Americas                            ,JAM
-55,Jordan                                                      ,Eastern Mediterranean Region                      ,JOR
-56,Japan                                                       ,Western Pacific Region                            ,JPN
-57,Kazakhstan                                                  ,European Region                                   ,KAZ
-58,Kenya                                                       ,African Region                                    ,KEN
-59,Kyrgyzstan                                                  ,European Region                                   ,KGZ
-60,Republic of Korea                                           ,Western Pacific Region                            ,KOR
-61,Kuwait                                                      ,Eastern Mediterranean Region                      ,KWT
-62,North Korea                                                 ,,
-63,South Sudan                                                 ,,
-64,Botswana                                                    ,,
-65,Democratic People's Republic of Korea                       ,,
-66,S��o Tom�� and Pr��ncipe                        ,,
-67,Mali                                                        ,,
-68,Gibraltar                                                   ,,
-69,Zambia                                                      ,,
-70,Niue                                                        ,,
-71,Angola                                                      ,,
-72,Benin                                                       ,,
-73,Nicaragua                                                   ,,
-74,R��union                                                ,,
-75,Liberia                                                     ,,
-76,Tuvalu                                                      ,,
-77,Spain and Andorra                                           ,,
-78,Yemen                                                       ,,
-79,"Italy, San Marino and the Holy See                          ",,
-80,C��te d'Ivoire                                          ,,
-81,Turks and Caicos Islands                                    ,,
-82,Aruba                                                       ,,
-83,Vanuatu                                                     ,,
-84,Cura��ao                                                ,,
-85,Gabon                                                       ,,
-86,Guyana                                                      ,,
-87,State of Palestine                                          ,,
-88,Kiribati                                                    ,,
-89,Martinique                                                  ,,
-90,Comoros                                                     ,,
-91,Republic of Yemen                                           ,,
-92,France and Monaco                                           ,,
-93,Brunei Darussalam                                           ,,
-94,Armenia                                                     ,,
-95,Somalia                                                     ,,
-96,Suriname                                                    ,,
-97,Moldova                                                     ,,
-98,Niger                                                       ,,
-99,Switzerland and Liechtenstein                               ,,
-100,British Virgin Islands                                      ,,
-101,Sudan                                                       ,,
-102,Timor-Leste                                                 ,,
-103,Guinea-Bissau                                               ,,
-104,Falkland Islands                                            ,,
-105,Namibia                                                     ,,
-106,Micronesia                                                  ,,
-107,Dominica                                                    ,,
-108,Serbia and Montenegro                                       ,,
-109,Kosovo                                                      ,,
-110,French Polynesia                                            ,,
-111,"Saint Helena, Ascension and Tristan da Cunha                ",,
-112,Congo                                                       ,,
-113,Chinese Taipei                                              ,,
-114,Cabo Verde                                                  ,,
-115,Bermuda                                                     ,,
-116,Cook Islands                                                ,,
-117,Syria                                                       ,,
-118,Marshall Islands                                            ,,
-119,Cambodia                                                    ,,
-120,Oman                                                        ,,
-121,Grenada                                                     ,,
-122,French Guiana                                               ,,
-123,Timor Leste                                                 ,,
-124,Dominican Republic                                          ,,
-125,Taiwan                                                      ,,
-126,Zimbabwe                                                    ,,
-127,Seychelles                                                  ,,
-128,Equatorial Guinea                                           ,,
-129,Gambia                                                      ,,
-130,Guinea                                                      ,,
-131,Sierra Leone                                                ,,
-132,Guadeloupe                                                  ,,
-133,Democratic Republic of the Congo                            ,,
-134,Rwanda                                                      ,,
-135,The Bahamas                                                 ,,
-136,Haiti                                                       ,,
-137,Burundi                                                     ,,
-138,Burkina Faso                                                ,,
-139,Belarus                                                     ,,
-140,New Caledonia                                               ,,
-141,Azerbaijan                                                  ,,
-142,St.Vincent and the Grenadines                               ,,
-143,Djibouti                                                    ,,
-144,Lesotho                                                     ,,
-145,Hong Kong                                                   ,,
-146,Eritrea                                                     ,,
-147,Solomon Islands                                             ,,
-148,Greenland                                                   ,,
-149,Samoa                                                       ,,
-150,Syrian Arab Republic                                        ,,
-151,Malawi                                                      ,,
-152,Belize                                                      ,,
-153,Macao                                                       ,,
-154,Papua New Guinea                                            ,,
-155,Palau                                                       ,,
-156,St.Kitts and Nevis                                          ,,
-157,St.Lucia                                                    ,,
-158,Nauru                                                       ,,
-159,Barbados                                                    ,,
-160,United States                                               ,,
-161,Cape Verde                                                  ,,
-162,Mauritania                                                  ,,
-163,Western Sahara                                              ,,
-164,Puerto Rico                                                 ,,
-165,Eswatini                                                    ,,
-166,Mozambique                                                  ,,
-167,Guinea Bissau                                               ,,
-168,Sao Tome and Principe                                       ,,
-169,Central African Republic                                    ,,
-170,San Marino                                                  ,,
-171,St.Pierre and Miquelon                                      ,,
-172,Libya                                                       ,,
-173,Holy See                                                    ,,
-174,Togo                                                        ,,
-175,Democratic Republic of Congo                                ,,
-176,Tonga                                                       ,,
-177,Faroes                                                      ,,
-178,"Israel and Palestine, State of                              ",,
-179,Lao People's Democratic Republic                            ,Western Pacific Region                            ,LAO
-180,Lebanon                                                     ,Eastern Mediterranean Region                      ,LBN
-181,Liechtenstein                                               ,NULL                                              ,LIE
-182,Sri Lanka                                                   ,South East Asia Region                            ,LKA
-183,Lithuania                                                   ,European Region                                   ,LTU
-184,Luxembourg                                                  ,European Region                                   ,LUX
-185,Latvia                                                      ,European Region                                   ,LVA
-186,Morocco                                                     ,Eastern Mediterranean Region                      ,MAR
-187,Monaco                                                      ,European Region                                   ,MCO
-188,Madagascar                                                  ,African Region                                    ,MDG
-189,Maldives                                                    ,South East Asia Region                            ,MDV
-190,Mexico                                                      ,Region of the Americas                            ,MEX
-191,North Macedonia                                             ,European Region                                   ,MKD
-192,Malta                                                       ,European Region                                   ,MLT
-193,Myanmar                                                     ,South East Asia Region                            ,MMR
-194,Montenegro                                                  ,European Region                                   ,MNE
-195,Mongolia                                                    ,Western Pacific Region                            ,MNG
-196,Mauritius                                                   ,African Region                                    ,MUS
-197,Malaysia                                                    ,Western Pacific Region                            ,MYS
-198,Nigeria                                                     ,African Region                                    ,NGA
-199,Netherlands                                                 ,European Region                                   ,NLD
-200,Norway                                                      ,European Region                                   ,NOR
-201,Nepal                                                       ,South East Asia Region                            ,NPL
-202,New Zealand                                                 ,Western Pacific Region                            ,NZL
-203,Pakistan                                                    ,Eastern Mediterranean Region                      ,PAK
-204,Panama                                                      ,Region of the Americas                            ,PAN
-205,Peru                                                        ,Region of the Americas                            ,PER
-206,Philippines                                                 ,Western Pacific Region                            ,PHL
-207,Poland                                                      ,European Region                                   ,POL
-208,Portugal                                                    ,European Region                                   ,PRT
-209,Paraguay                                                    ,Region of the Americas                            ,PRY
-210,Qatar                                                       ,Eastern Mediterranean Region                      ,QAT
-211,Romania                                                     ,European Region                                   ,ROU
-212,Russian Federation                                          ,European Region                                   ,RUS
-213,Saudi Arabia                                                ,Eastern Mediterranean Region                      ,SAU
-214,Senegal                                                     ,African Region                                    ,SEN
-215,Singapore                                                   ,Western Pacific Region                            ,SGP
-216,El Salvador                                                 ,Region of the Americas                            ,SLV
-217,Serbia                                                      ,European Region                                   ,SRB
-218,Slovakia                                                    ,European Region                                   ,SVK
-219,Slovenia                                                    ,European Region                                   ,SVN
-220,Sweden                                                      ,European Region                                   ,SWE
-221,Thailand                                                    ,South East Asia Region                            ,THA
-222,Tajikistan                                                  ,European Region                                   ,TJK
-223,Turkmenistan                                                ,European Region                                   ,TKM
-224,Trinidad and Tobago                                         ,Region of the Americas                            ,TTO
-225,Tunisia                                                     ,Eastern Mediterranean Region                      ,TUN
-226,Turkey                                                      ,European Region                                   ,TUR
-227,Tanzania                                                    ,African Region                                    ,TZA
-228,Uganda                                                      ,African Region                                    ,UGA
-229,Ukraine                                                     ,European Region                                   ,UKR
-230,Uruguay                                                     ,Region of the Americas                            ,URY
-231,United States of America                                    ,Region of the Americas                            ,USA
-232,Uzbekistan                                                  ,European Region                                   ,UZB
-233,Venezuela                                                   ,Region of the Americas                            ,VEN
-234,Viet Nam                                                    ,Western Pacific Region                            ,VNM
-235,South Africa                                                ,African Region                                    ,ZAF
-236,Sudan and South Sudan                                       ,,
-237,Chad                                                        ,,
-238,Cayman Islands                                              ,,
-239,Antigua and Barbuda                                         ,,
-240,Anguilla                                                    ,,
+1,Andorra                                                     ,European Region                                   ,AND
+2,United Arab Emirates                                        ,Eastern Mediterranean Region                      ,ARE
+3,Argentina                                                   ,Region of the Americas                            ,ARG
+4,Australia                                                   ,Western Pacific Region                            ,AUS
+5,Austria                                                     ,European Region                                   ,AUT
+6,Belgium                                                     ,European Region                                   ,BEL
+7,Bangladesh                                                  ,South East Asia Region                            ,BGD
+8,Bulgaria                                                    ,European Region                                   ,BGR
+9,Bahrain                                                     ,Eastern Mediterranean Region                      ,BHR
+10,Bahamas                                                     ,Region of the Americas                            ,BHS
+11,Bosnia and Herzegovina                                      ,European Region                                   ,BIH
+12,Brazil                                                      ,Region of the Americas                            ,BRA
+13,Canada                                                      ,Region of the Americas                            ,CAN
+14,Switzerland                                                 ,European Region                                   ,CHE
+15,Chile                                                       ,Region of the Americas                            ,CHL
+16,China                                                       ,Western Pacific Region                            ,CHN
+17,Colombia                                                    ,Region of the Americas                            ,COL
+18,Costa Rica                                                  ,Region of the Americas                            ,CRI
+19,Cyprus                                                      ,European Region                                   ,CYP
+20,Czech Republic                                              ,European Region                                   ,CZE
+21,Germany                                                     ,European Region                                   ,DEU
+22,Denmark                                                     ,European Region                                   ,DNK
+23,Ecuador                                                     ,Region of the Americas                            ,ECU
+24,Spain                                                       ,European Region                                   ,ESP
+25,Estonia                                                     ,European Region                                   ,EST
+26,Ethiopia                                                    ,African Region                                    ,ETH
+27,Finland                                                     ,European Region                                   ,FIN
+28,France                                                      ,European Region                                   ,FRA
+29,United Kingdom                                              ,European Region                                   ,GBR
+30,Greece                                                      ,European Region                                   ,GRC
+31,Croatia                                                     ,European Region                                   ,HRV
+32,Hungary                                                     ,European Region                                   ,HUN
+33,Indonesia                                                   ,South East Asia Region                            ,IDN
+34,India                                                       ,South East Asia Region                            ,IND
+35,Ireland                                                     ,European Region                                   ,IRL
+36,Iran (Islamic Republic of)                                  ,Eastern Mediterranean Region                      ,IRN
+37,Iraq                                                        ,Eastern Mediterranean Region                      ,IRQ
+38,Iceland                                                     ,European Region                                   ,ISL
+39,Italy                                                       ,European Region                                   ,ITA
+40,Jordan                                                      ,Eastern Mediterranean Region                      ,JOR
+41,Japan                                                       ,Western Pacific Region                            ,JPN
+42,Kazakhstan                                                  ,European Region                                   ,KAZ
+43,Kenya                                                       ,African Region                                    ,KEN
+44,Republic of Korea                                           ,Western Pacific Region                            ,KOR
+45,Kuwait                                                      ,Eastern Mediterranean Region                      ,KWT
+46,Sri Lanka                                                   ,South East Asia Region                            ,LKA
+47,Lithuania                                                   ,European Region                                   ,LTU
+48,Luxembourg                                                  ,European Region                                   ,LUX
+49,Latvia                                                      ,European Region                                   ,LVA
+50,Morocco                                                     ,Eastern Mediterranean Region                      ,MAR
+51,Monaco                                                      ,European Region                                   ,MCO
+52,Mexico                                                      ,Region of the Americas                            ,MEX
+53,North Macedonia                                             ,European Region                                   ,MKD
+54,Malta                                                       ,European Region                                   ,MLT
+55,Montenegro                                                  ,European Region                                   ,MNE
+56,Mongolia                                                    ,Western Pacific Region                            ,MNG
+57,Netherlands                                                 ,European Region                                   ,NLD
+58,Norway                                                      ,European Region                                   ,NOR
+59,Nepal                                                       ,South East Asia Region                            ,NPL
+60,Pakistan                                                    ,Eastern Mediterranean Region                      ,PAK
+61,Peru                                                        ,Region of the Americas                            ,PER
+62,Congo                                                       ,,
+63,Malawi                                                      ,,
+64,Aruba                                                       ,,
+65,Sierra Leone                                                ,,
+66,Afghanistan                                                 ,,
+67,Faroes                                                      ,,
+68,St.Kitts and Nevis                                          ,,
+69,Burkina Faso                                                ,,
+70,Honduras                                                    ,,
+71,Tuvalu                                                      ,,
+72,Anguilla                                                    ,,
+73,Lebanon                                                     ,,
+74,Turks and Caicos Islands                                    ,,
+75,Puerto Rico                                                 ,,
+76,Cuba                                                        ,,
+77,Sudan                                                       ,,
+78,Democratic People's Republic of Korea                       ,,
+79,Liberia                                                     ,,
+80,St.Pierre and Miquelon                                      ,,
+81,Antigua and Barbuda                                         ,,
+82,"Italy, San Marino and the Holy See                          ",,
+83,St.Vincent and the Grenadines                               ,,
+84,Egypt                                                       ,,
+85,Bermuda                                                     ,,
+86,Burundi                                                     ,,
+87,Yemen                                                       ,,
+88,Central African Republic                                    ,,
+89,Guinea-Bissau                                               ,,
+90,Lao People's Democratic Republic                            ,,
+91,Tunisia                                                     ,,
+92,Gabon                                                       ,,
+93,Benin                                                       ,,
+94,Bolivia                                                     ,,
+95,Mauritius                                                   ,,
+96,Nauru                                                       ,,
+97,Sao Tome and Principe                                       ,,
+98,C��te d'Ivoire                                          ,,
+99,France and Monaco                                           ,,
+100,State of Palestine                                          ,,
+101,Malaysia                                                    ,,
+102,Suriname                                                    ,,
+103,Cape Verde                                                  ,,
+104,Niue                                                        ,,
+105,Libya                                                       ,,
+106,St.Lucia                                                    ,,
+107,Mauritania                                                  ,,
+108,French Guiana                                               ,,
+109,Spain and Andorra                                           ,,
+110,North Korea                                                 ,,
+111,Gambia                                                      ,,
+112,Zimbabwe                                                    ,,
+113,Sudan and South Sudan                                       ,,
+114,Cameroon                                                    ,,
+115,Panama                                                      ,,
+116,Comoros                                                     ,,
+117,San Marino                                                  ,,
+118,Guinea Bissau                                               ,,
+119,Grenada                                                     ,,
+120,Botswana                                                    ,,
+121,Saudi Arabia                                                ,,
+122,Mozambique                                                  ,,
+123,Greenland                                                   ,,
+124,Venezuela                                                   ,,
+125,Cook Islands                                                ,,
+126,Macao                                                       ,,
+127,Guatemala                                                   ,,
+128,Oman                                                        ,,
+129,Republic of Yemen                                           ,,
+130,Bhutan                                                      ,,
+131,Hong Kong                                                   ,,
+132,Moldova                                                     ,,
+133,Ghana                                                       ,,
+134,Somalia                                                     ,,
+135,Cambodia                                                    ,,
+136,Equatorial Guinea                                           ,,
+137,Fiji                                                        ,,
+138,Eritrea                                                     ,,
+139,Chad                                                        ,,
+140,"Israel and Palestine, State of                              ",,
+141,Georgia                                                     ,,
+142,Tajikistan                                                  ,,
+143,Paraguay                                                    ,,
+144,United States                                               ,,
+145,Cabo Verde                                                  ,,
+146,Azerbaijan                                                  ,,
+147,Syria                                                       ,,
+148,Thailand                                                    ,,
+149,Philippines                                                 ,Western Pacific Region                            ,PHL
+150,Poland                                                      ,European Region                                   ,POL
+151,Portugal                                                    ,European Region                                   ,PRT
+152,Qatar                                                       ,Eastern Mediterranean Region                      ,QAT
+153,Romania                                                     ,European Region                                   ,ROU
+154,Senegal                                                     ,African Region                                    ,SEN
+155,Singapore                                                   ,Western Pacific Region                            ,SGP
+156,El Salvador                                                 ,Region of the Americas                            ,SLV
+157,Serbia                                                      ,European Region                                   ,SRB
+158,Slovakia                                                    ,European Region                                   ,SVK
+159,Slovenia                                                    ,European Region                                   ,SVN
+160,Sweden                                                      ,European Region                                   ,SWE
+161,Trinidad and Tobago                                         ,Region of the Americas                            ,TTO
+162,Turkey                                                      ,European Region                                   ,TUR
+163,Uganda                                                      ,African Region                                    ,UGA
+164,Ukraine                                                     ,European Region                                   ,UKR
+165,Uruguay                                                     ,Region of the Americas                            ,URY
+166,United States of America                                    ,Region of the Americas                            ,USA
+167,Uzbekistan                                                  ,European Region                                   ,UZB
+168,Viet Nam                                                    ,Western Pacific Region                            ,VNM
+169,South Africa                                                ,African Region                                    ,ZAF
+170,New Caledonia                                               ,,
+171,Maldives                                                    ,,
+172,Niger                                                       ,,
+173,Timor-Leste                                                 ,,
+174,Liechtenstein                                               ,,
+175,Belarus                                                     ,,
+176,Democratic Republic of Congo                                ,,
+177,South Sudan                                                 ,,
+178,"Saint Helena, Ascension and Tristan da Cunha                ",,
+179,Nicaragua                                                   ,,
+180,Kosovo                                                      ,,
+181,Djibouti                                                    ,,
+182,British Virgin Islands                                      ,,
+183,Democratic Republic of the Congo                            ,,
+184,Myanmar                                                     ,,
+185,Algeria                                                     ,,
+186,Belize                                                      ,,
+187,Barbados                                                    ,,
+188,Namibia                                                     ,,
+189,Togo                                                        ,,
+190,The Bahamas                                                 ,,
+191,Timor Leste                                                 ,,
+192,Solomon Islands                                             ,,
+193,Lesotho                                                     ,,
+194,Kyrgyzstan                                                  ,,
+195,Serbia and Montenegro                                       ,,
+196,Holy See                                                    ,,
+197,Jamaica                                                     ,,
+198,Guyana                                                      ,,
+199,Mali                                                        ,,
+200,Western Sahara                                              ,,
+201,Israel                                                      ,,
+202,Switzerland and Liechtenstein                               ,,
+203,Nigeria                                                     ,,
+204,Taiwan                                                      ,,
+205,Micronesia                                                  ,,
+206,New Zealand                                                 ,,
+207,Dominican Republic                                          ,,
+208,Marshall Islands                                            ,,
+209,Dominica                                                    ,,
+210,Samoa                                                       ,,
+211,Zambia                                                      ,,
+212,Armenia                                                     ,,
+213,Haiti                                                       ,,
+214,Turkmenistan                                                ,,
+215,Rwanda                                                      ,,
+216,Palau                                                       ,,
+217,Vanuatu                                                     ,,
+218,Russian Federation                                          ,,
+219,Madagascar                                                  ,,
+220,Kiribati                                                    ,,
+221,Angola                                                      ,,
+222,Martinique                                                  ,,
+223,Eswatini                                                    ,,
+224,Guadeloupe                                                  ,,
+225,Tanzania                                                    ,,
+226,Cura��ao                                                ,,
+227,Syrian Arab Republic                                        ,,
+228,R��union                                                ,,
+229,Albania                                                     ,,
+230,Cayman Islands                                              ,,
+231,Brunei Darussalam                                           ,,
+232,Chinese Taipei                                              ,,
+233,Falkland Islands                                            ,,
+234,S��o Tom�� and Pr��ncipe                        ,,
+235,Gibraltar                                                   ,,
+236,Papua New Guinea                                            ,,
+237,Guinea                                                      ,,
+238,Tonga                                                       ,,
+239,Seychelles                                                  ,,
+240,French Polynesia                                            ,,
