@@ -41,11 +41,14 @@ Data on which Countries are a part of the Paris Agreement and when they signed t
 Follow the instructions below to reproduce our analysis.
 
 ### Running the Code
-...
+There are two analysises that are a part of this project. ...
 
 ### Accessing the Data Through Oracle
 *The teaching team may choose to populate their own database with the SQL DDL file or they may 
 choose to use the Oracle account of someone on the team. State which student’s account we can use.*
 
+One way to access the data is to use Jade Bouchard and Neha Menon's oracle accounts to access the data as they have already run these files. To access the Country, City, and Air_Quality_Measures tables, you can use Jade Bouchard's account. To access the Country, Greenhouse_Gasses, Paris_Agreement_Member, and Climate_Risk_Index, you can use Neha Menon's account. Running the notebook [fetching_data.ipynb](fetching_data.ipynb) will access these accounts and put the resulting csv files in the [fetched_data](fetched_data) folder.
+
 ### Populating a Database Using the SQL DDL File
-...
+
+Another way the data can be accessed is by running the sql files [country_city_air-quality.sql](country_city_air-quality.sql) and [country_ghg_paris_cri.sql](country_ghg_paris_cri.sql) in an oracle session. These files will create the necessary tables and fill them with "INSERT VALUE" statements.
