@@ -15,7 +15,7 @@ We conducted two regression analyses:
 
 The data used in our analysis was originally derived from the following sources:
 
-### [Global Climate Risk Index by Country](https://www.germanwatch.org/sites/default/files/20-2-01e%20Global%20Climate%20Risk%20Index%202020_14.pdf)
+#### [Global Climate Risk Index by Country](https://www.germanwatch.org/sites/default/files/20-2-01e%20Global%20Climate%20Risk%20Index%202020_14.pdf)
 
 This dataset can be found on pages 37 to 43 of the linked pdf. It lists each country’s climate 
 risk index and is published by a group called Germanwatch. The climate risk index “indicates 
