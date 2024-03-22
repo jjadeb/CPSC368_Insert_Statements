@@ -1,4 +1,64 @@
 Country_Name,WHO_Region,ISO_CHAR
+Andorra                                                     ,European Region                                   ,AND
+United Arab Emirates                                        ,Eastern Mediterranean Region                      ,ARE
+Argentina                                                   ,Region of the Americas                            ,ARG
+Australia                                                   ,Western Pacific Region                            ,AUS
+Austria                                                     ,European Region                                   ,AUT
+Belgium                                                     ,European Region                                   ,BEL
+Bangladesh                                                  ,South East Asia Region                            ,BGD
+Bulgaria                                                    ,European Region                                   ,BGR
+Bahrain                                                     ,Eastern Mediterranean Region                      ,BHR
+Bahamas                                                     ,Region of the Americas                            ,BHS
+Bosnia and Herzegovina                                      ,European Region                                   ,BIH
+Brazil                                                      ,Region of the Americas                            ,BRA
+Canada                                                      ,Region of the Americas                            ,CAN
+Switzerland                                                 ,European Region                                   ,CHE
+Chile                                                       ,Region of the Americas                            ,CHL
+China                                                       ,Western Pacific Region                            ,CHN
+Colombia                                                    ,Region of the Americas                            ,COL
+Costa Rica                                                  ,Region of the Americas                            ,CRI
+Cyprus                                                      ,European Region                                   ,CYP
+Czech Republic                                              ,European Region                                   ,CZE
+Germany                                                     ,European Region                                   ,DEU
+Denmark                                                     ,European Region                                   ,DNK
+Ecuador                                                     ,Region of the Americas                            ,ECU
+Spain                                                       ,European Region                                   ,ESP
+Estonia                                                     ,European Region                                   ,EST
+Ethiopia                                                    ,African Region                                    ,ETH
+Finland                                                     ,European Region                                   ,FIN
+France                                                      ,European Region                                   ,FRA
+United Kingdom                                              ,European Region                                   ,GBR
+Greece                                                      ,European Region                                   ,GRC
+Croatia                                                     ,European Region                                   ,HRV
+Hungary                                                     ,European Region                                   ,HUN
+Indonesia                                                   ,South East Asia Region                            ,IDN
+India                                                       ,South East Asia Region                            ,IND
+Ireland                                                     ,European Region                                   ,IRL
+Iran (Islamic Republic of)                                  ,Eastern Mediterranean Region                      ,IRN
+Iraq                                                        ,Eastern Mediterranean Region                      ,IRQ
+Iceland                                                     ,European Region                                   ,ISL
+Italy                                                       ,European Region                                   ,ITA
+Jordan                                                      ,Eastern Mediterranean Region                      ,JOR
+Japan                                                       ,Western Pacific Region                            ,JPN
+Kazakhstan                                                  ,European Region                                   ,KAZ
+Kenya                                                       ,African Region                                    ,KEN
+Republic of Korea                                           ,Western Pacific Region                            ,KOR
+Kuwait                                                      ,Eastern Mediterranean Region                      ,KWT
+Sri Lanka                                                   ,South East Asia Region                            ,LKA
+Lithuania                                                   ,European Region                                   ,LTU
+Luxembourg                                                  ,European Region                                   ,LUX
+Latvia                                                      ,European Region                                   ,LVA
+Morocco                                                     ,Eastern Mediterranean Region                      ,MAR
+Monaco                                                      ,European Region                                   ,MCO
+Mexico                                                      ,Region of the Americas                            ,MEX
+North Macedonia                                             ,European Region                                   ,MKD
+Malta                                                       ,European Region                                   ,MLT
+Montenegro                                                  ,European Region                                   ,MNE
+Mongolia                                                    ,Western Pacific Region                            ,MNG
+Netherlands                                                 ,European Region                                   ,NLD
+Norway                                                      ,European Region                                   ,NOR
+Nepal                                                       ,South East Asia Region                            ,NPL
+Pakistan                                                    ,Eastern Mediterranean Region                      ,PAK
 Peru                                                        ,Region of the Americas                            ,PER
 Philippines                                                 ,Western Pacific Region                            ,PHL
 Poland                                                      ,European Region                                   ,POL
@@ -179,63 +239,3 @@ Cabo Verde                                                  ,,
 Azerbaijan                                                  ,,
 Syria                                                       ,,
 Thailand                                                    ,,
-Andorra                                                     ,European Region                                   ,AND
-United Arab Emirates                                        ,Eastern Mediterranean Region                      ,ARE
-Argentina                                                   ,Region of the Americas                            ,ARG
-Australia                                                   ,Western Pacific Region                            ,AUS
-Austria                                                     ,European Region                                   ,AUT
-Belgium                                                     ,European Region                                   ,BEL
-Bangladesh                                                  ,South East Asia Region                            ,BGD
-Bulgaria                                                    ,European Region                                   ,BGR
-Bahrain                                                     ,Eastern Mediterranean Region                      ,BHR
-Bahamas                                                     ,Region of the Americas                            ,BHS
-Bosnia and Herzegovina                                      ,European Region                                   ,BIH
-Brazil                                                      ,Region of the Americas                            ,BRA
-Canada                                                      ,Region of the Americas                            ,CAN
-Switzerland                                                 ,European Region                                   ,CHE
-Chile                                                       ,Region of the Americas                            ,CHL
-China                                                       ,Western Pacific Region                            ,CHN
-Colombia                                                    ,Region of the Americas                            ,COL
-Costa Rica                                                  ,Region of the Americas                            ,CRI
-Cyprus                                                      ,European Region                                   ,CYP
-Czech Republic                                              ,European Region                                   ,CZE
-Germany                                                     ,European Region                                   ,DEU
-Denmark                                                     ,European Region                                   ,DNK
-Ecuador                                                     ,Region of the Americas                            ,ECU
-Spain                                                       ,European Region                                   ,ESP
-Estonia                                                     ,European Region                                   ,EST
-Ethiopia                                                    ,African Region                                    ,ETH
-Finland                                                     ,European Region                                   ,FIN
-France                                                      ,European Region                                   ,FRA
-United Kingdom                                              ,European Region                                   ,GBR
-Greece                                                      ,European Region                                   ,GRC
-Croatia                                                     ,European Region                                   ,HRV
-Hungary                                                     ,European Region                                   ,HUN
-Indonesia                                                   ,South East Asia Region                            ,IDN
-India                                                       ,South East Asia Region                            ,IND
-Ireland                                                     ,European Region                                   ,IRL
-Iran (Islamic Republic of)                                  ,Eastern Mediterranean Region                      ,IRN
-Iraq                                                        ,Eastern Mediterranean Region                      ,IRQ
-Iceland                                                     ,European Region                                   ,ISL
-Italy                                                       ,European Region                                   ,ITA
-Jordan                                                      ,Eastern Mediterranean Region                      ,JOR
-Japan                                                       ,Western Pacific Region                            ,JPN
-Kazakhstan                                                  ,European Region                                   ,KAZ
-Kenya                                                       ,African Region                                    ,KEN
-Republic of Korea                                           ,Western Pacific Region                            ,KOR
-Kuwait                                                      ,Eastern Mediterranean Region                      ,KWT
-Sri Lanka                                                   ,South East Asia Region                            ,LKA
-Lithuania                                                   ,European Region                                   ,LTU
-Luxembourg                                                  ,European Region                                   ,LUX
-Latvia                                                      ,European Region                                   ,LVA
-Morocco                                                     ,Eastern Mediterranean Region                      ,MAR
-Monaco                                                      ,European Region                                   ,MCO
-Mexico                                                      ,Region of the Americas                            ,MEX
-North Macedonia                                             ,European Region                                   ,MKD
-Malta                                                       ,European Region                                   ,MLT
-Montenegro                                                  ,European Region                                   ,MNE
-Mongolia                                                    ,Western Pacific Region                            ,MNG
-Netherlands                                                 ,European Region                                   ,NLD
-Norway                                                      ,European Region                                   ,NOR
-Nepal                                                       ,South East Asia Region                            ,NPL
-Pakistan                                                    ,Eastern Mediterranean Region                      ,PAK

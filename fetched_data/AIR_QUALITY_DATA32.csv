@@ -1,5 +1,6 @@
 ID,Year,City_Name,Country_Name,NO2,PM10,PM25,NO2_TEMPORAL_COVERAGE,PM25_TEMPORAL_COVERAGE,PM10_TEMPORAL_COVERAGE
 18,2018,Escaldes-Engordany                                          ,Andorra                                                     ,27.0,23.0,,93.390411,,
+18,2018,Escaldes-Engordany                                          ,Andorra                                                     ,27.0,23.0,,93.390411,,
 26,2018,Abu Dhabi                                                   ,United Arab Emirates                                        ,31.0,130.0,49.0,,88.2938509,
 30,2018,Ajman                                                       ,United Arab Emirates                                        ,37.0,100.0,,,,
 44,2018,Dubai                                                       ,United Arab Emirates                                        ,56.0,100.0,54.0,,99.4856238,
