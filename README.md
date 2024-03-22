@@ -54,8 +54,8 @@ project/
 │   └──  GHG_DATA.csv
 ├── fetching_data.ipynb
 ├── analyses/
-|   ├──  Analysis1.ipynb
-|   ├──  Analysis2.ipynb
+|   ├──  AirPollutionAnalysis.ipynb
+|   ├──  ClimateRiskIndicesAnalysis.ipynb
 ```
 
 There are two analysises that are a part of this project. ...
