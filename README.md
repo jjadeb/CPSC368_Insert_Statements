@@ -41,6 +41,22 @@ Data on which Countries are a part of the Paris Agreement and when they signed t
 Follow the instructions below to reproduce our analysis.
 
 ### Running the Code
+In order for the analysis to run smoothly, the files should follow this structure:
+
+project/          
+├── fetched_data/                     
+│   ├──  AIR_QUALITY_DATA.csv
+│   ├──  CITY_DATA.csv
+│   ├──  COUNTRY_DATA.csv
+│   ├──  CRI.csv
+|   ├──  PARIS_AGREEMENT_DATA.csv
+│   └──  GHG_DATA.csv
+├── fetching_data.ipynb
+├── analyses/
+|   ├──  Analysis1.ipynb
+|   ├──  Analysis2.ipynb
+
+
 There are two analysises that are a part of this project. ...
 
 ### Accessing the Data Through Oracle
