@@ -61,21 +61,21 @@ project/
 There are two analyses that are a part of this project. Running [ClimateRiskIndicesAnalysis.ipynb](analyses/ClimateRiskIndicesAnalysis.ipynb) will run the analysis that examines the association between countries’ greenhouse gas emissions and their global climate risk indices. Running [AirPollutionAnalysis.ipynb](analyses/AirPollutionAnalysis.ipynb) will run the analysis that examines the association between countries’ greenhouse gas emissions and their their air pollution levels.
 
 Our analysis files have the following dependencies:
-- pandas
-- scikit-learn
-- statsmodels
-- seaborn
-- matplotlib
-- altair
-- oracledb
-- jupyter
+- `pandas`
+- `scikit-learn`
+- `statsmodels`
+- `seaborn`
+- `matplotlib`
+- `altair`
+- `oracledb`
+- `jupyter`
 
 ### Accessing the Data Through Oracle
 *The teaching team may choose to populate their own database with the SQL DDL file or they may 
 choose to use the Oracle account of someone on the team. State which student’s account we can use.*
 
-One way to access the data is to use Jade Bouchard and Neha Menon's oracle accounts to access the data as they have already run these files. To access the Country, City, and Air_Quality_Measures tables, you can use Jade Bouchard's account. To access the Country, Greenhouse_Gasses, Paris_Agreement_Member, and Climate_Risk_Index, you can use Neha Menon's account. Running the notebook [fetching_data.ipynb](fetching_data.ipynb) will access these accounts and put the resulting csv files in the [fetched_data](fetched_data) folder.
+One way to access the data is to use Jade Bouchard and Neha Menon's oracle accounts to access the data as they have already run these files. To access the `Country`, `City`, and `Air_Quality_Measures` tables, you can use Jade Bouchard's account. To access the `Country`, `Greenhouse_Gasses`, `Paris_Agreement_Member`, and `Climate_Risk_Index`, you can use Neha Menon's account. Running the notebook [fetching_data.ipynb](fetching_data.ipynb) will access these accounts and put the resulting csv files in the [fetched_data](fetched_data) folder.
 
 ### Populating a Database Using the SQL DDL File
 
-Another way the data can be accessed is by running the sql files [country_city_air-quality.sql](country_city_air-quality.sql) and [country_ghg_paris_cri.sql](country_ghg_paris_cri.sql) in an oracle session. These files will create the necessary tables and fill them with "INSERT VALUE" statements.
+Another way the data can be accessed is by running the sql files [country_city_air-quality.sql](country_city_air-quality.sql) and [country_ghg_paris_cri.sql](country_ghg_paris_cri.sql) in an oracle session. These files will create the necessary tables and fill them with `INSERT VALUE` statements.
