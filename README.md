@@ -3,7 +3,11 @@
 ### Jade Bouchard, Heidi Lantz, Neha Menon, & Lillian Milroy 
 
 In this project, we investigate whether the countries that suffer the most from extreme 
-weather events and air pollution are also the ones who emit the most greenhouse gasses.
+weather events and air pollution are also the ones who emit the most greenhouse gasses. To conduct this analysis,
+the climate risk index was used in addition to datasets providing air pollution and greenhouse gas emissions. Exploring
+this relationship will allow a deeper understanding of countries which are most affected by climate change, with respect
+to their global greenhouse gas emissions. This analysis can provide more insight into climate injustice and inequality, the
+idea that climate change affects countries disproportionately to their historical and current GHG contributions.
 
 ## About
 
