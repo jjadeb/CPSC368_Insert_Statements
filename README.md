@@ -43,19 +43,20 @@ Follow the instructions below to reproduce our analysis.
 ### Running the Code
 In order for the analysis to run smoothly, the files should follow this structure:
 
-</br> project/          
-</br> ├── fetched_data/                     
-</br> │   ├──  AIR_QUALITY_DATA.csv
-</br> │   ├──  CITY_DATA.csv
-</br> │   ├──  COUNTRY_DATA.csv
-</br> │   ├──  CRI.csv
-</br> |   ├──  PARIS_AGREEMENT_DATA.csv
-</br> │   └──  GHG_DATA.csv
-</br> ├── fetching_data.ipynb
-</br> ├── analyses/
-</br> |   ├──  Analysis1.ipynb
-</br> |   ├──  Analysis2.ipynb
-
+```
+project/          
+├── fetched_data/                     
+│   ├──  AIR_QUALITY_DATA.csv
+│   ├──  CITY_DATA.csv
+│   ├──  COUNTRY_DATA.csv
+│   ├──  CRI.csv
+|   ├──  PARIS_AGREEMENT_DATA.csv
+│   └──  GHG_DATA.csv
+├── fetching_data.ipynb
+├── analyses/
+|   ├──  Analysis1.ipynb
+|   ├──  Analysis2.ipynb
+```
 
 There are two analysises that are a part of this project. ...
 
