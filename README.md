@@ -58,7 +58,17 @@ project/
 |   ├──  ClimateRiskIndicesAnalysis.ipynb
 ```
 
-There are two analysises that are a part of this project. ...
+There are two analyses that are a part of this project. Running [ClimateRiskIndicesAnalysis.ipynb](ClimateRiskIndicesAnalysis.ipynb) will run the analysis that examines the association between countries’ greenhouse gas emissions and their global climate risk indices. Running [AirPollutionAnalysis.ipynb](AirPollutionAnalysis.ipynb) will run the analysis that examines the association between countries’ greenhouse gas emissions and their their air pollution levels.
+
+Our analysis files have the following dependencies:
+- pandas
+- scikit-learn
+- statsmodels
+- seaborn
+- matplotlib
+- altair
+- oracledb
+- jupyter
 
 ### Accessing the Data Through Oracle
 *The teaching team may choose to populate their own database with the SQL DDL file or they may 
