@@ -26,7 +26,16 @@ A more general concern that comes with data storage is the storage method becomi
 
 ### Preserving Data Provenance
 
-Data provenance in our case is a detailed account of the origin of the data, and each step where we make a change to the data. To describe the origins of the data we have a detailed account of how to access the original data sources. We also detail the trustworthiness and reliability of the data. One way to preserve data provenance is to create and maintain clear documentation around our code where we make changes to the data. For example, this can be in the form of function docstrings, comments alongside the code, and text cells. In addition, to ensure that no parts of that data cleaning are missed from public view, we could create a Makefile to automatically run the data cleaning and analysis. This makes our analysis more easily reproducible and helps ensure each step of the data cleaning process is recorded. Finally, publishing our analysis on a site such as GitHub helps with transparency. It gives the opportunity for other data enthusiasts to check our work and verify that data alteration steps are properly documented. Taking these steps to preserve data provenance will add to the trustworthiness of our analysis.
+Data provenance in our case is a detailed account of the origin of the data, and each step where we make a change to the data, both in our code and in our database. 
+
+To describe the origins of the data we have a detailed account of how to access the original data sources. We also detail the trustworthiness and reliability of the data. 
+
+One way to preserve data provenance with our code is to create and maintain clear documentation around our code where we make changes to the data. For example, this can be in the form of function docstrings, comments alongside the code, and text cells. In addition, to ensure that no parts of that data cleaning are missed from public view, we could create a Makefile to automatically run the data cleaning and analysis. This makes our analysis more easily reproducible and helps ensure each step of the data cleaning process is recorded. Also, publishing our analysis on a site such as GitHub helps with transparency. It gives the opportunity for other data enthusiasts to check our code and verify that data alteration steps are properly documented.
+
+In terms of documenting database changes overtime, we could create a document that details each change in the database structure. This document could have details such as the schema for each table. We could also include visuals to help the viewer understand what an instance of each table might look like. As time goes on and changes get made, these changes would be recorded in the document with a reason as to why a change was made. This document could help a user get a full picture of the data’s history. For example, if a user sees many NULL values in a column, through our document they could understand that this occurrence is due to the recent addition of the column to the table.
+
+Taking these steps to preserve data provenance will add to the trustworthiness of our analysis.
+
 
 
 
