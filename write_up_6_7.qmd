@@ -1,0 +1,32 @@
+
+
+### Future Directions
+
+In each of our regression analyses we focused on two independent variables, paris agreement status and greenhouse gas emissions. This limited scope was due to the strict timeline of the project. With more time, we would be interested in including other independent variables in our analysis. Some candidates for additional independent variables include continent as a categorical variable, a country’s GDP, and a country’s tree loss by fire. These are all variables that could potentially be associated with air quality and/or climate risk index.
+
+Another part of the analysis that could be expanded on if given more time is an exploratory analysis of the countries which have high greenhouse gas emissions, but good air quality, and a good climate risk index. Trinidad and Tobago is an example of a country that meets these requirements with a high greenhouse gas measurement of 37.3, but only has a score of 13.1 for NO2 and a 81.33 CRI score (higher is better).
+
+In addition, examining data across multiple years would be a way to extend our air quality vs greenhouse gas analysis. It would be interesting to plot the time series graphs of air quality and greenhouse gasses before performing the regression analysis. In addition, it is reasonable to assume that air quality may change with time. We attempted to use year as a variable for this analysis initially, however there was too much data to fit in our oracle databases.
+
+Also, this analysis focused on inference rather than prediction. To extend our analysis to predict air quality and climate risk index, we could split our data into training and test sets. We could then perform cross validation to tune the hyperparameters in our model. At the end, we could evaluate the model using mean squared prediction error. 
+
+Finally, this last topic is more deepening than extending, but still worth mentioning. Data cleaning is a section that we would have done more thoroughly, given the time. Sometimes country names in our datasets didn’t match up. For example, “Türkiye" vs “Turkey". We combed through the countries and feel that we have found the vast majority of these discrepancies. However, there are likely a couple that slipped past us. Taking more time to identify these countries could increase the number of data points in our analysis, improving the validity of our results. 
+
+Overall, there are many further topics of exploration around this analysis.
+
+### Long Term Data Storage Concerns
+
+One concern that comes with long term data storage is space and cost. By only using data for one year we managed to fit our data into two oracle database accounts. If we add data for future years, we would run out of space. Therefore we would either not be able to add new data, or need to pay for more space to store the data.
+
+Another concern about data storage in the long term is that country names may change. Changing country names in our database would be a bit of a challenge since we have country names in multiple tables such as `Air_Quality_Measures` and `Country_Name`. Forgetting to change the Country’s name in each table could lead to losing data points in our analysis. Investigation into how we can reduce this data duplication would help mitigate this future issue.
+
+One obstacle that is fairly un-avoidable is when Countries split up or merge. There has to be a decision made on how to treat these cases so that they are addressed consistently when they happen. For merging, a couple options are to treat the merged country as an entirely new country with no history, or to combine the data from both countries into one observation. For country splits, we can also treat each new country as entirely new countries or potentially decide on a way to divide previous data based on population size or land mass. City data has a similar issue and cities are more difficult to keep track of due to the sheer number of them.
+
+A more general concern that comes with data storage is the storage method becoming obsolete as time goes on. Using Oracle to store data may be fairly common now, however in 50 years there may not be many who understand how to retrieve data from an oracle database. Therefore, it is important for us to have detailed instructions on how to access the data.
+
+### Preserving Data Provenance
+
+Data provenance in our case is a detailed account of the origin of the data, and each step where we make a change to the data. To describe the origins of the data we have a detailed account of how to access the original data sources. We also detail the trustworthiness and reliability of the data. One way to preserve data provenance is to create and maintain clear documentation around our code where we make changes to the data. For example, this can be in the form of function docstrings, comments alongside the code, and text cells. In addition, to ensure that no parts of that data cleaning are missed from public view, we could create a Makefile to automatically run the data cleaning and analysis. This makes our analysis more easily reproducible and helps ensure each step of the data cleaning process is recorded. Finally, publishing our analysis on a site such as GitHub helps with transparency. It gives the opportunity for other data enthusiasts to check our work and verify that data alteration steps are properly documented. Taking these steps to preserve data provenance will add to the trustworthiness of our analysis.
+
+
+
