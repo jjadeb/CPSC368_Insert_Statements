@@ -65,20 +65,20 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import altair as alt
 import numpy as np
-np.seterr(invalid = 'ignore')
 
 air_quality_dat = pd.read_csv("fetched_data/AIR_QUALITY_DATA.csv")
 paris_agreement_dat = pd.read_csv("fetched_data/PARIS_AGREEMENT_DATA.csv")
 greenhouse_gas_dat = pd.read_csv("fetched_data/GHG_DATA.csv")
 
 merged_data = air_quality_dat.merge(paris_agreement_dat, how = "left", on = "Country_Name").merge(greenhouse_gas_dat, how = "left", left_on = ["Country_Name"], right_on = ["Country"])
-
 simplified_data = merged_data[["Country_Name", "NO2", "GHG_Emissions", "Date_Joined"]].rename(columns = {"Date_Joined":"Paris_Status"})
 
+warnings.filterwarnings("ignore", category = RuntimeWarning)
 simplified_data['NO2'] = simplified_data.groupby("Country_Name")['NO2'].transform(lambda x: x.fillna(x.median()))
 
 simplified_data_grouped = simplified_data.groupby('Country_Name')
 simplified_data_minimal = simplified_data_grouped.filter(lambda x: x['NO2'].notna().any())
+
 aggregated_data = simplified_data_minimal.groupby(['Country_Name',"GHG_Emissions","Paris_Status"]).sum().reset_index()
 
 one_hot_encoded_data = pd.get_dummies(aggregated_data, columns = ['Paris_Status']) 
@@ -98,7 +98,7 @@ sns.lmplot(x='GHG_Emissions', y='NO2', hue="Paris_Status", data=aggregated_data)
 ax = plt.gca()
 ax.set_title("Scatterplot of Air Quality vs GHG Emissions Split by Paris Agreement Status")
 ax.set_xlabel("Greenhouse Gas Emissions")
-ax.set_ylabel("NO2 Air Levels")
+test = ax.set_ylabel("NO2 Air Levels")
 ```
 
 First we will address the Air Quality Score regression analysis. We found that there was no significant association between air quality (represented by NO2), and Greenhouse Gas Emissions, split across Paris Agreement status. When assessing the validity of our results, we realized that perhaps there is not a linear association present between these variables, and further analysis is necessary to be confident in our results. It hinted at problems with heteroscedasticity, a non-normal distribution, and a large number of influential points. Therefore, we cannot draw any strong conclusions about this relationship, since we know that our findings are not statistically valid. It is important to additionally emphasize that there is the possibility of not being able to achieve significant results within this relationship. We feel we would need further analysis to feel confident enough to make any claims.
@@ -205,9 +205,9 @@ result = sm.OLS(y, X).fit()
 
 sns.lmplot(x = 'GHG_Emissions', y = 'CRI_SCORE', hue = "Paris_Status", data = simplified_data2)
 ax = plt.gca()
-ax.set_title("Scatterplot of Climate Risk Index Score vs GHG Emissions, Split by Paris Agreement Status")
+ax.set_title("Scatterplot of Air Quality vs GHG Emissions Split by Paris Agreement Status")
 ax.set_xlabel("Greenhouse Gas Emissions")
-ax.set_ylabel("Climate Risk Index Score")
+test = ax.set_ylabel("Climate Risk Index Score")
 ```
 
 Now we can observe the Climate Risk Index Score and the Greenhouse Gases relationship. In the end, we found that there was no significant association between climate risk index score and greenhouse gas emissions, split across Paris Agreement status. We can be fairly confident in our results, since we were satisfied that our data is normally distributed and follows the homoscedasticity assumption. If we were to continue, we would like to further analyze how our influential points impact our data, and what that truly means in this context. These findings are particularly interesting because although we found there was no association, this still can mean something in the context of the data. 
