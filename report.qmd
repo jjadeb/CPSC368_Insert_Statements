@@ -314,14 +314,17 @@ Finally, databases facilitate the exchange of information across various discipl
 
 ## References
 
-Crippa, M., Guizzardi, D., Pagani, F., Banja, M., Muntean, M., Schaaf E., Becker, W., Monforti-Ferrario, 
-F., Quadrelli, R., Risquez Martin, A., Taghavi-Moharamli, P., Köykkä, J., Grassi, G., Rossi, S., 
-Brandao De Melo, J., Oom, D., Branco, A., San-Miguel, J., Vignati, E. (2023, September). *EDGAR GHG Emissions* 
-[Data set]. Publications Office of the European Union, Luxembourg. [doi:10.2760/953322](doi:10.2760/953322).
+Crippa, M., Guizzardi, D., Pagani, F., Banja, M., Muntean, M., Schaaf E., Becker, W., Monforti-Ferrario,   
+&nbsp;&nbsp;&nbsp;&nbsp;F., Quadrelli, R., Risquez Martin, A., Taghavi-Moharamli, P., Köykkä, J., Grassi, G., Rossi, S., Brandao   
+&nbsp;&nbsp;&nbsp;&nbsp;De Melo, J., Oom, D., Branco, A., San-Miguel, J., Vignati, E. (2023, September). *EDGAR GHG     
+&nbsp;&nbsp;&nbsp;&nbsp;Emissions* [Data set]. Publications Office of the European Union, Luxembourg. [doi:10.2760/953322](doi:10.2760/953322).
 
-Eckstein, D., Künzel, V., Schäfer, L., & Winges, M. (2019, December). *GLOBAL CLIMATE RISK INDEX 2020*. 37-43. [https://www.germanwatch.org](https://www.germanwatch.org/sites/default/files/20-2-01e%20Global%20Climate%20Risk%20Index%202020_14.pdf).
+Eckstein, D., Künzel, V., Schäfer, L., & Winges, M. (2019, December). *GLOBAL CLIMATE RISK    
+&nbsp;&nbsp;&nbsp;&nbsp;INDEX 2020*. 37-43. [https://www.germanwatch.org](https://www.germanwatch.org/sites/default/files/20-2-01e%20Global%20Climate%20Risk%20Index%202020_14.pdf).
 
-*Excel version of the database - Ambient (outdoor) air quality database, by country and city* [Data set]. (2022, December 19). World Health Organization: Air Quality, Energy and Health Unit, & Environment, Climate Change and Health Unit. [https://www.who.int](​​https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database/2022).
+*Excel version of the database - Ambient (outdoor) air quality database, by country and city* [Data set].    
+&nbsp;&nbsp;&nbsp;&nbsp;(2022, December 19). World Health Organization: Air Quality, Energy and Health Unit, &    
+&nbsp;&nbsp;&nbsp;&nbsp;Environment, Climate Change and Health Unit. [https://www.who.int](​​https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database/2022).
 
 Paris Agreement, December 12, 2015, [https://treaties.un.org](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en).
 
