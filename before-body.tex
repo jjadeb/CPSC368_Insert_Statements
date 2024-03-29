@@ -1,0 +1,26 @@
+$if(has-frontmatter)$
+\frontmatter
+$endif$
+$if(title)$
+\clearpage
+\thispagestyle{empty}
+{\centering
+\hbox{}\vskip 0cm plus 1fill
+{\Huge\bfseries $title$ \par}
+$if(subtitle)$
+\vspace{3ex}
+{\Large\bfseries $subtitle$ \par}
+$endif$
+\vspace{12ex}
+{\Large $team-name$ \par} 
+\vspace{6ex}
+{\Large\bfseries $author$ \par}
+\vskip 0cm plus 2fill
+{\bfseries\large CPSC 368 \par}
+\vspace{3ex}
+{\bfseries\large $date$ \par}
+\par}
+\clearpage
+$endif$
+
+\clearpage
