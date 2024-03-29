@@ -1,0 +1,267 @@
+---
+title: "Assignment 6: Project Write Up"
+author: "**DataDudes:** Jade Bouchard, Heidi Lantz, Neha Menon, & Lillian Milroy"
+format: 
+    html:
+        toc: true
+        toc-depth: 2
+    pdf:
+        toc: true
+        toc-depth: 2
+        fig-pos: "H"
+execute:
+    echo: false
+---
+
+# Introduction
+
+Climate change, commonly characterized by increased greenhouse gas concentrations in the atmosphere, has gained significant attention over the last decade. As causes of climate change have been widely discussed and debated, it has been proved and concluded that the burning of fossil fuels releases large volumes of CO2 into the atmosphere. This interferes with numerous natural processes, leads to global warming, ocean acidification and interrupts many ecosystem interactions. The effects of climate change affect areas of the globe differently, and disproportionately leading to a term yet to be fully explored- climate injustice. Our project aims to investigate climate injustice further, attempting to answer questions if there is a relationship between countries' contributions to climate change, and their susceptibility to the effects. We propose an analysis of countries GHG emission data, and its relation to the respective climate risk index rating and air quality. 
+
+# Datasets
+
+The four datasets chosen for this project were the Emissions Database for Global Atmospheric Research (EDGAR) CO2 emissions dataset, WHO Air Quality dataset, UN Treaty Collections Paris Agreement Dataset and the Germanwatch Global Climate Risk Index dataset. 
+ 
+All these datasets were chosen from reputable sources, and the data was collected reliably and can be trusted. This was a criterion when choosing our datasets as to conduct a trustworthy and accurate analysis, the data source must be trusted. 
+ 
+When choosing these datasets, we wanted to ensure that they were all comprehensive in terms of coverage and had reported values for a high proportion of countries. This would ensure our analysis would have global implications and wasn’t skewed towards a certain region based on data used for the analysis. In addition, our project wanted to answer if countries who had the highest emissions were affected by climate change (high CRI rating and poor air quality), therefore we needed to ensure that our datasets had data available for the same time periods and multiple consecutive years, to account for years that may act as outliers, deviating from a country’s normal behavior. 
+
+# Data Preprocessing
+
+Our datasets required some data cleaning to be performed, and we started with standardizing the column names to be identical to each other. This was done as some had extra spaces, or dashes, and they needed to be the same for our SQL code to run. 
+ 
+Next, we removed any null/non-country rows to simplify the dataset and ensure any of the data we were creating insert statements from had values that could be used in our analysis. We noticed in the GHG emissions dataset that all the years were in one column, but this is not consistent with tidy format. Therefore, columns were created for each year, where each cell was the observation of CO2 emitted by a respective country in a specific year.  
+When generating our SQL insert statements, it was important to standardize the country names to ensure that all the datasets contained the same country names. For example, some datasets had an entry for Brunei, while others referred to it as Brunei Darussalam or Russia/Russian Federation. There were many other examples of the same countries having different names among the various datasets used, and these all needed to be the same. 
+
+# Methodology
+
+Our aim is to analyze if the countries that suffer the most from extreme weather events and air pollution are also the ones who emit the most greenhouse gasses. This would be an interesting analysis since we could potentially draw some useful conclusions as to why these greenhouse gasses are being emitted and what helps cause this.
+
+We had chosen to analyze this through two linear regression models. These would check the association between countries' greenhouse gas emissions and their global climate risk indices, as well as the association between countries' greenhouse gas emissions and their air pollution. We chose to not do multiple linear regression since we were focused on understanding the individual association of each independent variable with greenhouse gas emissions.
+
+We decided it was the best option because it would be more interpretable than something such as a KNN regression. We will end up with coefficients that are fairly easy to understand and interpret with the data. Additionally, this model would be complex enough that it can capture and estimate the rate of change as one variable increases. That is why we decided the regression model method is the best option for this scenario.
+
+We can verify our selected option by investigating the presence of homoscedasticity in our models, checking the residual plots, and assessing if there are any influential points present in the data. This all gives us important information pertaining to if the error is constant across the values of the dependent variable, if there are patterns in the residual plots indicating a linear model isn't a good fit, and whether certain points affect our results for the rest of the data. It allows us to discern whether we can rely on our results and if they have significance.
+
+The verification of our data is the statistical rigor in our analysis that makes our results truly meaningful. It allows us to examine whether our results are reliable, and if we can talk about them with confidence to an audience.
+
+Our findings do support that this was the best option, especially for the Global Climate Risk Index and Greenhouses Gasses analysis. Although we will see that we did not find any association with the Climate Risk Index, it still has an important meaning to it since we were able to statistically verify these results. The data appeared to be normally distributed, it didn’t seem to have any problems with heteroscedasticity, and we did not think any influential points negatively impacted the data or needed to be removed. 
+
+The Air quality analysis had some problems in the verification section. It hinted at problems with heteroscedasticity, a non-normal distribution, and a large number of influential points. This may suggest that linear regression may not have been the best solution for that specific problem, however it is important to note that it may not be possible to achieve significant results in this scenario. Attempting the problem and finding no indication of a linear relationship is still valuable results for our analysis. With more time, we could further look into how these variables relate and what it means in the context of this example.
+
+Our methods allow us to further discuss and look into how our results are represented in our real-world example. In the following question we can see what our results produced and discuss how even if we are not able to conclude anything, it still creates meaningful insight and discussion.
+
+# Results
+
+Included below are the two visualizations we created:
+The plots show the data with fitted regressions lines and confidence bounds.
+
+```{python}
+import pandas as pd
+import warnings
+from sklearn.linear_model import Ridge
+import statsmodels.regression.linear_model as sm
+import statsmodels.tools.tools as t
+import seaborn as sns
+import matplotlib.pyplot as plt
+import altair as alt
+import numpy as np
+
+air_quality_dat = pd.read_csv("fetched_data/AIR_QUALITY_DATA.csv")
+paris_agreement_dat = pd.read_csv("fetched_data/PARIS_AGREEMENT_DATA.csv")
+greenhouse_gas_dat = pd.read_csv("fetched_data/GHG_DATA.csv")
+
+merged_data = air_quality_dat.merge(paris_agreement_dat, how = "left", on = "Country_Name").merge(greenhouse_gas_dat, how = "left", left_on = ["Country_Name"], right_on = ["Country"])
+simplified_data = merged_data[["Country_Name", "NO2", "GHG_Emissions", "Date_Joined"]].rename(columns = {"Date_Joined":"Paris_Status"})
+
+warnings.filterwarnings("ignore", category = RuntimeWarning)
+simplified_data['NO2'] = simplified_data.groupby("Country_Name")['NO2'].transform(lambda x: x.fillna(x.median()))
+
+simplified_data_grouped = simplified_data.groupby('Country_Name')
+simplified_data_minimal = simplified_data_grouped.filter(lambda x: x['NO2'].notna().any())
+
+aggregated_data = simplified_data_minimal.groupby(['Country_Name',"GHG_Emissions","Paris_Status"]).sum().reset_index()
+
+one_hot_encoded_data = pd.get_dummies(aggregated_data, columns = ['Paris_Status']) 
+one_hot_encoded_data[['Paris_Status_A         ',
+       'Paris_Status_AA        ', 'Paris_Status_None      ',
+       'Paris_Status_R         ']] = one_hot_encoded_data[['Paris_Status_A         ',
+       'Paris_Status_AA        ', 'Paris_Status_None      ',
+       'Paris_Status_R         ']].astype(int)
+
+X = one_hot_encoded_data.drop(columns = ["NO2","Country_Name"])
+X = t.add_constant(X)
+y = one_hot_encoded_data[["NO2"]]
+
+result = sm.OLS(y, X).fit()
+
+sns.lmplot(x='GHG_Emissions', y='NO2', hue="Paris_Status", data=aggregated_data)
+ax = plt.gca()
+ax.set_title("Scatterplot of Air Quality vs GHG Emissions Split by Paris Agreement Status")
+ax.set_xlabel("Greenhouse Gas Emissions")
+test = ax.set_ylabel("NO2 Air Levels")
+```
+
+First we will address the Air Quality Score regression analysis. We found that there was no significant association between air quality (represented by NO2), and Greenhouse Gas Emissions, split across Paris Agreement status. When assessing the validity of our results, we realized that perhaps there is not a linear association present between these variables, and further analysis is necessary to be confident in our results. It hinted at problems with heteroscedasticity, a non-normal distribution, and a large number of influential points. Therefore, we cannot draw any strong conclusions about this relationship, since we know that our findings are not statistically valid. It is important to additionally emphasize that there is the possibility of not being able to achieve significant results within this relationship. We feel we would need further analysis to feel confident enough to make any claims.
+
+```{python}
+import pandas as pd
+import numpy as np
+import warnings
+from sklearn.linear_model import Ridge
+import statsmodels.regression.linear_model as sm
+import statsmodels.graphics.gofplots as smg
+import statsmodels.tools.tools as t
+import seaborn as sns
+import matplotlib.pyplot as plt
+from itertools import zip_longest
+import altair as alt
+
+climate_risk_dat = pd.read_csv("fetched_data/CRI.csv")
+paris_agreement_dat = pd.read_csv("fetched_data/PARIS_AGREEMENT_DATA.csv")
+greenhouse_gas_dat = pd.read_csv("fetched_data/GHG_DATA.csv")
+
+climate_risk_dat['Country_Name'] = climate_risk_dat['Country_Name'].astype("string")
+paris_agreement_dat['Country_Name'] = paris_agreement_dat['Country_Name'].astype("string")
+greenhouse_gas_dat['Country'] = greenhouse_gas_dat['Country'].astype("string")
+
+def alter_country_name(dataset, alter_dict, country_column_name):
+    '''change country names in a dataset so it matches the values in other datasets
+       example-- changing Brunei to Brunei Darussalam in one dataset so all datasets refer to Brunei in the same way
+
+       INPUTS:
+       dataset: dataset for which we are altering the country name
+       change_dict: a dictionary where the key is country name we want to alter and the value is what we are changing to
+       country_column_name: the column name of the column that contains countries
+
+       RETURNS:
+       altered dataset
+       '''
+    for original, changed in alter_dict.items():
+        dataset[country_column_name] = dataset[country_column_name].str.strip() # This removes spaces on either side of the country name
+        dataset.loc[dataset[country_column_name] == original, country_column_name] = changed
+    return dataset
+
+cr_data_matched = alter_country_name(climate_risk_dat, {'Cape Verde': 'Cabo Verde',
+                                                        'Democratic Republic of Congo': 'Democratic Republic of the Congo',
+                                                        'The Bahamas': 'Bahamas'
+                                                       },
+                                     "Country_Name")
+
+paris_data_matched = alter_country_name(paris_agreement_dat, {'Timor Leste': 'Timor-Leste'},
+                                        "Country_Name")
+
+ghg_data_matched = alter_country_name(greenhouse_gas_dat, {'France and Monaco': 'France',
+                                                           'Guinea-Bissau': 'Guinea Bissau',
+                                                           'Israel and Palestine, State of': 'Israel',
+                                                           'Italy, San Marino and the Holy See': 'Italy',
+                                                           'United States': 'United States of America',
+                                                           'Yemen': 'Republic of Yemen',
+                                                           'Spain and Andorra': 'Spain',
+                                                           'Switzerland and Liechtenstein': 'Switzerland'
+                                                          },
+                                      "Country")
+
+sm_index = ghg_data_matched[ghg_data_matched['Country'] == 'Serbia and Montenegro'].index
+sm_emissions_val = ghg_data_matched.loc[sm_index, 'GHG_Emissions'].values[0] / 2
+sm_new_rows = pd.DataFrame([{'Country': 'Serbia', 'GHG_Emissions': sm_emissions_val},\
+                            {'Country': 'Montenegro', 'GHG_Emissions': sm_emissions_val}])
+ghg_data_split = pd.concat([ghg_data_matched, sm_new_rows], ignore_index=True)
+ghg_data_split = ghg_data_split[ghg_data_split['Country'] != 'Serbia and Montenegro']
+ghg_data_split.sort_values(by = 'Country', inplace = True)
+
+ssd_index = ghg_data_split[ghg_data_split['Country'] == 'Sudan and South Sudan'].index
+ssd_emissions_val = ghg_data_split.loc[ssd_index, 'GHG_Emissions'].values[0] / 2
+ssd_new_rows = pd.DataFrame([{'Country': 'Sudan', 'GHG_Emissions': ssd_emissions_val},
+                             {'Country': 'South Sudan', 'GHG_Emissions': ssd_emissions_val}])
+ghg_data_split = pd.concat([ghg_data_split, ssd_new_rows], ignore_index=True)
+ghg_data_split = ghg_data_split[ghg_data_split['Country'] != 'Sudan and South Sudan']
+ghg_data_split.sort_values(by = 'Country', inplace = True)
+
+merged_data = cr_data_matched.merge(paris_data_matched, how = "left", on = "Country_Name").merge(
+    ghg_data_split, how = "left", left_on = ["Country_Name"], right_on = ["Country"])
+
+simplified_data = merged_data[["Country_Name", "CRI_SCORE", "GHG_Emissions", "Date_Joined"]].rename(columns = {"Date_Joined":"Paris_Status"})
+
+drop_countries = ['Chinese Taipei', 'Tuvalu', 'Kosovo', 'Marshall Islands', 'Micronesia', 'Puerto Rico']
+simplified_data2 = simplified_data[~simplified_data['Country_Name'].isin(drop_countries)]
+
+one_hot_encoded_data = pd.get_dummies(simplified_data2, columns = ['Paris_Status']) 
+one_hot_encoded_data[
+        ['Paris_Status_A         ', 
+         'Paris_Status_AA        ', 
+         'Paris_Status_None      ', 
+         'Paris_Status_R         ',
+         'Paris_Status_a         ']] = one_hot_encoded_data[['Paris_Status_A         ', 
+                                                             'Paris_Status_AA        ', 
+                                                             'Paris_Status_None      ',
+                                                             'Paris_Status_R         ',
+                                                             'Paris_Status_a         ']].astype(int)
+
+X = one_hot_encoded_data.drop(columns = ["CRI_SCORE", "Country_Name"])
+X = t.add_constant(X)
+y = one_hot_encoded_data[["CRI_SCORE"]]
+
+result = sm.OLS(y, X).fit()
+
+sns.lmplot(x = 'GHG_Emissions', y = 'CRI_SCORE', hue = "Paris_Status", data = simplified_data2)
+ax = plt.gca()
+ax.set_title("Scatterplot of Air Quality vs GHG Emissions Split by Paris Agreement Status")
+ax.set_xlabel("Greenhouse Gas Emissions")
+test = ax.set_ylabel("Climate Risk Index Score")
+```
+
+Now we can observe the Climate Risk Index Score and the Greenhouse Gases relationship. In the end, we found that there was no significant association between climate risk index score and greenhouse gas emissions, split across Paris Agreement status. We can be fairly confident in our results, since we were satisfied that our data is normally distributed and follows the homoscedasticity assumption. If we were to continue, we would like to further analyze how our influential points impact our data, and what that truly means in this context. These findings are particularly interesting because although we found there was no association, this still can mean something in the context of the data. 
+
+We know that the Global Climate Risk Index explains how much a country has been affected by extreme weather events. We also know that Greenhouse Gas Emissions have a massive impact on the health of the planet and is something we want to reduce to help increase the length of life on Earth. If we can find countries that emit more Greenhouse Gases and why this is the case, then maybe we can find solutions to reduce this. However, our findings suggest that extreme weather events do not seem to be associated with a country's emissions. This is an important finding because we do not want certain countries to have an "excuse" as to why they disproportionately emit more greenhouse gasses in comparison. We need to regulate greenhouse gasses and finding causes of this (or lack thereof) is what will help us to make improvements. 
+
+Overall, we found that there is no relationship present between the Climate Risk Index Score and Greenhouse Gasses. This helps advance our understanding in the causes of Greenhouse Gasses and lets us learn more about what countries should be considering. 
+
+# Future Directions
+
+In each of our regression analyses we focused on two independent variables, paris agreement status and greenhouse gas emissions. This limited scope was due to the strict timeline of the project. With more time, we would be interested in including other independent variables in our analysis. Some candidates for additional independent variables include continent as a categorical variable, a country’s GDP, and a country’s tree loss by fire. These are all variables that could potentially be associated with air quality and/or climate risk index.
+
+Another part of the analysis that could be expanded on if given more time is an exploratory analysis of the countries which have high greenhouse gas emissions, but good air quality, and a good climate risk index. Trinidad and Tobago is an example of a country that meets these requirements with a high greenhouse gas measurement of 37.3, but only has a score of 13.1 for NO2 and a 81.33 CRI score (higher is better).
+
+In addition, examining data across multiple years would be a way to extend our air quality vs greenhouse gas analysis. It would be interesting to plot the time series graphs of air quality and greenhouse gasses before performing the regression analysis. In addition, it is reasonable to assume that air quality may change with time. We attempted to use year as a variable for this analysis initially, however there was too much data to fit in our oracle databases.
+
+Also, this analysis focused on inference rather than prediction. To extend our analysis to predict air quality and climate risk index, we could split our data into training and test sets. We could then perform cross validation to tune the hyperparameters in our model. At the end, we could evaluate the model using mean squared prediction error. 
+
+Finally, this last topic is more deepening than extending, but still worth mentioning. Data cleaning is a section that we would have done more thoroughly, given the time. Sometimes country names in our datasets didn’t match up. For example, “Türkiye" vs “Turkey". We combed through the countries and feel that we have found the vast majority of these discrepancies. However, there are likely a couple that slipped past us. Taking more time to identify these countries could increase the number of data points in our analysis, improving the validity of our results. 
+
+Overall, there are many further topics of exploration around this analysis.
+
+# Data Concerns 
+
+## a) Long Term Data Storage
+
+One concern that comes with long term data storage is space and cost. By only using data for one year we managed to fit our data into two oracle database accounts. If we add data for future years, we would run out of space. Therefore we would either not be able to add new data, or need to pay for more space to store the data.
+
+Another concern about data storage in the long term is that country names may change. Changing country names in our database would be a bit of a challenge since we have country names in multiple tables such as `Air_Quality_Measures` and `Country_Name`. Forgetting to change the Country’s name in each table could lead to losing data points in our analysis. Investigation into how we can reduce this data duplication would help mitigate this future issue.
+
+One obstacle that is fairly un-avoidable is when Countries split up or merge. There has to be a decision made on how to treat these cases so that they are addressed consistently when they happen. For merging, a couple options are to treat the merged country as an entirely new country with no history, or to combine the data from both countries into one observation. For country splits, we can also treat each new country as entirely new countries or potentially decide on a way to divide previous data based on population size or land mass. City data has a similar issue and cities are more difficult to keep track of due to the sheer number of them.
+
+A more general concern that comes with data storage is the storage method becoming obsolete as time goes on. Using Oracle to store data may be fairly common now, however in 50 years there may not be many who understand how to retrieve data from an oracle database. Therefore, it is important for us to have detailed instructions on how to access the data.
+
+## b) Data Provenance
+
+Data provenance in our case is a detailed account of the origin of the data, and each step where we make a change to the data, both in our code and in our database. 
+
+To describe the origins of the data we have a detailed account of how to access the original data sources. We also detail the trustworthiness and reliability of the data. 
+
+One way to preserve data provenance with our code is to create and maintain clear documentation around our code where we make changes to the data (such as when we perform imputation). For example, this can be in the form of function docstrings, comments alongside the code, and text cells. In addition, to ensure that no parts of that data cleaning are missed from public view, we could create a Makefile to automatically run the data cleaning and analysis. This makes our analysis more easily reproducible and helps ensure each step of the data cleaning process is recorded. Also, publishing our analysis on a site such as GitHub helps with transparency. It gives the opportunity for other data enthusiasts to check our code and verify that data alteration steps are properly documented.
+
+In terms of documenting database changes overtime, we could create a document that details each change in the database structure. This document could have details such as the schema for each table. We could also include visuals to help the viewer understand what an instance of each table might look like. As time goes on and changes get made, these changes would be recorded in the document with a reason as to why a change was made. This document could help a user get a full picture of the data’s history. For example, if a user sees many NULL values in a column, through our document they could understand that this occurrence is due to the recent addition of the column to the table.
+
+Taking these steps to preserve data provenance will add to the trustworthiness of our analysis.
+
+# Database Merit
+
+The amount of climate data being generated is growing exponentially, and with it, our need for well-designed platforms capable of efficiently storing information of this scale and import.
+
+The scope and volume of climate-related data generally favors a database, as opposed to individual data files. Databases preserve and uphold data integrity mechanisms like constraints that are not enforced by data files, though they are critical to capturing the intricacies of complex data.
+
+Databases are highly interoperable, allowing ease of use across many different platforms and operating systems. The scalability offered by a database is particularly important given the semantics of this data, providing a framework which allows the dataset to grow in magnitude over time without sacrificing optimization of data storage. Consistency in this area also supports the ability of researchers to perform querying operations on the data and perform subsequent research.
+
+The importance of climate-related data necessitates robust security checks, both in terms of sensitivity and data loss prevention. Databases typically possess mechanisms that handle data backup and recovery, as well as authentication and encryption abilities, ensuring the preservation and availability of data. 
+
+Finally, databases facilitate the exchange of information across various disciplines, organizations, and even nations. Fostering a culture of cooperation and unity is vital to the field of climate science, because meaningful change cannot be achieved without coordinating efforts at the international level. This unique capability of databases renders them powerful assets for researchers, policymakers, enabling collaborative action towards fighting climate change.
